@@ -1,3 +1,4 @@
+ID: 01
 TITLE:鹿lu4 柴cai2  
 AUTHOR:王wang2 维wei2
 BODY:
@@ -7,6 +8,7 @@ BODY:
 复fu4 照zhao4 青qing1 苔tai1 上shang4.
 END
 
+ID: 02
 TITLE:竹zu2 里li3 馆guan3
 AUTHOR:王wang2 维wei2
 BODY:
@@ -16,6 +18,7 @@ BODY:
 明ming2 月yue4 来lai2 相xiang1 照zhao4.
 END
 
+ID: 03
 TITLE:送song4 别bie2
 AUTHOR:王wang2 维wei2
 BODY:
@@ -25,6 +28,7 @@ BODY:
 王wang2 孙sun1 归gui1 不bu4 归gui1?
 END
 
+ID: 04
 TITLE:相xiang1 思si1
 AUTHOR:王wang2 维wei2
 BODY:
@@ -175,57 +179,60 @@ END
 
 
 TITLE:玉yu4 台tai2 体ti3 
-AUTHOR
-权德舆
+AUTHOR:权quan2 德de2 舆yu2
+BODY:
+昨zuo2 夜ye4 裙qun2 带dai4 解jie3,
+今jin1 朝zhao1［虫chong2 喜xi3］子zi3 飞fei1.
+铅qian1 华hua2 不bu4 可ke3 弃qi4,
+莫mo4 是shi4 藁gao3 砧zhen1 归gui1.
+END
 
-昨夜裙带解，今朝［虫喜］子飞。
-铅华不可弃，莫是藁砧归。
-返回
+TITLE:江jiang1 雪xue3
+AUTHOR:柳liu3 宗zong1 元yuan2
+BODY:
+千qian1 山shan1 鸟niao3 飞fei1 绝jue2,
+万wan4 径jing4 人ren2 踪zong1 灭mie4.
+孤gu1 舟zhou1 蓑suo1 笠li4 翁weng1,
+独du2 钓diao4 寒han2 江jiang1 雪xue3.
+END
 
+TITLE:行xing2 宫gong1
+AUTHOR:元yuan2 稹zhen3 
+BODY:
+寥liao2 落luo4 古gu3 行xing2 宫gong1,
+宫gong1 花hua1 寂ji4 寞mo4 红hong2.
+白bai2 头tou2 宫gong1 女nv3 在zai4,
+闲xian2 坐zuo4 说shuo1 玄xuan2 宗zong1.
+END
 
-江雪
-
-柳宗元
-
-千山鸟飞绝，万径人踪灭。
-孤舟蓑笠翁，独钓寒江雪。
-返回
-
-
-行宫
-
-元稹
-
-寥落古行宫，宫花寂寞红。
-白头宫女在，闲坐说玄宗。
-返回
-
-
-问刘十九
-
-白居易
-
-绿蚁新醅酒，红泥小火炉。
-晚来天欲雪，能饮一杯无？
-返回
-
-
-何满子
-
-张祜
-
-故国三千里，深宫二十年。
-一声何满子，双泪落君前。
-返回
+TITLE:问wen4 刘liu2 十shi2 九jiu3
+AUTHOR:白bai2 居ju1 易yi4
+BODY:
+绿lv4 蚁yi3 新xin1 醅pei2 酒jiu3,
+红hong2 泥ni2 小xiao3 火huo3 炉lu2.
+晚wan3 来lai2 天tian1 欲yu4 雪xue3,
+能neng2 饮yin3 一yi1 杯bei1 无wu2?
+END
 
 
-登乐游原
+TITLE:何he2 满man3 子zi3
+AUTHOR:张zhang1 祜hu4
+BODY:
+故gu4 国guo2 三san1 千qian1 里li3,
+深shen1 宫gong1 二er4 十shi2 年nian2.
+一yi1 声sheng1 何he2 满man3 子zi3,
+双shuang1 泪lei4 落luo4 君jun1 前qian2.
+END
 
-李商隐
 
-向晚意不适，驱车登古原。
-夕阳无限好，只是近黄昏。
-返回
+TITLE:登乐游原
+AUTHOR:李li3 商shang1 隐yin3
+BODY:
+向xiang4 晚wan3 意yi4 不bu4/bu2 适shi4,
+驱qu1 车che1 登deng1 古gu3 原yuan2.
+夕xi1 阳yang2 无wu2 限xian4 好hao3,
+只zhi3 是shi4 近jin4 黄huang2 昏hun1.
+END
 
 
 寻隐者不遇
