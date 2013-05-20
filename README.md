@@ -1,4 +1,4 @@
 CS69
 ====
 
-OpenCVcodes
+This is datafiles for my Engs112 projects.
