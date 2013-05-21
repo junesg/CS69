@@ -1,4 +1,4 @@
-ID: 01
+ID:01
 TITLE:鹿lu4 柴cai2  
 AUTHOR:王wang2 维wei2
 FORMAT: 
@@ -7,8 +7,11 @@ FORMAT:
 ==(scene)|=|==(scene)
 ==(+)|==(scene)|=
 EMOTIONS:
-闲适,清新,静寂,幽静
-CATEGORY:life
+清泠,幽静,虚无,幽暗,静美
+CATEGORY:life,solitude
+COMPARISONS:
+silence vs sound
+dark vs light
 BODY:
 空kong1 山shan1 不bu4 见jian4 人ren2,
 但dan4 闻wen2 人ren2 语yu3 响xiang3.
@@ -17,14 +20,20 @@ BODY:
 END
 
 
-ID: 02
+ID:02
 TITLE:竹zu2 里li3 馆guan3
 AUTHOR:王wang2 维wei2
 FORMAT: 
 ==|==(scene)|=
 ==(sound)|=|==(sound)
-==(scene)|=(human)|==
-==(scene)|=|==
+==(scene)|=(human)|==(-)
+==(scene)|=|==(+)
+EMOTIONS:
+闲适,清新,静寂,幽静,静美
+CATEGORY:life,solitude
+COMPARISONS:
+silence vs sound
+dark vs light
 BODY:
 独du2 坐zuo4 幽you1 篁huang2 里li3,
 弹tan2 琴qin2 复fu4 长chang2 啸xiao4.
@@ -32,9 +41,20 @@ BODY:
 明ming2 月yue4 来lai2 相xiang1 照zhao4.
 END
 
-ID: 03
+
+ID:03
 TITLE:送song4 别bie2
 AUTHOR:王wang2 维wei2
+FORMAT:
+==(scene)|===
+==(scene)|=(-)|==(scene)
+==(scene)|==(time)|=(color)(+)
+==(human)|===
+EMOTIONS:
+不舍,依恋,冀望,寂寞，思念
+CATEGORY:farewell,friendship
+COMPARISON:
+nature vs human
 BODY:
 山shan1 中zhong1 相xiang1 送song4 罢ba4,
 日ri4 暮mu4 掩yan3 柴cai2 扉fei1.
@@ -42,9 +62,20 @@ BODY:
 王wang2 孙sun1 归gui1 不bu4 归gui1?
 END
 
-ID: 04
+
+ID:04
 TITLE:相xiang1 思si1
 AUTHOR:王wang2 维wei2
+FORMAT:
+==(thing)|=|==(scene)
+==(scene)|=|==
+==(human)|=|==
+==(thing)|=|==(+)
+EMOTIONS:
+思念,依恋,单纯,青春,含蓄,朴素,生命力
+CATEGORY:love,friendship,missing
+COMPARISON:
+nature vs human
 BODY:
 红hong2 豆dou4 生sheng1 南nan2 国guo2,
 春chun1 来lai2 发fa1 几ji3 枝zhi1?
@@ -53,8 +84,19 @@ BODY:
 END
 
 
+ID:05
 TITLE:杂za2 诗shi1
 AUTHOR:王wang2 维wei2
+FORMAT:
+==(human)|==(location)|=
+==|==(location)|=
+==(time)|==(scene)|=
+==(scene)|==(scene)|=(time)
+EMOTIONS:
+天真,亲切,思念,朴素,超然
+CATEGORY:missing,hometown
+COMPARISON:
+near vs far
 BODY:
 君jun1 自zi4 故gu4 乡xiang1 来lai2,
 应ying1 知zhi1 故gu4 乡xiang1 事shi4.
@@ -62,8 +104,20 @@ BODY:
 寒han2 梅mei2 著zhu4 花hua1 未wei4?
 END
 
+ID:06
 TITLE:送song4 崔cui1 九jiu3
 AUTHOR:裴pei2 迪di2
+FORMAT:
+==(scene)|==(scene)|=
+==|==(scene)|=(+)
+==(-)|===(human)(-)
+==(-)|===(scene)(+)
+EMOTIONS:
+幽美,不满,反感
+CATEGORY:
+persuasion,life
+COMPARISON:
+human vs human
 BODY:
 归gui1 山shan1 深shen1 浅qian3 去qu4,
 须xu1 尽jin4 丘jiu1 壑yue4 美mei3.
@@ -71,6 +125,10 @@ BODY:
 暂zan4 游you2 桃tao2 源yuan2 里li3.
 END
 
+
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+ID:07
 TITLE:终zhogn1 南nan2 望wang4 馀yu2 雪xue3
 AUTHOR:祖zu3 咏yong3
 BODY:
