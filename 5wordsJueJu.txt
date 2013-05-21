@@ -1,6 +1,14 @@
 ID: 01
 TITLE:鹿lu4 柴cai2  
 AUTHOR:王wang2 维wei2
+FORMAT: 
+==(scene)(-)|==(watch)(-)|=(human)
+==(hear)(+)|==(sound)|=
+==(scene)|=|==(scene)
+==(+)|==(scene)|=
+EMOTIONS:
+闲适,清新,静寂,幽静
+CATEGORY:life
 BODY:
 空kong1 山shan1 不bu4 见jian4 人ren2,
 但dan4 闻wen2 人ren2 语yu3 响xiang3.
@@ -8,9 +16,15 @@ BODY:
 复fu4 照zhao4 青qing1 苔tai1 上shang4.
 END
 
+
 ID: 02
 TITLE:竹zu2 里li3 馆guan3
 AUTHOR:王wang2 维wei2
+FORMAT: 
+==|==(scene)|=
+==(sound)|=|==(sound)
+==(scene)|=(human)|==
+==(scene)|=|==
 BODY:
 独du2 坐zuo4 幽you1 篁huang2 里li3,
 弹tan2 琴qin2 复fu4 长chang2 啸xiao4.
@@ -225,7 +239,7 @@ BODY:
 END
 
 
-TITLE:登乐游原
+TITLE:登deng1 乐le4 游you2 原yuan2
 AUTHOR:李li3 商shang1 隐yin3
 BODY:
 向xiang4 晚wan3 意yi4 不bu4/bu2 适shi4,
@@ -235,39 +249,40 @@ BODY:
 END
 
 
-寻隐者不遇
+TITLE:寻xun2 隐yin3 者zhe3 不bu4 遇yu4 
+AUTHOR:贾jia3 岛dao3
+BODY:
+松song1 下xia4 问wen4 童tong2 子zi3,
+言yan2 师shi1 采cai3 药yao4 去qu4.
+只zhi3 在zai4 此ci3 山shan1 中zhong1,
+云yun2 深shen1 不bu4 知zhi1 处chu4.
+END
 
-贾岛
+TITLE:渡du4 汉han4 江jiang1
+AUTHOR:李li3 频pin2
+BODY:
+岭ling3 外wai4 音yin1 书shu1 绝jue2,
+经jing1 冬dong1 复fu4 立li4 春chun1.
+近jin4 乡xiang1 情qing2 更geng4 怯que4
+不bu4 敢gan3 问wen4 来lai2 人ren2.
+END
 
-松下问童子，言师采药去。
-只在此山中，云深不知处。
-返回
+TITLE:春chun1 怨yuan4
+AUTHOR:金jin1 昌chang1 绪xu4
+BODY:
+打da3 起qi3 黄huang2 莺yin1 儿er5,
+莫mo4 教jiao1/jiao4 枝zhi1 上shang4 啼ti2.
+啼ti2 时shi2 惊jing1 妾qie4 梦meng4,
+不bu4 得de2 到dao4 辽liao2 西xi1.
+END
 
-
-渡汉江
-
-李频
-
-岭外音书绝，经冬复立春。
-近乡情更怯，不敢问来人。
-返回
-
-
-春怨
-
-金昌绪
-
-打起黄莺儿，莫教枝上啼。
-啼时惊妾梦，不得到辽西。
-返回
-
-
-哥舒歌
-
-西鄙人
-
-北斗七星高，哥舒夜带刀。
-至今窥牧马，不敢过临洮。
-返回
+TITLE:哥ge1 舒shu1 歌ge1 
+AUTHOR:西xi1 鄙bi3 人ren2
+BODY:
+北bei3 斗dou3 七qi1 星xing1 高gao1,
+哥ge1 舒shu1 夜ye4 带dai4 刀dao1.
+至zhi4 今jin1 窥kui1 牧mu4 马ma3.
+不bu4 敢gan3 过guo4 临lin2 洮tao1/tao2。
+END
 
 　
