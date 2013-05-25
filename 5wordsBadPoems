@@ -111,6 +111,7 @@ BODY:
 
 ID: 07
 TITLE:不bu4 思si1
+AUTHOR:anonymous
 FORMAT:
 ==(scene)(+)|=(temperature)==(scene)
 ==(scene)(+)|=(thing)==(scene)
@@ -129,14 +130,27 @@ BODY:
  
 
 
+ID: 08
+TITLE:秋qiu1 日ri4
+AUTHOR:Anonymous
+FORMAT:
+==(scene)(-）|=|==(scene)
+==(scene)|==|=（-）
+==(-)|=(human)|==(sound)
+==(sound)|==(-)|=(hear)
+EMOTIONS:
+孤独，寂寞，惆怅，冷清
+CATEGORY:life,friendship,love
+COMPARISONS:
+nature vs human
+BODY:
+北bei3 风feng1 吹chui1 北bei3 云yun2
+烟yan1 波bo1 处chu4 处chu4 愁chou2
+忧you1 来lai2 谁shui2 共gong4 语yu3
+秋qiu1 声sheng1 不bu4 可ke3 闻wen2
 
 
-秋日
- 
-北风吹北云,
-烟波处处愁.
-忧来谁共语,
-秋声不可闻
+
 
 
 
