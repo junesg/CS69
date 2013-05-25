@@ -150,87 +150,126 @@ BODY:
 秋qiu1 声sheng1 不bu4 可ke3 闻wen2
 
 
+ID: 09
+TITLE:
+AUTHOR:Anonymous
+FORMAT:
+=(scene)=(-)|==(scene)|=(scene)
+==(scene)(+)|=(+)|==(scene)
+==(touch)(-)|==(-)|=(touch)(-)
+==(scene)(+)|=(touch)(+)|==(thing)
+EMOTIONS:
+CATEGORY:scenery
+COMPARISONS:
+cold vs hot
+barren vs. blooming
+BODY:
+雪xue3 覆fu4 山shan1 頭tou2 路lu4
+梅mei2 開kai1 滿man3 樹shu4 園yuan2
+風feng1 吹chui1 寒han2 夜ye4 冷leng3
+日ri4 晒shai4 暖nuan3 冬deng1 衫shan1 
 
 
-
-
-雪覆山頭路
-梅開滿樹園
-風吹寒夜冷
-日晒暖冬衫
-
-
-五言絕句《也談冬》
-
-   請讚冬節樂
-   仄仄平平仄 
-
-   別嫌朔雪寒
-   平平仄仄平
-
-   多觀寂景美
-   平平平仄仄
-
-   且護暖爐安
-   仄仄仄平平
+ID: 10
+TITLE:也ye3 談tan2 冬deng1
+AUTHOR:Anonymous
+FORMAT:
+==(+)|==(time)|=(+)
+==|==(-)(scene)|=(-)(touch)
+==|==(+)(scene)|=(+)
+==|==(+)(thing)|=(+)
+EMOTIONS:
+平静，美丽，安详
+CATEGORIE:life,scenery
+COMPARISONS:
+winter vs warmth
+weather vs feelings
+BODY:
+請qing3 讚zan4 冬dong1 節jie2 樂le4
+別bie2 嫌xian2 朔su4 雪xue3 寒han2
+多duo1 觀guan1 寂ji4 景jing3 美mei3
+且qie3 護hu4 暖nuan3 爐lu2 安an1
    
    
-   
-   既然如此，我提供一篇我的舊作，拙作題目〈冬眠〉：
-寒風幃帳開，
-
-凜冽迫人來。
-
-但曉時辰晚，
-
-衾裯總伴偎。
-
-
-
-
-既然如此，我提供一篇我的舊作，拙作題目〈冬眠〉：
-寒風幃帳開，
-
-凜冽迫人來。
-
-但曉時辰晚，
-
-衾裯總伴偎。
+ID: 11
+TITLE:冬dong1 眠mian2
+AUTHOR:Anonymous
+FORMAT:
+==(scene)(-)|==(scene)|=
+==(touch)(-)|==(human)=
+==|==(time)|=(-)
+==(thing)|=|==(+)
+EMOTIONS: 
+孤寂，冷清
+CATEGORY:life,scenery,lonely
+COMPARISONS:
+BODY:
+寒han2 風feng1 幃wei2 帳zhang4 開kai1
+凜lin3 冽lie4 迫po4 人ren2 來lai2
+但dan4 曉xiao3 時shi2 辰chen2 晚wan3
+衾qin2 裯chou2 總zong3 伴ban4 偎wei3
 
 
 
+ID: 12
+TITLE:
+AUTHOR:Anonymous
+FORMAT:
+==(scene)|==(thing)|=(+)
+==(scene)|==(thing)|=(sound)(+)
+==|=|==(scene)(+)
+==(scene)|=|==(scene)(+)
+EMOTIONS:
+潇洒，清闲
+CATEGORY:life
+COMPARISONS:
+full vs single
+BODY:
+田tian2 中zhong1 蹈dao3 穗sui4 飽bao3
+樹shu4 上shang4 秋qiu1 蟬chan2 鳴ming2
+獨du2 飲yin3 邀yao1 明ming2 月yue4
+眾zong4 遊you2 坐zuo4 數shu4 楓feng1
 
 
 
+ID: 13
+TITLE:
+AUTHOR:Anonymous
+FORMAT:
+==(scene)(-)|=|==(+)
+==|=|==(+)
+==(+)(feeling)|===(+)
+==(+)(human)|===(+)
+EMOTIONS:
+感人，动情，思念
+CATEGORY:life,love,friendship
+COMPARISONS:
+past vs present
+BODY:
+侠xia2 路lu4 多duo1 相xiang1 逄feng2,
+曾ceng2 经jing1 已yi3 相xiang1 识shi2.
+情qing2 投tou2 意yi4 相xiang1 合he2,
+知zhi1 己ji3 千qian1 言yan2 情qing2
 
 
-
-
-
-田中蹈穗飽
-　－　｜
-樹上秋蟬鳴 ㄥ
-　｜　－
-獨飲邀明月
-　｜　－
-眾遊坐數楓 ㄥ
-　－　｜
-
-
-
-
-侠路多相逄，
-曾经已相识。
-情投意相合，
-知己千言情。
-
-
-
-      隐逸
-三径通幽室，
-五柳引雅士。
-清清溪水流
-悠悠照我心。
+ID: 14
+TITLE:隐yin3 逸yi4
+AUTHOR:
+FORMAT:
+==(scene)|=|==(scene)(+)
+==(scene)|=|==(human)(+)
+==(+)|==(scene)|=
+==(+)|=|==(human)
+EMOTIONS:
+清闲，清幽，幽静，潇洒
+CATEGORY:life,scenery
+COMPARISONS:
+human vs nature
+BODYL
+三san1 径jing4 通tong1 幽you1 室shi4
+五wu3 柳liu3 引yin3 雅ya3 士shi4
+清qing1 清qing1 溪xi1 水shui3 流liu2
+悠you1 悠you1 照zhao4 我wo3 心xin1
 
 
 
