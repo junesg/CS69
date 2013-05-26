@@ -1,12 +1,12 @@
-ID:01
+ID: 01
 TITLE:鹿lu4 柴cai2  
 AUTHOR:王wang2 维wei2
 FORMAT: 
-==(scene)(-)|==(watch)(-)|=(human)
-==(hear)(+)|==(sound)|=
+==(scene)(-)|==(action)(-)|=(human)
+==(action)(+)|==(sound)|=
 ==(scene)|=|==(scene)
 ==(+)|==(scene)|=
-EMOTIONS:
+EMOTION:
 清泠,幽静,虚无,幽暗,静美
 CATEGORY:life,solitude
 COMPARISONS:
@@ -20,7 +20,7 @@ BODY:
 END
 
 
-ID:02
+ID: 02
 TITLE:竹zu2 里li3 馆guan3
 AUTHOR:王wang2 维wei2
 FORMAT: 
@@ -28,7 +28,7 @@ FORMAT:
 ==(sound)|=|==(sound)
 ==(scene)|=(human)|==(-)
 ==(scene)|=|==(+)
-EMOTIONS:
+EMOTION:
 闲适,清新,静寂,幽静,静美
 CATEGORY:life,solitude
 COMPARISONS:
@@ -42,7 +42,7 @@ BODY:
 END
 
 
-ID:03
+ID: 03
 TITLE:送song4 别bie2
 AUTHOR:王wang2 维wei2
 FORMAT:
@@ -50,7 +50,7 @@ FORMAT:
 ==(scene)|=(-)|==(scene)
 ==(scene)|==(time)|=(color)(+)
 ==(human)|===
-EMOTIONS:
+EMOTION:
 不舍,依恋,冀望,寂寞，思念
 CATEGORY:farewell,friendship
 COMPARISON:
@@ -63,7 +63,7 @@ BODY:
 END
 
 
-ID:04
+ID: 04
 TITLE:相xiang1 思si1
 AUTHOR:王wang2 维wei2
 FORMAT:
@@ -71,7 +71,7 @@ FORMAT:
 ==(scene)|=|==
 ==(human)|=|==
 ==(thing)|=|==(+)
-EMOTIONS:
+EMOTION:
 思念,依恋,单纯,青春,含蓄,朴素,生命力
 CATEGORY:love,friendship,missing
 COMPARISON:
@@ -84,7 +84,7 @@ BODY:
 END
 
 
-ID:05
+ID: 05
 TITLE:杂za2 诗shi1
 AUTHOR:王wang2 维wei2
 FORMAT:
@@ -92,7 +92,7 @@ FORMAT:
 ==|==(location)|=
 ==(time)|==(scene)|=
 ==(scene)|==(scene)|=(time)
-EMOTIONS:
+EMOTION:
 天真,亲切,思念,朴素,超然
 CATEGORY:missing,hometown
 COMPARISON:
@@ -104,7 +104,7 @@ BODY:
 寒han2 梅mei2 著zhu4 花hua1 未wei4?
 END
 
-ID:06
+ID: 06
 TITLE:送song4 崔cui1 九jiu3
 AUTHOR:裴pei2 迪di2
 FORMAT:
@@ -112,7 +112,7 @@ FORMAT:
 ==|==(scene)|=(+)
 ==(-)|===(human)(-)
 ==(-)|===(scene)(+)
-EMOTIONS:
+EMOTION:
 幽美,不满,反感
 CATEGORY:
 persuasion,life
@@ -126,9 +126,20 @@ BODY:
 END
 
 
-ID:07
+ID: 07
 TITLE:终zhogn1 南nan2 望wang4 馀yu2 雪xue3
 AUTHOR:祖zu3 咏yong3
+FORMAT:
+==|==(scene)|=(+)
+==(scene)|==(scene)=(+)
+==(scene)|=(scene)(+)|==(color)
+==(scene)|=|==(touch)(scene)(-)
+EMOTION:
+含蓄,朴实,俏丽,清幽,清新
+CATEGORY:scenery,city,life
+COMPARISON:
+nature vs human(city)
+beauty vs coldness
 BODY:
 终zhong1 南nan2 阴yin1 岭ling3 秀xiu4,
 积ji1 雪xue3 浮fu2 云yun2 端duan1.
@@ -136,8 +147,20 @@ BODY:
 城cheng2 中zhong1 增zeng1 暮mu4 寒han2.
 END
 
+
+ID: 08
 TITLE:宿su4 建jian4 德de2 江jiang1
 AUTHOR:孟meng4 浩hao4 然ran2
+FORMAT:
+==(scene)|=(action)==(scene)
+==(scene)|=(human)==(-)
+==(scene)|=(scene)==(scene)(+)
+==(scene)(+)|=(scene)=(+)=(human)
+EMOTION:
+愁思,忧愁,惆怅,清淡,含蓄,自然
+CATEGORY:life,sadness,scenery
+COMPARISON:
+nature vs human sentiment
 BODY:
 移yi2 舟zhou1 泊po4 烟yan1 渚zhu3,
 日ri4 暮mu4 客ke4 愁chou2 新xin1.
@@ -145,8 +168,20 @@ BODY:
 江jiang1 清qing1 月yue4 近jin4 人ren2.
 END
 
+
+ID: 09
 TITLE:春chun1 晓xiao3
 AUTHOR:孟meng4 浩hao4 然ran2
+FORMAT:
+=(scene)=|==|=(scene)(+)
+==(location)|=(action)|=(sound)=(thing)(+)
+==(scene)|==(scene)(-)|=(sound)
+==(scene)|=|==
+EMOTION:
+优美,清新,活泼,明朗,畅销,朴素,韵味
+CATEGORY:life,scenery,season
+COMPARISONS:
+know vs unknown
 BODY:
 春chun1 眠mian2 不bu4 觉jue2 晓xiao3,
 处chu4 处chu4 闻wen2 啼ti2 鸟niao3.
@@ -154,8 +189,20 @@ BODY:
 花hua1 落luo4 知zhi1 多duo1 少shao3?
 END
 
+ID: 10
 TITLE:静jing4 夜ye4 思si1
 AUTHOR:李li3 白bai2
+FORMAT:
+=(thing)=(location)(+)|=|==(scene)
+==(action)|==(location)|=(scene)(-)
+==(action)|=(action)|==(scene)
+==(action)|=(action)|==(thing)
+EMOTION:
+清新,朴素,单纯,丰富,细致,自然
+CATEGORY:life,missing,hometown,scenery
+COMPARISON:
+night vs frost
+moon vs thoughts
 BODY:
 床chuang2 前qian2 明ming2 月yue4 光guang1,
 疑yi2 是shi4 地di4 上shang4 霜shuang1.
@@ -163,8 +210,19 @@ BODY:
 低di1 头tou2 思si1 故gu4 乡xiang1.
 END
 
+ID: 11
 TITLE:怨yuan4 情qing2
 AUTHOR:李li3 白bai2
+FORMAT:
+==(+)(human)|=(action)|==(thing)(scene)(+)
+==|=(action)(-)|==(scene)
+==(action)|==(scene)(-)|=
+==|=|=(＋)|=
+EMOTION:
+朴素,平淡,简易,缠绵,凄凉,凄清,哀婉
+CATEGORY:life,love,beauty,lonely
+COMPARISON:
+love vs hate
 BODY:
 美mei3 人ren2 卷juan3 珠zhu1 帘lian2,
 深shen1 坐zuo4 蹙cu4 蛾e2 眉mei2.
@@ -172,8 +230,20 @@ BODY:
 不bu4 知zhi1 心xin1 恨hen4 谁shui2?
 END
 
+ID: 12
 TITLE:八ba1 阵zhen4 图tu2
 AUTHOR:杜du4 甫fu3
+FORMAT:
+==(+)|===(location)
+==(+)|===(thing)
+==(scene)|===(+)
+==(-)|=(-)(action)==
+EMOTION:
+惋惜,抑郁,怨情
+CATEGORY:autography,life,ambition,spirit
+COMPARISON:
+success vs regret
+past vs now
 BODY:
 功gong1 盖gai3 三san1 分fen1 国guo2,
 名ming2 成cheng2 八ba1 阵zhen4 图tu2.
@@ -181,8 +251,20 @@ BODY:
 遗yi2 恨hen4 失shi1 吞tun1 吴wu2.
 END
 
+ID: 13
 TITLE:登deng1 鹳guan4 雀he4 楼lou2
 AUTHOR:王wang2 之zhi1 涣huan4
+FORMAT:
+=(color)=(scene)|=(action)|=(scene)|=(+)
+=(color)=(scene)|=(action)|=(scene)|=(+)
+==(action)|==(number)|=(+)
+==(action)|==(number)|=(thing)
+EMOTION:
+上进,壮观,磅礡,朴素,前线,宽广
+CATEGORY:life,ambition,spirit
+COMPARISON:
+nature vs human
+current status vs future
 BODY:
 白bai2 日ri4 依yi1 山shan1 尽jin4,
 黄huang2 河he2 入ru4 海hai3 流liu2.
@@ -190,8 +272,19 @@ BODY:
 更geng4 上shang4 一yi4 层ceng2 楼lou2.
 END
 
+ID: 14
 TITLE:送song4 灵ling2 澈che4
 AUTHOR:刘liu2 长chang2 卿qing1
+FORMAT:
+==(color)|==(scene)|=(thing)(+)
+==(sound)|==(sound)(+)|=
+==(thing)|=|==(scene)(+)
+==(scene)|=(human)==(action)(+)
+EMOTION:
+精炼,朴素,秀美,闲淡,清淡
+CATEGORY:friendship,scenery,farewell
+COMPARISON:
+sound vs silence
 BODY:
 苍cang1 苍cang1 竹zu2 林lin2 寺si4,
 杳zha2 杳zha2 钟zhong1 声sheng1 晚wan3.
@@ -199,8 +292,20 @@ BODY:
 青qing1 山shan1 独du2 归gui1 远yuan3.
 END
 
+ID: 15
 TITLE:弹tan2 琴qin2
 AUTHOR:刘liu2 长chang2 卿qing1
+FORMAT:
+==(sound)(+)|==(thing)|=
+==(action)(+)|==(scene)|=(touch)(-)
+==(sound)|=|==(human)(+)
+==(human)|=|==(-)
+EMOTION:
+凄清,幽清,幽静,高尚,感慨
+CATEGORY:life,job,ambition
+COMPARISON:
+sound vs life
+talent vs ignorance
 BODY:
 泠ling2 泠ling2 七qi1 弦xian2 上shang4,
 静jing4 听ting1 松song1 风feng1 寒han2.
@@ -209,8 +314,19 @@ BODY:
 END
 
 
+ID: 16
 TITLE:送song4 上shang4 人ren2
 AUTHOR:刘liu2 长chang2 卿qing1
+FORMAT:
+==(scene)|=|==(thing)(+)
+==|==(location)|=(-)
+==(action)|===(location)
+==(human)|=|==(location)
+EMOTION:
+诙谐,意蕴
+CATEGORY:life,future
+COMPARISON:
+human vs animal
 BODY:
 孤gu1 云yun2 将jiang1 野ye3 鹤he4,
 岂qi3 向xiang4 人ren2 间jian1 住zhu4!
@@ -218,9 +334,21 @@ BODY:
 时shi2 人ren2 已yi3 知zhi1 处chu4.
 END
 
-
+ID: 17
 TITLE:秋qiu1 夜ye4 寄ji4 邱qiu1 员yuan2 外wai4
 AUTHOR:韦wei2 应ying4 物wu4
+FORMAT:
+=(action)=(human)(+)|=|==(scene)(-)
+==(action)(+)|=(action)(+)|==(touch)(-)
+==(scene)(-)|==(thing)|=
+==(human)|===(action)(+)
+EMOTION:
+古雅,闲淡,朴素,清幽,韵味,深意
+CATEGORY:life,friendship,missing
+COMPARISON:
+friendship vs cold weather
+me vs you
+here vs there
 BODY:
 怀huai2 君jun1 属shu3 秋qiu1 夜ye4,
 散san4 步bu4 咏yong3 凉liang2 天tian1.
@@ -229,8 +357,20 @@ BODY:
 END
 
 
+ID: 18
 TITLE:听ting1 筝zhen1
 AUTHOR:李li3 端duan1
+FORMAT:
+=(sound)=(thing)|===(thing)(+)
+==(+)(thing)|==(thing)(+)|=(location)
+==(+)|==(human)|=(action)
+==(time)|==(action)(-)|=(thing)
+EMOTION:
+潇洒,轻捷,洒脱,流畅,动态,可爱,活泼
+CATEGORY:love,music,missing
+COMPARISON:
+presence vs missing
+sound vs feeling
 BODY:
 鸣ming2 筝zhen1 金jin1 粟su4 柱zhu4,
 素su4 手shou3 玉yu4 房fang2 前qian2.
@@ -239,8 +379,19 @@ BODY:
 END
 
 
+ID: 19
 TITLE:新xin1 嫁jia4 娘niang2
 AUTHOR:王wang2 建jian4
+FORMAT:
+=(number)=(time)|=(action)|==(location)
+==(action)|=(action)|==(thing)
+==(action)|=(human)==
+==(action)|==(human)|=(action)
+EMOTION:
+活泼,灵巧,朴素,情趣
+CATEGORY:life,marriage
+COMPARISON:
+sister in law vs mother in law
 BODY:
 三san1 日ri4 入ru4 厨chu2 下xia4,
 洗xi3 手shou3 作zuo4 羹geng1 汤tang1.
@@ -249,8 +400,17 @@ BODY:
 END
 
 
+ID: 20
 TITLE:玉yu4 台tai2 体ti3 
 AUTHOR:权quan2 德de2 舆yu2
+FORMAT:
+==|==|=
+==|==|=
+==|==|=
+==|==|=
+EMOTION:
+CATEGORY:
+COMPARISON:
 BODY:
 昨zuo2 夜ye4 裙qun2 带dai4 解jie3,
 今jin1 朝zhao1［虫chong2 喜xi3］子zi3 飞fei1.
@@ -258,8 +418,13 @@ BODY:
 莫mo4 是shi4 藁gao3 砧zhen1 归gui1.
 END
 
+ID: 21
 TITLE:江jiang1 雪xue3
 AUTHOR:柳liu3 宗zong1 元yuan2
+FORMAT:
+EMOTION:
+CATEGORY:
+COMPARISON:
 BODY:
 千qian1 山shan1 鸟niao3 飞fei1 绝jue2,
 万wan4 径jing4 人ren2 踪zong1 灭mie4.
@@ -267,8 +432,14 @@ BODY:
 独du2 钓diao4 寒han2 江jiang1 雪xue3.
 END
 
+
+ID: 22
 TITLE:行xing2 宫gong1
 AUTHOR:元yuan2 稹zhen3 
+FORMAT:
+EMOTION:
+CATEGORY:
+COMPARISON:
 BODY:
 寥liao2 落luo4 古gu3 行xing2 宫gong1,
 宫gong1 花hua1 寂ji4 寞mo4 红hong2.
@@ -276,8 +447,14 @@ BODY:
 闲xian2 坐zuo4 说shuo1 玄xuan2 宗zong1.
 END
 
+
+ID: 23
 TITLE:问wen4 刘liu2 十shi2 九jiu3
 AUTHOR:白bai2 居ju1 易yi4
+FORMAT:
+EMOTION:
+CATEGORY:
+COMPARISON:
 BODY:
 绿lv4 蚁yi3 新xin1 醅pei2 酒jiu3,
 红hong2 泥ni2 小xiao3 火huo3 炉lu2.
@@ -286,8 +463,13 @@ BODY:
 END
 
 
+ID: 24
 TITLE:何he2 满man3 子zi3
 AUTHOR:张zhang1 祜hu4
+FORMAT:
+EMOTION:
+CATEGORY:
+COMPARISON:
 BODY:
 故gu4 国guo2 三san1 千qian1 里li3,
 深shen1 宫gong1 二er4 十shi2 年nian2.
@@ -295,9 +477,13 @@ BODY:
 双shuang1 泪lei4 落luo4 君jun1 前qian2.
 END
 
-
+ID: 25
 TITLE:登deng1 乐le4 游you2 原yuan2
 AUTHOR:李li3 商shang1 隐yin3
+FORMAT:
+EMOTION:
+CATEGORY:
+COMPARISON:
 BODY:
 向xiang4 晚wan3 意yi4 不bu4/bu2 适shi4,
 驱qu1 车che1 登deng1 古gu3 原yuan2.
@@ -305,9 +491,13 @@ BODY:
 只zhi3 是shi4 近jin4 黄huang2 昏hun1.
 END
 
-
+ID: 26
 TITLE:寻xun2 隐yin3 者zhe3 不bu4 遇yu4 
 AUTHOR:贾jia3 岛dao3
+FORMAT:
+EMOTION:
+CATEGORY:
+COMPARISON:
 BODY:
 松song1 下xia4 问wen4 童tong2 子zi3,
 言yan2 师shi1 采cai3 药yao4 去qu4.
@@ -315,8 +505,13 @@ BODY:
 云yun2 深shen1 不bu4 知zhi1 处chu4.
 END
 
+ID: 27
 TITLE:渡du4 汉han4 江jiang1
 AUTHOR:李li3 频pin2
+FORMAT:
+EMOTION:
+CATEGORY:
+COMPARISON:
 BODY:
 岭ling3 外wai4 音yin1 书shu1 绝jue2,
 经jing1 冬dong1 复fu4 立li4 春chun1.
@@ -324,8 +519,13 @@ BODY:
 不bu4 敢gan3 问wen4 来lai2 人ren2.
 END
 
+ID: 28
 TITLE:春chun1 怨yuan4
 AUTHOR:金jin1 昌chang1 绪xu4
+FORMAT:
+EMOTION:
+CATEGORY:
+COMPARISON:
 BODY:
 打da3 起qi3 黄huang2 莺yin1 儿er5,
 莫mo4 教jiao1/jiao4 枝zhi1 上shang4 啼ti2.
@@ -333,8 +533,13 @@ BODY:
 不bu4 得de2 到dao4 辽liao2 西xi1.
 END
 
+ID: 29
 TITLE:哥ge1 舒shu1 歌ge1 
 AUTHOR:西xi1 鄙bi3 人ren2
+FORMAT:
+EMOTION:
+CATEGORY:
+COMPARISON:
 BODY:
 北bei3 斗dou3 七qi1 星xing1 高gao1,
 哥ge1 舒shu1 夜ye4 带dai4 刀dao1.
@@ -343,3 +548,13 @@ BODY:
 END
 
 　
+ID: 30
+《悯农》（唐朝李绅全集，五言绝句，选自姜葆夫、韦良成选注《常用古诗》）
+春种一粒粟，秋收万颗子。四海无闲田，农夫犹饿死。
+TITLE:
+AUTHOR:
+FORMAT:
+EMOTION:
+CATEGORY:
+COMPARISON:
+BODY:
