@@ -1,0 +1,101 @@
+保湿	保濕	bǎoshī	to preserve moisture	Verb 动词	
+冰山		bīngshān	an iceberg	Noun 名词	
+波		bō	wave / ripple / storm / surge	Noun 名词	
+波浪		bōlàng	a wave	Noun 名词	
+波涛	波濤	bōtāo	great waves / billows	Noun 名词	
+淌		chàng	to trickle / to drip / to flow	Verb 动词	
+淌		chǎng	to trickle / to drip / to flow	Verb 动词	
+潮流		cháoliú	tide / current / trend	Noun 名词	
+澈		chè	clear	Adjective 形容词	Of water
+澄清		chéngqīng	to clarify	Verb 动词	To clarify a liquid or an idea
+池塘		chítáng	pool / pond	Noun 名词	
+池沼		chízhǎo	a pool / a pond	Noun 名词	
+冲	沖	chōng	to water / to irrigate	Verb 动词	
+荡漾	盪漾	dàngyàng	to ripple / to undulate	Verb 动词	
+淡水		dànshuǐ	fresh water	Noun 名词	As opposed to salt water
+滴		dī	to drip	Verb 动词	
+渧		dī	to drip	Verb 动词	
+渧		dì	to drip	Verb 动词	
+氾		fàn	to overflow / to flood / to inundate	Verb 动词	
+氾		fán	to overflow / to flood / to inundate	Verb 动词	
+防水		fángshuǐ	waterproof	Adjective 形容词	
+泛滥	泛濫	fànlàn	to overflow the banks / to inundate / to spread unchecked	Verb 动词	
+氾滥	氾濫	fànlàn	to flood / to overflow	Verb 动词	
+氾		fěng	to overflow / to flood / to inundate	Verb 动词	
+干	乾	gān	not needing water	Adjective 形容词	
+干涸	乾涸	gànhé	to dry up / to exhaust	Verb 动词	
+滚水	滾水	gǔnshuǐ	boiling water	Noun 名词	
+海水		hǎishuǐ	seawater	Noun 名词	
+涸		hào	to dry up / to exhaust	Verb 动词	
+涸		hé	to dry up / to exhaust	Verb 动词	
+河道		hédào	river course	Noun 名词	
+洪流		hóngliú	a powerful current / a flood	Noun 名词	
+洄		huí	an eddy / a whirlpool	Noun 名词	
+漸	漸	jiàn	to soak / to immerse	Verb 动词	Synonym discussion: in this sense 漸 is similar in meaning to 浸泡.
+漸	漸	jiān	to permeate / to flow into	Verb 动词	Synonym discussion: in this sense 漸 is similar in meaning to 浸泡.
+浇	澆	jiāo	to pour liquid / to irrigate / to water / to cast / to mould	Verb 动词	
+激流		jīliú	rapids / a torrent / a rushing stream / a rip / white water	Noun 名词	
+净水	淨水	jìngshuǐ	clean water / purified water 	Noun 名词	
+浸泡		jìnpào	to soak / to immerse	Verb 动词	
+抗旱		kànghàn	to weather a drought	Verb 动词	
+澜	瀾	lán	swelling water	Noun 名词	
+浪		làng	wave	Noun 名词	
+浪潮		làngcháo	wave / tide	Noun 名词	
+涝	澇	lào	to flood / to waterlog	Verb 动词	
+潦		lǎo	flooded / under heavy rain	Adjective 形容词	
+凉水	涼水	liáng shuǐ	cold water	Noun 名词	
+淋		lín	to drain / to drench / to drip	Verb 动词	
+淋漓		línlí	to be dripping wet / to be saturated	Verb 动词	
+淋湿	淋濕	línshī	to get soaked	Verb 动词	
+流动	流動	liúdòng	to flow	Verb 动词	
+流动性	流動性	liúdòng xìng	fluidity / mobility / liquidity	Noun 名词	
+流水		liúshuǐ	running water	Noun 名词	
+流淌		liútǎng	to flow	Verb 动词	
+盝		lù	to filter	Verb 动词	
+盝		lù	to dry up	Verb 动词	
+淼		miǎo	a flood / infinity	Noun 名词	
+沤	漚	ōu	a bubble / froth	Noun 名词	
+喷射	噴射	pēnshè	to spray	Verb 动词	
+瀑		pù	a waterfall	Noun 名词	
+瀑布		pùbù	a waterfall	Noun 名词	
+清澈		qīngchè	clear	Adjective 形容词	Of water
+泉水		quánshuǐ	spring water	Noun 名词	
+湿润	濕潤	shīrùn	moist	Adjective 形容词	
+澍		shù	a wave / a ripple	Noun 名词	
+水		shuǐ	water / river	Noun 名词	
+水池		shuǐ chí	a pond / a pool	Noun 名词	
+水波		shuǐbō	a wave / a ripple	Noun 名词	
+水道		shuǐdào	an aqueduct / a sewer	Noun 名词	
+水坑		shuǐkēng	a puddle / a sump	Noun 名词	
+水流		shuǐliú	a river / a stream	Noun 名词	
+水泡		shuǐpào	a bubble / a blister	Noun 名词	
+水汽		shuǐqì	steam / moisture / water vapor	Noun 名词	
+水土		shuǐtǔ	water and soil	Noun 名词	
+水源		shuǐyuán	head waters	Noun 名词	
+水蒸气	水蒸氣	shuǐzhēngqì	steam	Noun 名词	
+潭		tán	pool / pond	Noun 名词	
+淌		tǎng	to trickle / to drip / to flow	Verb 动词	
+涛	濤	tāo	a big wave	Noun 名词	
+滔		tāo	a torrent	Noun 名词	
+湍		tuān	rapid water current / rapids	Noun 名词	
+湍		tuān	to scour	Verb 动词	
+湍急		tuān	a rapic current	Noun 名词	
+温泉	溫泉	wēnquán	a hot spring / a spa	Noun 名词	
+涡	渦	wō	eddy / whirlpool	Noun 名词	
+泻	瀉	xiè	to flow out swiftly / to flood	Verb 动词	
+泄洪		xiè hóng	to release flood water	Verb 动词	
+汛		xùn	high water	Noun 名词	
+堰		yàn	a weir	Noun 名词	
+淹没	淹沒	yānmò	to submerge	Verb 动词	
+涌		yǒng	to bubble up / to rush forth / to gush / to surge	Verb 动词	
+涌		yǒng	to emerge / to well / to rise / to spring	Verb 动词	
+雨		yǔ	rain	Noun 名词	
+源流		yuánliú	source and direction of flow / origin and development	Noun 名词	
+源泉		yuánquán	well-spring / water source	Noun 名词	
+雨水		yǔshuǐ	rain water	Noun 名词	
+沾	霑	zhān	to wet / to moisten	Verb 动词	
+沼		zhǎo	a pond / a pool	Noun 名词	
+中水		zhōngshuǐ	recycled water	Noun 名词	
+潴	瀦	zhū	pond / a pool	Noun 名词	
+湍		zhuān	rapid water current / rapids	Noun 名词	
+自来水	自來水	zì lái shuǐ	running water / tap water	Noun 名词	

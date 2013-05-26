@@ -1,0 +1,12 @@
+	Traditional 繁体	Pinyin 拼音	English 英文	Grammar 语法	Notes 注释
+干脆	乾脆	gāncuì	straightforward / clear-cut / blunt	Adjective 形容词	
+干旱	乾旱	gānhàn	arid / dry	Noun 名词	
+干燥	乾燥	gānzào	arid / dry	Adjective 形容词	
+旱		hàn	arid / dry / not needing water	Adjective 形容词	
+气候	氣候	qìhòu	climate / atmosphere / situation	Noun 名词	
+凄凉	淒涼	qīliáng	desolate / cold and lonely	Adjective 形容词	
+热带	熱帶	rèdài	the tropics	Noun 名词	
+沙漠		shāmò	desert	Noun 名词	
+盛夏		shèng xià	midsummer / the height of summer	Noun 名词	
+时	時	shí	climate	Noun 名词	Synonym discussion: in this sense 时 is similar in meaning to 气候.
+温带	溫帶	wēndài	temperate zone	Noun 名词	

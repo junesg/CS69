@@ -1,0 +1,150 @@
+笆		bā	an article made of bamboo strips / fence	Noun 名词	
+畚		běn	a straw basket / a hamper	Noun 名词	
+畚箕		běnjī	a bamboo or wicker scoop / a dustpan	Noun 名词	
+秕	揚穀	bǐ	grain not fully grown / husks / withered grain / unripe grain	Noun 名词	
+病虫害	病蟲害	bìng chóng hài	plant diseases and insect pests	Noun 名词	
+播		bō	to sow / to scatter / to spread	Verb 动词	
+簸箕		bǒjī	a dustpan / a winnowing fan / a loop (of a fingerprint)	Noun 名词	
+播种	播種	bōzhǒng	to sow seeds	Verb 动词	
+捕鱼	捕魚	bǔyú	to catch fish / to fish	Verb 动词	
+菜圃		càipǔ	a vegetable field	Noun 名词	
+插秧		chāyāng	to transplant rice seedlings	Verb 动词	
+畴	疇	chóu	arable fields / cultivated field	Noun 名词	
+锄	鋤	chú	a hoe	Noun 名词	
+畜		chù	livestock / domesticated animal	Noun 名词	
+锄	鋤	chú	to hoe	Verb 动词	
+刍	芻	chú	hay / fodder	Noun 名词	
+春耕		chūngēng	to plow a field in the spring	Verb 动词	
+春耕		chūngēng	spring plowing	Noun 名词	
+畜生		chùsheng	a domestic animal	Noun 名词	
+稻		dào	paddy / unprocessed rice	Noun 名词	
+稻谷		dàogǔ	a rice crop	Noun 名词	
+稻子		dàozi	paddy / unprocessed rice	Noun 名词	
+地		dì	fields	Noun 名词	
+囤		dùn	bin for grain	Noun 名词	
+放		fàng	to feed a domesticated animal	Verb 动词	
+放牧		fàng mù	to graze	Verb 动词	
+肥料		féiliào	fertilizer / manure	Noun 名词	
+肥沃		féiwò	fertile	Adjective 形容词	of soil
+风车	風車	fēngchē	a windmill	Noun 名词	
+丰收	豐收	fēngshōu	bumper harvest	Noun 名词	
+丰收	豐收	fēngshōu	to have bumper harvest	Verb 动词	
+溉		gài	to irrigate	Verb 动词	
+秆	稈	gǎn	stalk	Noun 名词	
+稿		gǎo	stalk of grain	Noun 名词	
+耕		gēng	to plow / to till	Verb 动词	
+耕地		gēngdì	arable land	Noun 名词	
+耕地		gēngdì	to plow land	Verb 动词	
+耕犁		gēnglí	a plow	Noun 名词	
+耕耘		gēngyún	to plow and weed / to do farm work / to work or study diligently	Verb 动词	
+耕种	耕種	gēngzhòng	to till / to cultivate	Verb 动词	
+灌		guàn	to irrigate / to pour	Verb 动词	
+灌溉		guàngài	to irrigate	Verb 动词	
+谷稼		gǔjià	to sow grain	Verb 动词	
+果实	果實	guǒshí	fruit / gains	Noun 名词	
+果树	果樹	guǒshù	fruit tree	Noun 名词	
+禾苗		hémiáo	seedling	Noun 名词	
+化肥		huàféi	fertilizer	Noun 名词	
+荒地		huāngdì	wasteland / uncultivated land	Noun 名词	
+获	獲	huò	to reap / to harvest	Verb 动词	
+箕		jī	a winnow basket	Noun 名词	For separating grain from chaff
+稼		jià	to sow grain	Verb 动词	
+稼		jià	cereals / crops	Noun 名词	
+家畜		jiāchù	domestic animal / livestock / cattle	Noun 名词	
+浇灌	澆灌	jiāoguàn	to water / to irrigate	Verb 动词	
+教养	教養	jiàoyǎng	breeding	Noun 名词	
+羯		jié	a ram / deer's skin	Noun 名词	
+羯		jié	to castrate	Verb 动词	
+圈		juàn	a pig pen / a fold	Noun 名词	
+圈		juān	to confine / to enclose	Verb 动词	
+骏马	駿馬	jùnmǎ	a steed	Noun 名词	
+开垦	開墾	kāikěn	to clear a wild area for cultivation	Verb 动词	
+糠		kāng	husk / chaff	Noun 名词	
+印烙		lào	to brand	Verb 动词	ie to make a mark burned on the hide of livestock
+耒		lěi	plow	Noun 名词	
+犁		lí	a plow	Noun 名词	
+犁		lí	to plow	Verb 动词	
+篱	籬	lí	a fence	Noun 名词	
+镰	鐮	lián	scythe / sickle	Noun 名词	
+镰刀	鐮刀	liándāo	scythe / sickle	Noun 名词	
+良田		liángtián	fertile land	Noun 名词	
+篱笆	籬笆	líba	fence	Noun 名词	Especially one of bamboo or wood railings
+犁地		lídì	to plough	Verb 动词	
+驴	驢	lǘ	donkey	Noun 名词	
+骡	騾	luó	mule	Noun 名词	
+骡马	騾馬	luómǎ	a pack animal / horse and mule	Noun 名词	
+骡子	騾子	luózi	mule	Noun 名词	
+苗木		miáomù	a seedling	Noun 名词	
+秣		mò	to feed a horse with grain	Noun 名词	
+秣		mò	horse feed	Noun 名词	
+牧		mù	shepherd	Noun 名词	
+牧场	牧場	mùchǎng	pasture / grazing land / ranch	Noun 名词	
+牧民		mùmín	herdsman	Noun 名词	
+牧区	牧區	mùqū	grazing land / pasture	Noun 名词	
+牧羊		mùyáng	a shepherd	Noun 名词	
+牧羊		mùyáng	to raise sheep	Verb 动词	
+牧业	牧業	mùyè	animal husbandry / animal product industry	Noun 名词	
+碾		niǎn	to grind / to crush / to husk	Verb 动词	
+牛马	牛馬	niú mǎ	oxen and horses / beasts of burden	Noun 名词	
+农	農	nóng	agriculture	Noun 名词	
+农贸市场	農貿市場	nóng mào shìchǎng	farmer's market	Noun 名词	
+农桑	農桑	nóng sāng	to grow mulberry for silk worms	Verb 动词	To feed silk worms (sericulture)
+农场	農場	nóngchǎng	a farm	Noun 名词	
+农产品	農產品	nóngchǎnpǐn	agricultural produce	Noun 名词	
+农夫	農夫	nóngfū	a peasant / a farmer	Noun 名词	
+农耕	農耕	nónggēng	plowing / agriculture	Noun 名词	
+农户	農戶	nónghù	peasant household	Noun 名词	
+农具	農具	nóngjù	farm tools	Noun 名词	
+农人	農人	nóngrén	a peasant / a farmer	Noun 名词	
+农田	農田	nóngtián	farmland / cultivated land	Noun 名词	
+农学	農學	nóngxué	agricultural science	Noun 名词	
+农学家	農學家	nóngxué jiā	agricultural scientist	Noun 名词	
+农药	農藥	nóngyào	pesticide	Noun 名词	
+农业	農業	nóngyè	Agriculture	Noun 名词	
+农作物	農作物	nóngzuòwù	crops	Noun 名词	
+耨		nòu	hoe	Noun 名词	
+培		péi	to cultivate	Verb 动词	
+秋收		qiūshōu	autumn harvest	Noun 名词	
+渠		qú	stream / canal / drain / ditch	Noun 名词	
+仁		rén	kernel	Noun 名词	
+穑	穡	sè	to gather in harvest	Verb 动词	
+牲		shēng	domestic animal	Noun 名词	
+牲畜		shēngchù	domesticated animals / livestock	Noun 名词	
+牲口		shēngkou	animals used for their physical strength	Noun 名词	
+施肥		shīféi	to use fertilizer	Verb 动词	
+收成		shōuchéng	a harvest	Noun 名词	
+收割		shōugē	to harvest / to reap	Verb 动词	
+收获	收穫	shōuhuò	a crop / a harvest	Noun 名词	
+水稻		shuǐdào	rice / paddy	Noun 名词	
+水利		shuǐlì	water conservancy / irrigation works	Noun 名词	
+饲料	飼料	sìliào	feed	Noun 名词	
+穗		suì	an ear of grain	Noun 名词	
+田		tián	field	Noun 名词	
+田地		tiándì	field / farmland	Noun 名词	
+田间	田間	tiánjiān	a field	Noun 名词	
+拖拉机	拖拉機	tuōlājī	tractor	Noun 名词	
+围	圍	wéi	a low lying rice paddy	Noun 名词	Synonym discussion: in this sense 围 has the same meaning as 围田.
+围田	圍田	wéitián	a low lying rice paddy	Noun 名词	
+沃		wò	fertile / rich	Adjective 形容词	of soil
+畜		xù	to raise animals	Verb 动词	
+畜产品	畜產品	xùchǎnpǐn	an animal by-product	Noun 名词	
+畜牧		xùmù	livestock	Noun 名词	
+畜牧业	畜牧業	xùmùyè	animal husbandry / livestock raising	Noun 名词	
+秧		yāng	shoots / sprouts	Noun 名词	
+扬谷	揚穀	yánggǔ	to winnow	Verb 动词	
+义仓	義倉	yìcāng	a public granary	Noun 名词	
+油料		yóuliào	vegetable material that can be pressed to extract oil	Noun 名词	
+渔夫	漁夫	yúfū	a fisherman	Noun 名词	
+栽		zāi	to plant / to force / to stick in	Verb 动词	
+栽培		zāipéi	to grow / to cultivate	Verb 动词	
+栽种	栽種	zāizhòng	to plant / to grow	Verb 动词	
+造		zào	a crop	Noun 名词	Dialect; synonym discussion: in this sense 造 is similar in meaning to 收成.
+棧	棧	zhàn	a pen for sheep or cattle / wood or bamboo trestlework / a warehouse	Noun 名词	
+圳		zhèn	furrow in field / small drainage	Noun 名词	
+植		zhí	to plant	Verb 动词	
+种	種	zhòng	to plant / to grow / to cultivate	Verb 动词	
+种地	種地	zhòngdì	to farm land	Verb 动词	
+种植	種植	zhòngzhí	to plant / to grow	Verb 动词	
+种子	種子	zhǒngzi	seed	Noun 名词	
+庄稼	莊稼	zhuāngjia	farm crop	Noun 名词	
+作物		zuòwù	a crop	Noun 名词	

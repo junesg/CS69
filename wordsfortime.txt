@@ -1,0 +1,619 @@
+经原	經原	 jīngyuán	former	Adjective 形容词	
+按期		ànqī	on schedule / on time	Adverb 副词	
+按时	按時	ànshí	on time / before deadline / on schedule	Adverb 副词	
+摆	擺	bǎi	a pendulum	Noun 名词	
+白露		Bái Lù	White Dew, 15th solar term	Proper noun 专名	
+白天		báitiān	daytime	Noun 名词	
+白昼	白晝	báizhòu	daytime	Noun 名词	
+傍晚		bàngwǎn	night fall / dusk	Noun 名词	
+半天		bàntiān	a long time	Noun 名词	Literally, half a day
+半夜		bànyè	midnight / in the middle of the night	Noun 名词	
+夜半		bànyè	midnight	Noun 名词	
+八月		bāyuè	August	Proper noun 专名	
+北京时间	北京時間	Běijīng Shíjiān	Chinese Standard Time	Noun 名词	
+表	錶	biǎo	clock / a wrist watch	Noun 名词	
+丙		bǐng	third heavenly stem / third in order	Proper noun 专名	
+不断	不斷	bùduàn	unceasing / uninterrupted	Adverb 副词	
+不久		bùjiǔ	not long / soon	Adjective 形容词	
+不时	不時	bùshí	frequently / often / at any time	Adverb 副词	
+才	纔	cái	just / not until	Adverb 副词	
+曾		céng	once / already / former / previously	Adverb 副词	
+曾经	曾經	céngjīng	once / already / former / previously / ever	Adverb 副词	
+刹	剎	chà	a brief moment	Noun 名词	
+刹那	剎那	chànà	an instant	Noun 名词	Sanskrit: kṣaṇa
+常		cháng	always / ever / often / frequently / common / general	Adverb 副词	
+尝	嘗	cháng	already / formerly / already / ever / once	Adverb 副词	
+常常		chángcháng	frequently / usually / often	Adverb 副词	
+长久	長久	chángjiǔ	long term	Adjective 形容词	
+常年		chángnián	a whole year / an average year	Noun 名词	
+长年	長年	chángnián	all the year round	Noun 名词	
+长期	長期	chángqī	long term / long time	Adjective 形容词	
+长远	長遠	chángyuǎn	long-term / long-range	Adjective 形容词	
+辰		Chén	Fifth Earthly Branch	Proper noun 专名	
+辰		chén	7-9 a.m.	Noun 名词	
+晨朝		chéncháo	early morning	Noun 名词	06:00-10:00; a four hour period in the traditional Chinese time of day.
+成天		chéngtiān	all day long / all the time	Adverb 副词	
+迟	遲	chí	late / delayed / slow	Adjective 形容词	
+迟到	遲到	chídào	to arrive late	Verb 动词	
+迟发	遲發	chífā	delayed	Adverb 副词	
+持久		chíjiǔ	enduring / lasting	Adjective 形容词	
+持续	持續	chíxù	to continue / to sustain	Verb 动词	
+丑		Chǒu	Second Earthly Branch	Proper noun 专名	
+抽空		chōukòng	to find the time to do something	Verb 动词	
+初		chū	at first / at the beginning / initially	Adverb 副词	
+处暑	處暑	Chǔ Shǔ	End of Heat, 14th solar term	Proper noun 专名	
+初夜		chū yè	early evening	Noun 名词	18:00-22:00; a four hour period in the traditional Chinese time of day.
+初步		chūbù	initial / preliminary / tentative	Adjective 形容词	
+春		chūn	spring	Noun 名词	
+春分		Chūn Fēn	Spring Equinox, fourth solar term	Proper noun 专名	
+春天		chūntiān	spring	Noun 名词	
+初期		chūqī	initial stage / beginning period	Noun 名词	
+此次		cǐcì	this time	Noun 名词	
+次第		cìdì	one after another	Adverb 副词	
+次第		cìdì	order / sequence	Adverb 副词	
+此刻		cǐkè	this moment / now / at present	Noun 名词	
+此前		cǐqián	before this / before then / previously	Noun 名词	
+此时	此時	cǐshí	now / this moment	Pronoun 代词	
+从来	從來	cónglái	always / at all times / never (if used in a negative sentence)	Adverb 副词	
+从前	從前	cóngqián	previously / formerly	Adverb 副词	
+从未	從未	cóngwèi	never	Adverb 副词	
+从_起	從_起	cóng_qǐ	starting from		
+蹉跎		cuōtuó	to waste time / to take a wrong step in life	Verb 动词	
+大寒		Dà Hán	Great Cold, 24th solar term	Proper noun 专名	
+大暑		Dà Shǔ	Great Heat, twelfth solar term	Proper noun 专名	
+大雪		Dà Xuě	Great Snow, 21st solar term	Proper noun 专名	
+代		dài	generation / dynasty / age / period / era	Noun 名词	
+当初	當初	dāngchū	at that time / originally	Noun 名词	
+当代	當代	dāngdài	the present age / the contemporary era	Noun 名词	
+当今	當今	dāngjīn	current / present / now / nowadays	Noun 名词	
+当年	當年	dāngnián	during those years / during that time	Noun 名词	
+当前	當前	dāngqián	to be facing (us)	Verb 动词	
+当前	當前	dāngqián	present	Noun 名词	
+当日	當日	dāngrì	at the time	Noun 名词	
+当时	當時	dāngshí	then / at that time / while	Noun 名词	
+当天	當天	dàngtiān	that day / the same day	Noun 名词	
+当下	當下	dāngxià	presently / immediately / at once	Adverb 副词	
+当中	當中	dāngzhōng	during	Noun 名词	
+到底		dàodǐ	finally / in the end	Adverb 副词	
+倒计时	倒計時	dǎojìshí	to countdown	Verb 动词	
+到期		dàoqī	to become due / to expire	Verb 动词	
+点钟	點鐘	diǎn zhōng	o'clock	Phrase 词组	
+迭		dié	alternately / repeatedly	Adverb 副词	
+丁		dīng	fourth heavenly trunk	Noun 名词	
+定期		dìngqī	regular / at regular intervals / fixed term	Adjective 形容词	
+定期		dìngqī	to fix a date	Verb 动词	
+定于	定於	dìngyú	to be set at / to be scheduled at	Verb 动词	
+地支		dìzhī	the 12 Earthly Branches	Noun 名词	The 10 heavenly trunks are 子, 丑, 寅, 卯, 辰, 巳, 午, 未, 申, 酉, 戌, 亥
+冬至		Dōng Zhì	Winter Solstice, 22nd solar term	Proper noun 专名	
+断断续续	斷斷續續	duàn duàn xù xù	intermittent	Phrase 词组	
+短促		duǎncù	short in time / fleeting / brief	Adjective 形容词	
+段落		duànluò	phase / time interval / paragraph	Noun 名词	
+短期		duǎnqī	short-term	Noun 名词	
+短暂	短暫	duǎnzàn	transient / short	Adjective 形容词	
+顿时	頓時	dùnshí	suddenly / at once / immediately / forthwith	Adverb 副词	
+俄		é	a short time	Noun 名词	
+二月		èryuè	February	Proper noun 专名	
+方才		fāngcái	just now	Adverb 副词	
+非时	非時	fēishí	untimely / an unusual time / the period of time from the afternoon to the early hours of the morning	Noun 名词	
+分		fēn	a minute / a 15 second unit of time	Measure word 量词	
+逢		féng	every time	Adverb 副词	
+分钟	分鐘	fēnzhōng	minute	Measure word 量词	
+改天		gǎitiān	another day / some other time	Noun 名词	
+刚	剛	gāng	just / barely / exactly	Adverb 副词	
+刚才	剛纔	gāngcái	a moment ago	Adverb 副词	
+刚刚	剛剛	gānggang	just recently / just a moment ago	Adverb 副词	
+庚		gēng	seventh heavenly stem / seventh in order	Proper noun 专名	
+隔宿		gésù	from the previous night / from a previous time	Adjective 形容词	
+共存		gòngcún	to coexist	Verb 动词	
+工夫		gōngfu	time / spare time	Noun 名词	
+公历	公曆	Gōnglì	Gregorian calendar	Proper noun 专名	
+工期		gōngqī	time limit for a project	Noun 名词	
+公元		gōngyuán	Christian era (CE) / Gregorian calendar / AD (Anno Domini)	Noun 名词	
+公元前		Gōngyuán Qián	Before the Common Era (BCE)	Adjective 形容词	
+故		gù	old	Adjective 形容词	
+估		gù	old / second-hand	Adjective 形容词	
+古		gǔ	ancient / old / palaeo-	Adjective 形容词	
+谷雨	穀雨	Gǔ Yǔ	Grain Rain, sixth solar term	Proper noun 专名	
+光阴	光陰	guāngyīn	available time	Noun 名词	
+关头	關頭	guāntóu	juncture / moment	Noun 名词	
+癸		guǐ	tenth heavenly stem / tenth in order	Proper noun 专名	
+晷		guǐ	a sundial	Noun 名词	
+过后	過後	guòhòu	afterwards	Noun 名词	
+过去	過去	guòqu	(in the) past / former	Noun 名词	
+过时	過時	guòshí	to be old-fashioned / to be out of date	Verb 动词	
+过早	過早	guòzǎo	premature / untimely / over-hasty	Adverb 副词	
+姑且		gūqiě	temporarily / provisionally / tentatively	Adverb 副词	
+亥		Hài	Twelfth Earthly Branch	Proper noun 专名	
+亥		hài	9-11 p.m.	Noun 名词	
+寒露		Hán Lù	Cold Dew, 17th solar term	Proper noun 专名	
+号	號	hào	a date / a day of the month	Noun 名词	
+毫秒		háomiǎo	a millisecond	Noun 名词	
+恒	恆	héng	permanent	Adjective 形容词	
+恒常		héngcháng	constant	Adjective 形容词	
+后	後	hòu	after / later / behind	Noun 名词	
+后夜	後夜	hòu yè	early hours of the morning	Noun 名词	02:00-06:00; a four hour period in the traditional Chinese time of day.
+后半叶	後半葉	hòubànyè	the latter half	Noun 名词	of a decade, century etc
+后代	後代	hòudài	posterity / later periods / later ages / later generations	Noun 名词	
+后来	後來	hòulái	afterwards / later	Adverb 副词	
+后年	後年	hòunián	the year after next	Noun 名词	
+后期	後期	hòuqī	late stage / later period	Noun 名词	
+后天	後天	hòutiān	day after tomorrow	Noun 名词	
+花甲		huājiǎ	complete sexagenary cycle / passage of time	Noun 名词	
+缓	緩	huǎn	to postpone	Verb 动词	
+黄历	黄曆	huángli	almanac	Noun 名词	
+会儿	會兒	huìr	a moment	Noun 名词	
+活期		huóqī	current	Adjective 形容词	
+既		jì	already / since	Adverb 副词	
+即		jí	 promptly / right away	Adverb 副词	
+积	積	jī	old / long-standing	Adjective 形容词	
+纪	紀	jì	age / era / period / discipline / order	Noun 名词	
+己		jǐ	sixth of 10 heavenly trunks	Noun 名词	
+即		jí	at that time	Noun 名词	
+季		jì	season / period	Measure word 量词	
+际	際	jì	an occasion / a time	Adjective 形容词	
+甲		jiǎ	first heavenly stem	Noun 名词	
+渐	漸	jiàn	gradually	Adverb 副词	
+简短	簡短	jiǎnduǎn	brief	Adjective 形容词	
+将	將	jiāng	will, shall (future tense)	Adverb 副词	
+将来	將來	jiānglái	the future	Noun 名词	
+季度		jìdù	a period of three months / a quarter	Noun 名词	
+节气		jiéqi	solar term	Noun 名词	
+届时	屆時	jièshí	to be at the scheduled time	Verb 动词	
+结束	結束	jiéshù	to finish / to end	Verb 动词	
+截至		jiézhì	up to (a time) / by (a time)	Adverb 副词	
+截止		jiézhǐ	cut-off point / stopping point / deadline	Noun 名词	
+机关	機關	jīguān	organization / mechanism	Noun 名词	
+季节	季節	jìjié	season	Noun 名词	
+即刻		jíkè	immediately / instantly	Adverb 副词	
+鸡鸣	雞鳴	jīmíng	early hours of the morning	Noun 名词	
+近		jìn	recently	Adverb 副词	
+今		jīn	today / modern / present / current / this / now	Noun 名词	
+近代		jìndài	modern times	Noun 名词	
+惊蛰	驚蟄	Jīng Zhé	Waking of the Insects, third solar term	Proper noun 专名	
+经常	經常	jīngcháng	frequently / constantly / regularly / often	Adverb 副词	
+今后	今後	jīnhòu	henceforth / from now on / future	Noun 名词	
+纪年	紀年	jìnián	a calendar era	Noun 名词	
+纪念日	紀念日	jìniànrì	anniversary	Noun 名词	
+尽快	儘快	jǐnkuài	as quickly as possible	Adverb 副词	
+近来	近來	jìnlái	recently / lately	Adverb 副词	
+今年		jīnnián	this year	Noun 名词	
+近年		jìnnián	recent years	Noun 名词	
+近期		jìnqī	in the near future / soon	Noun 名词	
+近日		jìnrì	recently / in the last few days	Noun 名词	
+今日		jīnrì	today	Noun 名词	
+今天		jīntiān	today	Noun 名词	
+即时	即時	jíshí	immediate / prompt / instantaneous	Adjective 形容词	
+及时	及時	jíshí	promptly / without delay / timely	Adverb 副词	
+就		jiù	right away / only / precisely	Adverb 副词	
+久		jiǔ	old / long time	Adjective 形容词	Use for old things not old people
+旧	舊	jiù	old / former	Adjective 形容词	旧 is used for inanimate objects, such as buildings, etc rather than 老
+久		jiǔ	a long time	Adverb 副词	
+旧时	舊時	jiù shí	in former times	Phrase 词组	
+久长	久長	jiǔcháng	a long time	Noun 名词	
+旧历	舊曆	jiùlì	the traditional Chinese calendar / the lunar calendar	Noun 名词	Literally, old calendar
+久远	久遠	jiǔyuǎn	ancient	Adjective 形容词	
+九月		jiǔyuè	September	Proper noun 专名	
+继续	繼續	jìxù	to continue	Verb 动词	继续 can also function as a noun.
+及早		jízǎo	as soon as possible	Adverb 副词	
+距今		jù jīn	before the present / ago	Preposition 介词	
+开端	開端	kāiduān	a start / a beginning	Noun 名词	
+刻		kè	a quarter of an hour	Measure word 量词	
+刻		kè	a moment	Noun 名词	
+腊	臘	là	twelfth lunar month	Noun 名词	
+来年	來年	láinián	next year	Noun 名词	
+老		lǎo	old	Adjective 形容词	
+腊月	臘月	làyuè	twelfth lunar month	Noun 名词	
+历	曆	lì	calendar	Noun 名词	
+立		lì	instantaneously / immediatley	Adverb 副词	
+历	曆	lì	calendar science / calendar system	Noun 名词	In this sense 历 has the same meaning as 历法 or 历术.
+立春		lì Chūn	Start of Spring, first solar term	Proper noun 专名	
+立冬		lì Dōng	Start of Winter, 19th solar term	Proper noun 专名	
+立秋		lì Qiū	Start of Autumn, 13th solar term	Proper noun 专名	
+立夏		lì Xià	Beginning of Summer, seventh solar term	Proper noun 专名	
+连忙	連忙	liánmáng	promptly / at once	Adverb 副词	
+连年	連年	liánnián	successive years	Noun 名词	
+连夜	連夜	liányè	all through the night	Adverb 副词	
+礼拜	禮拜	lǐbài	week	Noun 名词	
+礼拜二		Lǐbàièr	Tuesday	Proper noun 专名	
+礼拜六		Lǐbàiliù	Saturday	Proper noun 专名	
+礼拜日		Lǐbàirì	Sunday	Proper noun 专名	
+礼拜三		Lǐbàisān	Wednesday	Proper noun 专名	
+礼拜四		Lǐbàisì	Thursday	Proper noun 专名	
+礼拜天		Lǐbàitiān	Sunday	Proper noun 专名	
+礼拜五		Lǐbàiwǔ	Friday	Proper noun 专名	
+礼拜一		Lǐbàiyī	Monday	Proper noun 专名	
+历法	曆法	lìfǎ	calendar science / calendar system	Noun 名词	
+历法	曆法	lìfǎ	calendar science / calendar system	Noun 名词	
+立即		lìjí	immediately	Adverb 副词	
+历届	歷屆	lìjiè	all previous sessions	Noun 名词	
+立刻		lìkè	immediately / promptly / promptly	Adverb 副词	
+历来	歷來	lìlái	always	Noun 名词	
+凌晨		língchén	early in the morning	Noun 名词	
+历年	歷年	lìnián	over the years	Noun 名词	
+临时	臨時	línshí	temporary / interim / ad hoc	Adverb 副词	
+历书	曆書	lìshū	an almanac	Noun 名词	
+六月		liùyuè	June	Proper noun 专名	
+漫长	漫長	màncháng	very long / endless	Adjective 形容词	
+慢长	慢長	màncháng	very long / endless	Adjective 形容词	
+芒		máng	a type of grass / Miscanthus sinensis	Noun 名词	variant of 邙
+芒种	芒種	Máng Zhòng	Grain in Ear, ninth solar term	Proper noun 专名	
+慢性		mànxìng	slow and patient / chronic	Adjective 形容词	
+满月	滿月	mǎnyuè	full moon / whole month / a baby's one-month birthday	Noun 名词	
+卯		Mǎo	Fourth Earthly Branch	Proper noun 专名	
+卯		mǎo	5-7 a.m.	Noun 名词	
+马上	馬上	mǎshàng	immediately	Adverb 副词	
+每当	每當	měidāng	whenever / every time	Adverb 副词	
+每逢		měiféng	every time / on each occasion / whenever	Adverb 副词	
+孟		mèng	first month	Proper noun 专名	
+绵绵	綿綿	miánmián	continuous / uninterrupted	Adjective 形容词	
+秒		miǎo	second	Measure word 量词	
+明年		míngnián	next year	Noun 名词	
+明天		míngtiān	tomorrow	Noun 名词	
+末期		mòqī	last times / final stage	Noun 名词	
+朝		morning	morning	Noun 名词	
+末世		mòshì	last phase of an age	Noun 名词	
+暮		mù	evening / sunset	Noun 名词	
+目前		mùqián	at present	Noun 名词	
+年		nián	year	Noun 名词	A measure word cannot be used with this noun. When used for dates year (年) is always placed first, then month (月), day (日), and finally time.
+年年		nián nián	year after year	Noun 名词	
+年月		nián yuè	months and year / time	Noun 名词	
+年初		niánchū	beginning of the year	Noun 名词	
+年代		niándài	decade / age / era / period	Noun 名词	
+年度		niándù	year (e.g. school year, fiscal year)	Noun 名词	
+年份		niánfèn	a particular year / a certain year / a given year	Noun 名词	
+年纪	年紀	niánjì	age	Noun 名词	
+年头	年頭	niántóu	year / start of the year / whole year	Noun 名词	
+年头儿	年頭兒	niántóur	year / start of the year / whole year	Noun 名词	Erhua variant of 年头
+农历	農曆	nónglì	the traditional Chinese calendar / the lunar calendar	Noun 名词	
+泡		pào	to stall for time	Verb 动词	
+跑錶		pǎobiǎo	stopwatch	Noun 名词	
+片刻		piānkè	a moment	Noun 名词	
+频	頻	pín	frequently / repeatedly	Adverb 副词	
+频	頻	pín	frequency	Noun 名词	
+频繁	頻繁	pínfán	frequently / often	Adjective 形容词	
+平旦		píng dàn	early morning	Noun 名词	
+平常		píngcháng	ordinary times	Noun 名词	
+平日		píngrì	ordinary day / weekday	Noun 名词	
+平时	平時	píngshí	ordinary times	Noun 名词	
+频率	頻率	pínlǜ	frequency	Noun 名词	
+破旧	破舊	pòjiù	old and shabby	Adjective 形容词	
+期		qī	a period of time / phase / stage	Noun 名词	
+亟		qì	repeatedly / frequently	Adverb 副词	
+前		qián	former	Noun 名词	
+前程		qiánchéng	the future	Noun 名词	
+千古		qiāngǔ	for all eternity / throughout all ages	Noun 名词	
+前后	前後	qiánhòu	around / from beginning to end	Noun 名词	
+前年		qiánnián	the year before last	Noun 名词	
+千年		qiānnián	millennium	Noun 名词	
+前期		qiánqī	preceding period / early stage	Noun 名词	
+前身		qiánshēn	forerunner / predecessor / precursor	Noun 名词	
+前天		qiántiān	the day before yesterday	Noun 名词	
+前途		qiántú	prospects / outlook / future	Noun 名词	
+前夕		qiánxī	eve / the day before	Noun 名词	
+起点	起點	qǐdiǎn	starting point	Noun 名词	
+期间	期間	qījiān	period of time	Noun 名词	
+其间	其間	qíjiān	during this time / in between	Noun 名词	
+迄今为止	迄今為止	qìjīn wéizhǐ	so far / up to now		
+勤		qín	frequent	Adjective 形容词	
+侵		qīn	gradually	Adverb 副词	Synonym discussion: in this sense 侵 is similar in meaning to 逐渐.
+清明		Qīng Míng	Pure Brightness, fifth solar term	Proper noun 专名	
+清晨		qīngchén	early morning	Noun 名词	3
+顷刻		qǐngkè	a moment / an instant	Noun 名词	
+清新		qīngxīn	fresh	Adjective 形容词	
+清早		qīngzǎo	early morning	Noun 名词	
+秋分		Qiū Fēn	Autumn Equinox, 16th solar term	Proper noun 专名	
+期限		qīxiàn	time limit / deadline / allotted time	Noun 名词	
+七月		qīyuè	July	Proper noun 专名	
+去		qù	of the past year	Adjective 形容词	
+去年		qùnián	last year	Noun 名词	
+壬		rén	ninth heavenly stem / ninth in order	Proper noun 专名	
+人定		réndìng	late night / middle of the night	Noun 名词	
+日		rì	day of the month / day	Measure word 量词	
+日出		rì chū	sunrise	Noun 名词	
+日月		rì yuè	day and month / every day and every month / season / life and livelihood	Phrase 词组	
+日常		rìcháng	daily / everyday	Adjective 形容词	
+日常		rìcháng	daily / everyday	Adverb 副词	
+日程		rìchéng	schedule / itinerary	Noun 名词	
+日晷		rìguǐ	a sundial	Noun 名词	
+日后	日後	rìhòu	someday / sometime	Noun 名词	
+日历	日曆	rìlì	calendar	Noun 名词	
+日没	日沒	rìmò	sunset / sundown	Noun 名词	
+日末		rìmò	afternoon	Noun 名词	14:00-18:00; a four hour period in the traditional Chinese time of day
+日期		rìqī	date	Noun 名词	
+日前		rìqián	a few days ago / the other day	Noun 名词	
+日趋	日趨	rìqū	day by day / with every passing day / gradually	Adverb 副词	
+日入		rìrù	daybreak	Noun 名词	
+日夜		rìyè	day and night / around the clock	Noun 名词	
+日益		rìyì	day by day / more and more / increasingly	Adverb 副词	
+日中		rìzhōng	noon	Noun 名词	
+日中		rìzhōng	midday / 10:00-14:00	Noun 名词	A four hour period in the traditional Chinese time of day
+日子		rìzi	day / days	Noun 名词	
+如今		rújīn	nowadays	Noun 名词	
+闰	閏	rùn	an extra day or month inserted into the calendar	Noun 名词	
+闰月	閏月	rùnyuè	intercalary month in the lunar calendar / leap month	Noun 名词	
+三月		sānyuè	March	Proper noun 专名	
+晌		shǎng	around noon	Noun 名词	
+上半叶	上半葉	shàngbànyè	the first half	Noun 名词	of a decade, century etc
+下半叶	下半葉	shàngbànyè	the latter half	Noun 名词	of a decade, century etc
+尚未		shàngwèi	not yet / still not	Adverb 副词	
+上午		shàngwǔ	morning	Noun 名词	
+晌午		shǎngwǔ	noon	Noun 名词	
+上旬		shàngxún	the first third of a month	Noun 名词	
+少		shào	young	Adjective 形容词	
+申		Shēn	Ninth earthly branch	Proper noun 专名	
+申		shēn	3-5 p.m.	Noun 名词	
+深		shēn	deep in time	Adjective 形容词	
+深		shēn	late	Adjective 形容词	
+深夜		shēnyè	late at night	Noun 名词	
+时	時	shí	time / a period of time	Noun 名词	Synonym discussion: in this sense 时 is similar in meaning to 时间.
+时	時	shí	a season / a quarter of a year	Noun 名词	Synonym discussion: in this sense 时 is similar in meaning to 季.
+时	時	shí	one of the 12 two-hour periods of the day	Noun 名词	Synonym discussion: in this sense 时 is similar in meaning to 时辰.
+时	時	shí	at that time	Adverb 副词	Synonym discussion: in this sense 时 is similar in meaning to 时候.
+时	時	shí	o'clock	Noun 名词	Synonym discussion: in this sense 时 is similar in meaning to 钟点.
+时	時	shí	frequently / often	Adverb 副词	Synonym discussion: in this sense 时 is similar in meaning to 常常 or 经常.
+时	時	shí	occasionally / sometimes	Adverb 副词	Synonym discussion: in this sense 时 is similar in meaning to 有时 or 偶尔.
+时	時	shí	on time	Adverb 副词	Synonym discussion: in this sense 时 is similar in meaning to 按时.
+时而	時而	shí ér	sometimes	Adverb 副词	
+时常	時常	shícháng	often / frequently	Adverb 副词	
+时辰	時辰	shíchén	time / one of the 12 two-hour periods of the day	Noun 名词	In the traditional Chinese time of day
+时代	時代	shídài	age / era / epoch / period	Noun 名词	
+世代		shìdài	a generation / an era	Noun 名词	
+时段	時段	shíduàn	time interval / work shift / duration	Noun 名词	
+十二月		shíèryuè	December	Proper noun 专名	
+时分	時分	shífēn	time / a period during the day / one of the 12 two-hour periods enumerated by the earthly branches	Noun 名词	
+时光	時光	shíguāng	time / era / period	Noun 名词	
+时候	時候	shíhou	time / length of time / moment / period	Noun 名词	
+世纪	世紀	shìjì	century	Noun 名词	
+时间	時間	shíjiān	time	Noun 名词	
+时节	時節	shíjié	season / time	Noun 名词	
+时刻	時刻	shíkè	moment	Noun 名词	
+时刻	時刻	shíkè	momentarily	Adverb 副词	
+时令	時令	shílìng	a season	Noun 名词	
+时期	時期	shíqī	a period in time or history	Noun 名词	
+时时	時時	shíshí	often / constantly	Adverb 副词	
+适时	適時	shìshí	timely	Adjective 形容词	
+事先		shìxiān	in advance / beforehand / prior	Adverb 副词	
+时限	時限	shíxiàn	a time limit	Noun 名词	
+时序	時序	shíxù	a time sequence	Noun 名词	
+时宜	時宜	shíyí	what is appropriate for the time	Noun 名词	
+十一月		shíyīyuè	November	Proper noun 专名	
+十月		shíyuè	October	Proper noun 专名	
+始终	始終	shǐzhōng	from beginning to end	Noun 名词	
+始终	始終	shǐzhōng	all along	Adverb 副词	
+时钟	時鐘	shízhōng	a clock	Noun 名词	
+手表	手錶	shǒubiǎo	wrist watch	Noun 名词	
+首度		shǒudù	the first time	Noun 名词	
+首先		shǒuxiān	first	Adverb 副词	首先 is an adverb expressing order
+曙		shǔ	daybreak / dawn	Noun 名词	
+霜降		Shuāng Jiàng	Frost Descends, 18th solar term	Proper noun 专名	
+曙光		shǔguāng	daybreak / dawn	Noun 名词	
+数年	數年	shǔnián	several years	Noun 名词	
+瞬间	瞬間	shùnjiān	momentary / in a flash	Adjective 形容词	
+顺时	順時	shùnshí	timely	Adjective 形容词	
+巳		Sì	Sixth Earthly Branch	Proper noun 专名	
+巳		sì	9-11 a.m.	Noun 名词	
+四季		sì jì	four seasons	Noun 名词	
+四月		sìyuè	April	Proper noun 专名	
+宿		sù	old / former	Adjective 形容词	
+随后	隨後	suíhòu	soon after	Adverb 副词	
+随即	隨即	suíjí	immediately / presently / following which	Adverb 副词	
+随时	隨時	suíshí	at any time	Noun 名词	
+岁时	歲時	suìshí	season / time of the year	Noun 名词	
+岁数	歲數	suìshu	age	Noun 名词	number of years old
+岁月	歲月	suìyuè	years	Noun 名词	
+天		tiān	day	Noun 名词	A measure word cannot be used with this noun.
+天干		tiāngān	the ten heavenly trunks / Heavenly Stems	Noun 名词	The ten stems are 甲, 乙, 丙, 丁, 戊, 己, 庚, 辛, 壬, 癸.
+天天		tiāntiān	every day	Adverb 副词	
+提前		tíqián	to bring forward in time	Verb 动词	
+提早		tízǎo	to shift to an earlier time	Verb 动词	
+同		tóng	simultaneously	Adverb 副词	
+同年		tóngnián	the same year	Noun 名词	
+同期		tóngqī	the corresponding time period	Noun 名词	
+同时	同時	tóngshí	at the same time / simultaneously	Adverb 副词	
+推		tuī	to delay / to postpone	Verb 动词	
+推迟	推遲	tuīchí	to postpone / to put off	Verb 动词	
+拖延		tuōyán	to delay	Verb 动词	
+突然		tūrán	sudden / abrupt	Adjective 形容词	
+突然		tūrán	suddenly / abruptly	Adverb 副词	
+晚		wǎn	evening / night / late	Noun 名词	
+往		wǎng	in the past	Adjective 形容词	
+往后	往後	wǎnghòu	the future	Noun 名词	
+往年		wǎngnián	former years	Noun 名词	
+往日		wǎngrì	former days	Noun 名词	
+往事		wǎngshì	past events	Noun 名词	
+往往		wǎngwǎng	often / frequently	Adverb 副词	
+往昔		wǎngxī	in the past	Noun 名词	
+晚间	晚間	wǎnjiān	in the evening / at night	Noun 名词	
+晚期		wǎnqī	late period	Noun 名词	
+晚上		wǎnshang	evening / night	Noun 名词	
+未		Wèi	Eighth earthly branch / 1-3 p.m.	Noun 名词	
+未经	未經	wèijīng	not yet	Adverb 副词	
+未来	未來	wèilái	future	Noun 名词	
+为期	為期	wéiqī	by (a certain date) / lasting (a certain time)	Verb 动词	
+为时	為時	wèishí	timewise / pertaining to time	Adjective 形容词	
+为止	為止	wéizhǐ	until / up to	Verb 动词	
+午		wǔ	noon / 11 a.m.-1 p.m.	Noun 名词	
+午		wǔ	Seventh earthly branch	Noun 名词	
+戊		wù	fifth heavenly stem / fifth in order	Proper noun 专名	
+无期	無期	wúqī	an unspecified period / in the indefinite future / no fixed time / an indefinite sentence	Noun 名词	
+午夜		wǔyè	midnight	Noun 名词	
+五月		wǔyuè	May	Proper noun 专名	
+夕		xī	dusk / evening	Noun 名词	
+希		xī	rare / infrequent	Adverb 副词	
+习	習	xí	frequently / constantly / regularly / often	Adverb 副词	Synonym discussion: in this sense 习 has the same meaning as 经常 or 常常.
+西元前		Xī yuán qián	Before the Common Era (BCE)	Adjective 形容词	
+下		xià	measure word for time	Measure word 量词	
+夏令时	夏令時	xià lìng shí	daylight saving time	Noun 名词	
+夏至		Xià Zhì	Summer Solstice, tenth solar term	Proper noun 专名	
+先		xiān	first / in advance	Adverb 副词	
+先		xiān	early / prior / former	Noun 名词	
+现今	現今	xiàn jīn	now / nowadays	Adverb 副词	
+现代	現代	xiàndài	modern times / modern age	Noun 名词	
+现代	現代	xiàndài	modern	Adjective 形容词	
+向	曏	xiàng	formerly	Adverb 副词	
+向来	向來	xiànglái	always / all along	Adverb 副词	
+先后	先後	xiānhòu	in succession / early or late	Adverb 副词	
+限期		xiànqī	time limit	Noun 名词	
+限期		xiànqī	to be within a time limit	Verb 动词	
+先前		xiānqián	before	Noun 名词	
+先行		xiānxíng	to precede	Verb 动词	
+现在	現在	xiànzài	at present / in the process of	Adverb 副词	现在 is an adverb expressing time
+小寒		Xiǎo Hán	Lesser Cold, 23rd solar term	Proper noun 专名	
+小满	小滿	Xiǎo Mǎn	Lesser Full Grain, eighth solar term	Proper noun 专名	
+小暑		Xiǎo Shǔ	Lesser Heat, eleventh solar term	Proper noun 专名	
+小雪		Xiǎo Xuě	Lesser Snow, 20th solar term	Proper noun 专名	
+小时	小時	xiǎoshí	hour	Noun 名词	Can also be classified as a measure word.
+下午		xiàwǔ	afternoon	Noun 名词	
+下旬		xiàxún	last third of the month	Noun 名词	
+新		xīn	new	Adjective 形容词	
+辛		xīn	eighth of 10 heavenly trunks	Noun 名词	
+星期		xīngqī	week	Noun 名词	
+星期二		Xīngqīèr	Tuesday	Proper noun 专名	Favored in written Chinese over the forms 周一, 礼拜一, etc.
+星期六		Xīngqīliù	Saturday	Proper noun 专名	Favored in written Chinese over the forms 周一, 礼拜一, etc.
+星期日		Xīngqīrì	Sunday	Proper noun 专名	Favored in written Chinese over the forms 周一, 礼拜一, etc.
+星期三		Xīngqīsān	Wednesday	Proper noun 专名	Favored in written Chinese over the forms 周一, 礼拜一, etc.
+星期四		Xīngqīsì	Thursday	Proper noun 专名	Favored in written Chinese over the forms 周一, 礼拜一, etc.
+星期天		Xīngqītiān	Sunday	Proper noun 专名	Favored in written Chinese over the forms 周一, 礼拜一, etc.
+星期五		Xīngqīwǔ	Friday	Proper noun 专名	Favored in written Chinese over the forms 周一, 礼拜一, etc.
+星期一		Xīngqīyī	Monday	Proper noun 专名	Favored in written Chinese over the forms 周一, 礼拜一, etc.
+新近		xīnjìn	recent time	Noun 名词	
+昔日		xīrì	formerly	Adverb 副词	
+宿		xiǔ	night	Measure word 量词	
+宿		xiǔ	constellation	Noun 名词	
+西元		Xīyuán	Christian era (CE) / Gregorian calendar / AD (Anno Domini)	Noun 名词	
+戌		xū	Eleventh Earthly Branch	Proper noun 专名	
+戌		xū	7-9 p.m.	Noun 名词	
+旬		xún	ten days / ten years / full period	Noun 名词	
+延迟	延遲	yánchí	to delay / to postpone	Verb 动词	
+阳历	陽曆	yánglì	solar calendar	Noun 名词	
+延缓	延緩	yánhuǎn	to delay	Verb 动词	
+眼看		yǎnkàn	soon	Adverb 副词	
+延期		yánqī	to postpone / to extend	Verb 动词	
+眼前		yǎnqián	now / present	Noun 名词	
+眼下		yǎnxià	now / at present	Noun 名词	
+延续	延續	yánxù	to continue / to last longer	Verb 动词	
+夜		yè	night	Noun 名词	
+夜间	夜間	yèjiān	nighttime / evening	Noun 名词	
+夜里	夜裡	yèlǐ	nighttime	Noun 名词	
+夜晚		yèwǎn	night	Noun 名词	
+已		yǐ	already	Adverb 副词	
+乙		yǐ	second heavenly stem	Noun 名词	
+一个劲儿	一個勁儿	yī gè jìnr	continuously	Phrase 词组	
+一度		yīdù	at one time / one time / once	Adverb 副词	
+以后	以後	yǐhòu	afterwards	Noun 名词	
+已经	已經	yǐjīng	already	Adverb 副词	
+以来	以來	yǐlái	since	Preposition 介词	
+寅		Yín	Third Earthly Branch	Proper noun 专名	
+寅		yín	3-5 a.m.	Noun 名词	
+应时	應時	yìngshí	timing	Noun 名词	
+翌年		yìnián	the following year	Noun 名词	
+一齐	一齊	yīqí	simultaneously	Adverb 副词	
+以前		yǐqián	before / formerly / previous / ago	Noun 名词	
+一时	一時	yīshí	a period of time / a while	Noun 名词	
+一时	一時	yīshí	temporarily / momentarily / simultaneously	Adverb 副词	
+以往		yǐwǎng	in the past / before	Noun 名词	
+一下		yīxià	one time / once / for a short time	Adverb 副词	
+一月		yīyuè	January	Proper noun 专名	
+一直		yīzhí	straight (in a straight line) / continuously	Adverb 副词	
+永		yǒng	forever / always / perpetual	Adverb 副词	
+永恒	永恆	yǒnghéng	eternal / everlasting	Adjective 形容词	
+永久		yǒngjiǔ	everlasting / perpetual / lasting / forever / permanent	Adverb 副词	
+永久性		yǒngjiǔxìng	permanent	Adjective 形容词	
+永远	永遠	yǒngyuǎn	forever / eternal / always	Adverb 副词	
+悠		yōu	established / long	Adjective 形容词	
+酉		Yǒu	Tenth Earthly Branch	Proper noun 专名	
+有时候	有時候	yǒu shíhou	sometimes / at times	Adverb 副词	
+有待		yǒudài	to remain / pending	Verb 动词	
+悠久		yōujiǔ	established / long	Adjective 形容词	
+有时	有時	yǒushí	sometimes	Adverb 副词	
+悠悠		yōuyōu	lasting for ages / long drawn out / remote in time or space / unhurried / a great number (of events) / preposterous / pensive	Adjective 形容词	
+预	預	yù	in advance / beforehand	Adverb 副词	
+与此同时	與此同時	yǔ cǐ tóngshí	at the same time / meanwhile	Phrase 词组	
+雨水		Yǔ Shuǐ	Rain Water, second solar term	Proper noun 专名	
+原		yuán	former / original / primary / raw	Adjective 形容词	
+原来	原來	yuánlái	originally / formerly	Adverb 副词	
+远虑	 遠慮	yuǎnlǜ	long term	Adjective 形容词	
+远期	遠期	yuǎnqī	long term	Noun 名词	
+原先		yuánxiān	former / original	Adjective 形容词	
+月		yuè	month	Noun 名词	
+月底		yuèdǐ	end of the month	Noun 名词	
+月份		yuèfèn	month	Noun 名词	
+预先	預先	yùxiān	beforehand / prior / in advance	Adverb 副词	
+预约	預約	yùyuē	to reserve / to make an appointment	Verb 动词	
+在此之前		zàicǐ zhīqián	before this / beforehand / previously	Phrase 词组	
+暂	暫	zàn	temporarily	Adverb 副词	In this sense 暂 is synonomous with 暂时.
+暂	暫	zàn	just now	Adverb 副词	In this sense 暂 is synonomous with 刚刚 or 方才.
+暂且	暫且	zànqiě	temporarily	Adverb 副词	
+暂时	暫時	zànshí	temporary / provisional	Adjective 形容词	
+早		zǎo	early / morning	Noun 名词	
+早		zǎo	already	Adverb 副词	
+早晨		zǎochén	early morning	Noun 名词	
+早期		zǎoqī	early period / early phase / early stage	Noun 名词	
+早日		zǎorì	soon / shortly	Adverb 副词	
+早上		zǎoshàng	early morning	Noun 名词	Compare with 上午 (shàngwǔ), which refers to the later part of the morning, and 凌晨 (língchén), which refers to the very early morning.
+早晚		zǎowǎn	morning and evening	Noun 名词	
+早晚		zǎowǎn	sooner or later	Adverb 副词	
+早些		zǎoxiē	a little earlier	Noun 名词	
+早已		zǎoyǐ	long ago	Adverb 副词	
+肇	肈	zhào	the start / the origin	Noun 名词	
+照旧	照舊	zhàojiù	as in the past	Adjective 形容词	
+阵	陣	zhèn	wave / spate / burst / spell / short period of time	Noun 名词	
+整天		zhěngtiān	all day long	Noun 名词	
+正月		Zhēngyuè	first month of the lunar new year	Noun 名词	
+正在		zhèngzài	in the process of (doing something)	Adverb 副词	See The Progressive Aspect of an Action.
+止		zhǐ	until	Adverb 副词	
+之后	之後	zhīhòu	after / following / later	Noun 名词	
+之际		zhījì	at that moment	Preposition 介词	
+之际	之際	zhījì	time	Noun 名词	
+至今		zhìjīn	until now	Preposition 介词	
+直至		zhízhì	lasting until / up until	Adverb 副词	
+钟	鐘	zhōng	clock	Noun 名词	
+钟	鐘	zhōng	o'clock	Measure word 量词	
+终	終	zhōng	end / finish	Noun 名词	
+终	終	zhōng	in the end	Adverb 副词	
+中期		zhōng qī	mid-term	Noun 名词	
+钟表	鐘錶	zhōngbiǎo	clocks and watches	Noun 名词	
+钟点	鐘點	zhōngdiǎn	a specified time	Noun 名词	
+终年	終年	zhōngnián	entire year	Noun 名词	
+终日	終日	zhōngrì	all day	Adverb 副词	
+钟头	鐘頭	zhōngtóu	hour	Noun 名词	
+中午		zhōngwǔ	noon / midday	Noun 名词	
+中旬		zhōngxún	middle third of a month	Noun 名词	
+中叶	中葉	zhōngyè	mid- / middle period	Noun 名词	
+中夜		zhōngyè	late night	Noun 名词	22:00-02:00; a four hour period in the traditional Chinese time of day
+终于	終於	zhōngyú	at last / in the end / finally / eventually	Adverb 副词	
+周	週	zhōu	week	Noun 名词	
+骤	驟	zhòu	suddenly	Adverb 副词	
+周二		Zhōuèr	Tuesday	Proper noun 专名	
+周六		Zhōuliù	Saturday	Proper noun 专名	
+周末	週末	zhōumò	weekend	Noun 名词	
+周年	週年	zhōunián	anniversary	Noun 名词	
+周年	週年	zhōunián	annual	Adjective 形容词	
+周期	週期	zhōuqī	period / cycle	Noun 名词	
+周日		Zhōurì	Sunday	Proper noun 专名	
+周三		Zhōusān	Wednesday	Proper noun 专名	
+周四		Zhōusì	Thursday	Proper noun 专名	
+周五		Zhōuwǔ	Friday	Proper noun 专名	
+昼夜	晝夜	zhòuyè	day and night	Noun 名词	
+昼夜	晝夜	zhòuyè	continuously	Adverb 副词	
+周一		Zhōuyī	Monday	Proper noun 专名	
+转眼	轉眼	zhuǎnyǎn	in a flash / in the blink of an eye / to glance	Verb 动词	
+逐渐	逐漸	zhújiàn	gradually	Adverb 副词	
+逐年		zhúnián	year after year / on an annual basis	Adverb 副词	
+准时	準時	zhǔnshí	on time / punctual / on schedule	Adjective 形容词	
+子		zǐ	First earthly branch	Noun 名词	
+子		zǐ	11 p.m.-1 a.m.	Noun 名词	
+兹		zī	now	Noun 名词	
+自从	自從	zìcóng	since (a time) / ever since	Adverb 副词	
+自古		zìgǔ	since ancient times	Preposition 介词	
+最早		zuì zǎo	earliest	Adjective 形容词	
+最初		zuìchū	first / outset / start	Noun 名词	
+最初		zuìchū	initiallly	Noun 名词	
+最后	最後	zuìhòu	final / last	Noun 名词	
+最近		zuìjìn	recently	Adverb 副词	
+最先		zuìxiān	the first / the earliest	Noun 名词	
+最新		zuìxīn	recently / latest	Adverb 副词	
+最终	最終	zuìzhōng	finally / ultimately	Adverb 副词	
+昨		zuó	yesterday	Noun 名词	
+昨日		zuórì	yesterday	Noun 名词	
+昨天		zuótiān	yesterday	Noun 名词	
