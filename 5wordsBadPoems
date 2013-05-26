@@ -92,10 +92,10 @@ BODY:
 TITLE:独du2 孤gu1 求qiu2 单dan1 
 AUTHOR:炫xuan2 银yin2 十shi2 字zi4 星xing1
 FORMAT:
-==|==(human)|=
-==|==(thing)|=(scene)
-==(sound)|==|=(sound)
-==(sound)|==(sound)|=
+==(number)|=(number)=(human)|=(action)
+==(number)|=(number)=(thing)|=(action)
+=(number)=(sound)|=(number)=|=(action)
+=(number)=(sound)|=(number)=|=(action)
 EMOTIONS:
 孤独，潇洒
 CATEGORY: life, journey, lonely
@@ -113,10 +113,10 @@ ID: 07
 TITLE:不bu4 思si1
 AUTHOR:anonymous
 FORMAT:
-==(scene)(+)|=(temperature)==(scene)
+==(scene)(+)|=(temperature)==(action)
 ==(scene)(+)|=(thing)==(scene)
-==|===(thing)(+)
-==(scene)(+)|===(human)
+==|=(action)==(thing)(+)
+==(scene)(+)|=(action)==(human)
 EMOTIONS:
 爱情，幽静
 CATEGORY:life, love
@@ -134,10 +134,10 @@ ID: 08
 TITLE:秋qiu1 日ri4
 AUTHOR:Anonymous
 FORMAT:
-==(scene)(-）|=|==(scene)
-==(scene)|==|=（-）
+==(scene)(-）|=(action)|==(scene)
+==(scene)|==|=(action)（-）
 ==(-)|=(human)|==(sound)
-==(sound)|==(-)|=(hear)
+==(sound)|==(-)|=(action)
 EMOTIONS:
 孤独，寂寞，惆怅，冷清
 CATEGORY:life,friendship,love
@@ -174,13 +174,13 @@ ID: 10
 TITLE:也ye3 談tan2 冬deng1
 AUTHOR:Anonymous
 FORMAT:
-==(+)|==(time)|=(+)
+==(+)(action)|==(time)|=(+)
 ==|==(-)(scene)|=(-)(touch)
 ==|==(+)(scene)|=(+)
 ==|==(+)(thing)|=(+)
 EMOTIONS:
 平静，美丽，安详
-CATEGORIE:life,scenery
+CATEGORIE:life,scenery,season
 COMPARISONS:
 winter vs warmth
 weather vs feelings
@@ -195,10 +195,10 @@ ID: 11
 TITLE:冬dong1 眠mian2
 AUTHOR:Anonymous
 FORMAT:
-==(scene)(-)|==(scene)|=
-==(touch)(-)|==(human)=
-==|==(time)|=(-)
-==(thing)|=|==(+)
+==(scene)(-)|==(scene)|=(action)
+==(touch)(-)|==(human)=(action)
+==|==(time)|=(-)(time)
+==(thing)|=|==(+)(action)
 EMOTIONS: 
 孤寂，冷清
 CATEGORY:life,scenery,lonely
@@ -256,9 +256,9 @@ ID: 14
 TITLE:隐yin3 逸yi4
 AUTHOR:
 FORMAT:
-==(scene)|=|==(scene)(+)
-==(scene)|=|==(human)(+)
-==(+)|==(scene)|=
+==(scene)|=(action)|==(scene)(+)
+==(scene)|=(action)|==(human)(+)
+==(+)|==(scene)|=(action)
 ==(+)|=|==(human)
 EMOTIONS:
 清闲，清幽，幽静，潇洒
@@ -276,13 +276,13 @@ TITLE:过guo4 中zhong1 州zhou1
 AUTHOR:风feng1 清qing1 月yue4 白bai2
 FORMAT:
 ==(thing)|===(number)
-==|===(scene)
-==(scene)|===(scene)
-==(scene)|===
-==|=|==
+==(action)|===(location)
+==(scene)|===(number)
+==(scene)|===(number)
+==(location)|=(number)|==
 ==(direction)|=|==
-==|===(scene)
-==|=|==(+)
+==(action)|==(location)=
+==(location)|=|==(+)
 EMOTIONS:
 思念，思乡
 CATEGORY:journey, hometown, missing
@@ -304,8 +304,8 @@ ID: 20
 TITLE:
 AUTHOR:Anonymous
 FORMAT:
-==|===(scene)(+)
-==|===(scene)(-)
+=(time)=(action)|===(scene)(+)
+==(action)|===(scene)(-)
 ==|===(scene)(+)
 ==(-)|===(thing)
 ==|==(scene)|=(-)
@@ -419,6 +419,7 @@ BODY:
 家jia1 家jia1 无wu2 闲xian2 日ri4,
 处chu4 处chu4 无wu2 闲xian2 人ren2.
 
+
 ID: 26
 TITLE:
 FORMAT:
@@ -510,7 +511,7 @@ FORMAT:
 ==|==(thing)|=(+)
 ==(+)|===
 ==(thing)|=|==
-==(+)|==|=(-)
+==|==|=(+)
 ==|===(thing)
 EMOTIONS:
 虔诚

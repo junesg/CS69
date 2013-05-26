@@ -5,7 +5,7 @@ FORMAT:
 ==(scene)(-)|==(action)(-)|=(human)
 ==(action)(+)|==(sound)|=
 ==(scene)|=|==(scene)
-==(+)|==(scene)|=
+==(+)|==(scene)|=(location)
 EMOTION:
 清泠,幽静,虚无,幽暗,静美
 CATEGORY:life,solitude
@@ -26,8 +26,8 @@ AUTHOR:王wang2 维wei2
 FORMAT: 
 ==|==(scene)|=
 ==(sound)|=|==(sound)
-==(scene)|=(human)|==(-)
-==(scene)|=|==(+)
+==(scene)|=(human)|==(action)(-)
+==(scene)|=|==(action)(+)
 EMOTION:
 闲适,清新,静寂,幽静,静美
 CATEGORY:life,solitude
@@ -46,10 +46,10 @@ ID: 03
 TITLE:送song4 别bie2
 AUTHOR:王wang2 维wei2
 FORMAT:
-==(scene)|===
+==(scene)|==(action)=
 ==(scene)|=(-)|==(scene)
 ==(scene)|==(time)|=(color)(+)
-==(human)|===
+==(human)|===(action)
 EMOTION:
 不舍,依恋,冀望,寂寞，思念
 CATEGORY:farewell,friendship
@@ -67,10 +67,10 @@ ID: 04
 TITLE:相xiang1 思si1
 AUTHOR:王wang2 维wei2
 FORMAT:
-==(thing)|=|==(scene)
-==(scene)|=|==
-==(human)|=|==
-==(thing)|=|==(+)
+==(thing)|=(action)|==(location)
+==(scene)|=(action)|==(number)
+==(human)|=|==(action)
+==(thing)|=|==(action)(+)
 EMOTION:
 思念,依恋,单纯,青春,含蓄,朴素,生命力
 CATEGORY:love,friendship,missing
@@ -88,9 +88,9 @@ ID: 05
 TITLE:杂za2 诗shi1
 AUTHOR:王wang2 维wei2
 FORMAT:
-==(human)|==(location)|=
-==|==(location)|=
-==(time)|==(scene)|=
+==(human)|==(location)|=(action)
+==(action)|==(location)|=
+==(time)|==(scene)|=(location)
 ==(scene)|==(scene)|=(time)
 EMOTION:
 天真,亲切,思念,朴素,超然
@@ -109,9 +109,9 @@ TITLE:送song4 崔cui1 九jiu3
 AUTHOR:裴pei2 迪di2
 FORMAT:
 ==(scene)|==(scene)|=
-==|==(scene)|=(+)
-==(-)|===(human)(-)
-==(-)|===(scene)(+)
+==(action)|==(scene)|=(+)
+==(-)(action)|==(location)=(human)(-)
+=(time)=(-)(action)|==(location)=(scene)(+)
 EMOTION:
 幽美,不满,反感
 CATEGORY:
@@ -130,10 +130,10 @@ ID: 07
 TITLE:终zhogn1 南nan2 望wang4 馀yu2 雪xue3
 AUTHOR:祖zu3 咏yong3
 FORMAT:
-==|==(scene)|=(+)
-==(scene)|==(scene)=(+)
-==(scene)|=(scene)(+)|==(color)
-==(scene)|=|==(touch)(scene)(-)
+==(location)|==(scene)|=(+)
+==(scene)|=(action)==(scene)=
+==(scene)|=(action)(+)|==(color)
+==(location)|=(action)|=(scene)=(touch)(-)
 EMOTION:
 含蓄,朴实,俏丽,清幽,清新
 CATEGORY:scenery,city,life
@@ -404,16 +404,19 @@ ID: 20
 TITLE:玉yu4 台tai2 体ti3 
 AUTHOR:权quan2 德de2 舆yu2
 FORMAT:
-==|==|=
-==|==|=
-==|==|=
-==|==|=
+==(time)|==(thing)|=(action)
+==(time)|==(thing)|=(action)
+==(thing)|==|=(action)
+==|==(human)|=(action)
 EMOTION:
-CATEGORY:
+朴素,质朴,细腻,含蓄,苦恼,孤独,期盼
+CATEGORY:life,love,lonely,expectation
 COMPARISON:
+nature vs human
+hope vs reality
 BODY:
 昨zuo2 夜ye4 裙qun2 带dai4 解jie3,
-今jin1 朝zhao1［虫chong2 喜xi3］子zi3 飞fei1.
+今jin1 朝zhao1 蟢xi3 子zi3 飞fei1.
 铅qian1 华hua2 不bu4 可ke3 弃qi4,
 莫mo4 是shi4 藁gao3 砧zhen1 归gui1.
 END
@@ -422,9 +425,16 @@ ID: 21
 TITLE:江jiang1 雪xue3
 AUTHOR:柳liu3 宗zong1 元yuan2
 FORMAT:
+=(number)=(scene)|=(thing)|=(action)=(-)
+=(number)=(scene)|=(human)=|=(action)(-)
+=(number)=(thing)(-)|===(human)(+)
+=(number)=(action)|=(touch)==(thing)(+)
 EMOTION:
-CATEGORY:
+清幽,幽僻,清寂,空旷,寂寥
+CATEGORY:scene,lonely
 COMPARISON:
+nature vs human
+big vs small
 BODY:
 千qian1 山shan1 鸟niao3 飞fei1 绝jue2,
 万wan4 径jing4 人ren2 踪zong1 灭mie4.
@@ -437,9 +447,16 @@ ID: 22
 TITLE:行xing2 宫gong1
 AUTHOR:元yuan2 稹zhen3 
 FORMAT:
+==(scene)(-)|===(scene)
+==(thing)|===(action)(scene)(-)
+==(thing)(-)|==(human)|=
+==(action)(+)|=(action)|==(human)
 EMOTION:
-CATEGORY:
+寂寞,幽怨,哀怨,凄清,寂寥
+CATEGORY:life,lonely,palace
 COMPARISON:
+nature vs human
+history big vs small scale
 BODY:
 寥liao2 落luo4 古gu3 行xing2 宫gong1,
 宫gong1 花hua1 寂ji4 寞mo4 红hong2.
@@ -452,9 +469,15 @@ ID: 23
 TITLE:问wen4 刘liu2 十shi2 九jiu3
 AUTHOR:白bai2 居ju1 易yi4
 FORMAT:
+=(color)=(thing)|=|==(thing)(+)
+=(color)=(thing)|=|==(thing)(+)
+=(time)=(action)|=|==(scene)(-)
+==(action)|=(number)==
 EMOTION:
-CATEGORY:
+温馨,温暖,热烈,欢快,深情
+CATEGORY:life,friendship,weather
 COMPARISON:
+weather vs frienship
 BODY:
 绿lv4 蚁yi3 新xin1 醅pei2 酒jiu3,
 红hong2 泥ni2 小xiao3 火huo3 炉lu2.
@@ -467,9 +490,16 @@ ID: 24
 TITLE:何he2 满man3 子zi3
 AUTHOR:张zhang1 祜hu4
 FORMAT:
+==(location)|==(number)|=(-)
+==(location)|==(number)|=(-)
+=(number)=(sound)|===(thing)
+=(number)=(thing)(-)|=(action)=(human)=(location)
 EMOTION:
-CATEGORY:
+悲惨,含蓄,凄清,怨情,悲哀
+CATEGORY:palace,missing,hometown,lonely
 COMPARISON:
+song vs sadness
+home vs here
 BODY:
 故gu4 国guo2 三san1 千qian1 里li3,
 深shen1 宫gong1 二er4 十shi2 年nian2.
@@ -477,13 +507,21 @@ BODY:
 双shuang1 泪lei4 落luo4 君jun1 前qian2.
 END
 
+
 ID: 25
 TITLE:登deng1 乐le4 游you2 原yuan2
 AUTHOR:李li3 商shang1 隐yin3
 FORMAT:
+==(time)|=|==(-)
+=(action)=(thing)|=(action)|==(scene)
+==(scene)|==(+)|=(+)
+==(-)|=(time)|==(scene)
 EMOTION:
-CATEGORY:
+感慨,乐观,积极,惆怅,热爱
+CATEGORY:life,age
 COMPARISON:
+nature vs human
+good vs regret
 BODY:
 向xiang4 晚wan3 意yi4 不bu4/bu2 适shi4,
 驱qu1 车che1 登deng1 古gu3 原yuan2.
@@ -491,13 +529,21 @@ BODY:
 只zhi3 是shi4 近jin4 黄huang2 昏hun1.
 END
 
+
 ID: 26
 TITLE:寻xun2 隐yin3 者zhe3 不bu4 遇yu4 
 AUTHOR:贾jia3 岛dao3
 FORMAT:
+=(scene)=(location)|=(action)|==(human)
+=(action)=(human)|=(action)=(thing)|=(time)
+==(location)|===(scene)
+==(scene)|==(action)=
 EMOTION:
-CATEGORY:
+迷茫,朴素,迷离,清高,恬静
+CATEGORY:life,event,
 COMPARISON:
+nature vs human
+found vs looking for
 BODY:
 松song1 下xia4 问wen4 童tong2 子zi3,
 言yan2 师shi1 采cai3 药yao4 去qu4.
@@ -509,9 +555,16 @@ ID: 27
 TITLE:渡du4 汉han4 江jiang1
 AUTHOR:李li3 频pin2
 FORMAT:
+=(scene)=(location)|==(thing)|=(action)
+==(scene)(time)|=(action)|==(time)
+=(location)=(location)|=|==
+==|=(action)|==(human)
 EMOTION:
-CATEGORY:
+思乡,思念,情深,愿望,自然
+CATEGORY:missing,hometown
 COMPARISON:
+hope vs worries
+seasons repeat vs letters stop
 BODY:
 岭ling3 外wai4 音yin1 书shu1 绝jue2,
 经jing1 冬dong1 复fu4 立li4 春chun1.
@@ -523,9 +576,15 @@ ID: 28
 TITLE:春chun1 怨yuan4
 AUTHOR:金jin1 昌chang1 绪xu4
 FORMAT:
+==(action)(-)|===(thing)(+)
+==(action)|==(scene)|=(action)(sound)(+)
+==(action)(time)|=(action)(-)|=(human)=(thing)(+)
+==(-)|=(action)|==(location)
 EMOTION:
-CATEGORY:
+活泼,深情,幽怨,可爱
+CATEGORY:missing,love,life
 COMPARISON:
+bird vs dreams
 BODY:
 打da3 起qi3 黄huang2 莺yin1 儿er5,
 莫mo4 教jiao1/jiao4 枝zhi1 上shang4 啼ti2.
@@ -537,9 +596,15 @@ ID: 29
 TITLE:哥ge1 舒shu1 歌ge1 
 AUTHOR:西xi1 鄙bi3 人ren2
 FORMAT:
+==|==(thing)(scene)|=
+==(human)|=(time)|=(action)=(thing)(+)
+==(time)|=(action)|==(thing)
+==(action)|=(action)|==(location)(+)
 EMOTION:
-CATEGORY:
+英勇,紧张,简练,雄壮,强悍
+CATEGORY:autography,war
 COMPARISON:
+courage vs cowardice
 BODY:
 北bei3 斗dou3 七qi1 星xing1 高gao1,
 哥ge1 舒shu1 夜ye4 带dai4 刀dao1.
@@ -549,12 +614,21 @@ END
 
 　
 ID: 30
-《悯农》（唐朝李绅全集，五言绝句，选自姜葆夫、韦良成选注《常用古诗》）
-春种一粒粟，秋收万颗子。四海无闲田，农夫犹饿死。
-TITLE:
-AUTHOR:
+TITLE:悯min3 农nong2 
+AUTHOR:李li3 绅shen1 
 FORMAT:
+=(time)=(action)(+)|=(number)=|=(thing)
+=(time)=(action)(+)|=(number)==(thing)(+)
+=(number)=(location)|=|==(scene)(+)
+==(human)|=|==(action)(-)
 EMOTION:
-CATEGORY:
+感慨,沉重,不甘
+CATEGORY:life,society
 COMPARISON:
+work vs hunger
+plant vs harvest
 BODY:
+春chun1 种zhong4 一yi1 粒li4 粟su4,
+秋qiu1 收shou1 万wan4 颗ke1 子zi3.
+四si4 海hai3 无wu2 闲xian2 田tian2,
+农nong2 夫fu1 犹you2 饿e4 死si3.
