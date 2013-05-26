@@ -265,202 +265,263 @@ EMOTIONS:
 CATEGORY:life,scenery
 COMPARISONS:
 human vs nature
-BODYL
+BODY:
 三san1 径jing4 通tong1 幽you1 室shi4
 五wu3 柳liu3 引yin3 雅ya3 士shi4
 清qing1 清qing1 溪xi1 水shui3 流liu2
 悠you1 悠you1 照zhao4 我wo3 心xin1
 
+ID: 15
+TITLE:过guo4 中zhong1 州zhou1
+AUTHOR:风feng1 清qing1 月yue4 白bai2
+FORMAT:
+==(thing)|===(number)
+==|===(scene)
+==(scene)|===(scene)
+==(scene)|===
+==|=|==
+==(direction)|=|==
+==|===(scene)
+==|=|==(+)
+EMOTIONS:
+思念，思乡
+CATEGORY:journey, hometown, missing
+COMPARISONS:
+close vs far
+here vs home
+BODY:
+驱qu1 车che1 八ba1 百bai3 里li3
+来lai2 访fang3 伏fu2 牛niu2 山shan1
+红hong2 日ri4 半ban4 天tian1 外wai4
+黄huang2 河he2 一yi1 线xian4 间jian1 
+中zhong1 州zhou1 多duo1 胜sheng4 迹ji4
+南nan2 去qu4 无wu2 仙xian1 缘yuan2
+遥yao2 望wang4 洛luo4 阳yang2 道dao4
+何he2 方fang1 是shi4 故gu4 园yuan2?
+
+
+ID: 20
+TITLE:
+AUTHOR:Anonymous
+FORMAT:
+==|===(scene)(+)
+==|===(scene)(-)
+==|===(scene)(+)
+==(-)|===(thing)
+==|==(scene)|=(-)
+==|==(scene)|=(+)
+==|==(scene)|=
+==|==(scene)|=(color)(+)
+EMOTIONS:
+惋惜，闲适
+CATEGORY:season,life,scenery
+COMPARISONS:
+winter vs summer
+BODY:
+暂zan4 歇xie1 盛sheng4 夏xia4 雨yu3,
+又you4 起qi3 深shen1 秋qiu1 风feng1.
+轻qin1 抚fu3 暮mu4 春chun1 草cao3,
+怕pa4 惊jing1 隆long2 冬dong1 虫chong2.
+六liu4 月yue4 南nan2 霜shuang1 重zhong4,
+千qian1 年nian2 北bei3 冰bing1 融rong2.
+回hui2 望wang4 东dong1 山shan1 外wai4,
+正zheng4 值zhi2 夕xi1 阳yang2 红hong2.
+
+
+ID: 21
+TITLE:
+FORMAT:
+==(scene)|=|==(thing)(+)
+==(+)|=|==
+==(scene)|===
+==|===(-)
+EMOTIONS:
+忧愁，忧思，惆怅
+CATEGORY:season,life,sadness
+COMPARISON：
+BODY:
+春chun1 雨yu3 贵gui4 如ru2 油you2 
+润run4 物wu4 不bu4 曾ceng2 休xiu1
+四si4 季ji4 轮lun2 流liu2 换huan4
+惟wei2 春chun1 难nan2 藏cang2 忧you1
+
+
+ID: 22
+TITLE:
+AUTHOR:
+FORMAT:
+==|==(scene)|=(+)
+==(scene)(+)|==(thing)|=
+==(human)|==(scene)|=(color)(+)
+==(+)|=|==
+EMOTIONS:
+温暖，喜庆
+CATEGORY:season,life,happiness
+COMPARISON:
+nature vs human
+BODY:
+陌mo4 上shang4 杨yang2 柳liu3 新xin1,
+日ri4 暖nuan3 雀que4 儿er5 飞fei1.
+人ren2 面mian4 桃tao2 花hua1 红hong2,
+一yi1 笑xiao4 漾yang4 翠cui4 微wei1.
+
+
+ID: 23
+TITLE:
+AUTHOR:
+FORMAT:
+==(scene)|=(-)|==(thing)
+==(+)(touch)|=|==(scene)
+==(scene)|=|==(scene)(+)
+==(scene)|===
+EMOTIONS:
+CATEGORY:season
+COMPARISON:
+BODY:
+春chun1 雷lei2 惊jing1 飞fei1 鸟niao3
+暖nuan3 风feng1 拂fu2 花hua1 草cao3 
+杨yang2 柳liu3 吐tu3 新xin1 绿lv4
+云yun2 儿er5 不bu4 知zhi1 晓xiao3
+
+ID: 24
+TITLE:
+FORMAT:
+==(scene)|=(scene)|==(+)
+==(scene)|=(scene)|==(+)
+==(scene)(+)|=|==(thing)(+)
+==(scene)|=(thing)|==(-)
+EMOTIONS:
+清新
+CATEGORY:scenery
+COMPARISON:
+BODY:
+山shan1 高gao1 水shui3 自zi4 清qing1
+天tian1 晴qing2 月yue4 见jian4 新xin1 
+水shui3 清qing1 见jian4 明ming2 石shi2 
+深shen1 山shan1 鸟niao3 不bu4 鸣ming2
+
+
+ID: 25
+TITLE:
+FORMAT:
+==(scene)|=(+)|==(touch)
+==(scene)|==(smell)|=(+)
+==(human)|=|==(+)
+==|=|==(human)
+EMOTIONS:
+农乐，清闲
+CATEGORY:life,scenery
+COMPARISON:
+nature vs human
+BODY:
+梧wu2 叶ye4 舞wu3 秋qiu1 风feng1,
+田tian2 径jing4 稻dao4 香xiang1 浓nong2.
+家jia1 家jia1 无wu2 闲xian2 日ri4,
+处chu4 处chu4 无wu2 闲xian2 人ren2.
+
+ID: 26
+TITLE:
+FORMAT:
+==(direction)|=|==(color)
+==(direction)|=|==(touch)(-)
+==(time)|==(scene)(+)|=
+==|==(sound)(+)|=
+EMOTIONS:
+清闲，幽静
+CATEGORY:friendship,life
+COMPARISON:
+BODY:
+东dong1 西xi1 同tong2 颜yan2 色se4,
+南nan2 北bei3 共gong4 凉liang2 风feng1.
+晚wan3 归gui1 斜xie2 阳yang2 下xia4
+还huan2 来lai2 笑xiao4 语yu3 声sheng1!
+
+
+ID: 27
+TITLE:
+AUTHOR:
+FORMAT:
+==(human)|=|==(-)
+==(human)|=|==
+==(date)|=|==
+==(thing)|=(-)|==
+EMOTIONS:
+CATEGORY:test,life
+COMPARISON:
+BODY:
+本ben3 人ren2 本ben3 无wu2 才cai2,
+父fu4 母mu3 送song4 我wo3 来lai2.
+今jin1 日ri4 来lai2 考kao3 试shi4,
+鸡ji1 蛋dan4 滚gun3 下xia4 来lai2.
+ 
+
+ID: 28
+TITLE:
+AUTHOR:
+FORMAT:
+==(scene)|=|==(scene)(+)
+==(scene)|=(+)|==(thing)
+==(sound)|=(-)|==(sound)
+==(thing)|=(+)|==(human)
+EMOTIONS:
+孤寂，幽静，潇洒
+CATEGORY:lonely,life
+COMPARISON:
+companion vs lonely
+BODY:
+枫feng1 焰yan4 染ran3 碧bi4 天tian1,
+弦xian2 月yue4 恋lian4 玉yu4 环huan2.
+风feng1 萧xiao1 争zhen1 剑jian4 鸣ming2,
+一yi1 叶ye4 伴ban4 侠xia2 岚lan2.
+
+
+ID: 29
+TITLE:
+AUTHOR:
+FORMAT:
+==|===(thing)
+==(human)(+)|=|==(scene)
+==(time)|==|=(scene)(-)
+==(time)|=(scene)|==(+)
+==(time)|=(-)|==(thing)
+==(time)|===(-)
+==(scene)|=|==(+)
+==(scene)|==|=(-)
+EMOTIONS:
+幽静,恬静
+CATEGORY:life,scenery
+COMPARISON:
+BODY:
+一yi1 点dian3 一yi1 辰chen2 木mu4,
+佳jia1 人ren2 在zai4 亭ting2 轩xuan1.
+昨zuo2 夜ye4 秋qiu1 风feng1 急ji2,
+今jin1 时shi2 雨yu3 轻qing1 点dian.
+一yi1 朝zhao1 愁chou2 白bai2 发fa4.
+终zhong1 日ri4 郁yu4 寡gua3 欢huan1.
+庭ting2 院yuan4 路lu4 幽you1 幽you1,
+花hua1 落luo4 鸟niao3 影ying3 单dan1.
+
+
+ID: 30
+TITLE:赠zeng1 居ju1 士shi4 祖zu3 母mu3 
+AUTHOR:
+FORMAT:
+==|==(thing)|=(+)
+==|==(thing)|=(+)
+==(+)|===
+==(thing)|=|==
+==(+)|==|=(-)
+==|===(thing)
+EMOTIONS:
+虔诚
+CATEGORY:religion,life
+COMPARISON:
+BODY:
+身shen1 在zai4 菩pu2 提ti2 下xia4
+心xin1 向xiang4 圣sheng4 龛jiu4 前qian2
+超chao1 脱tuo1 轮lun2 回hui2 路lu4
+我wo3 佛fo2 渡du4 有you3 缘yuan2
+不bu2 畏wei4 修xiu1 行xing2 苦ku3 
+早zao3 拜bai4 灵ling2 鹫jiu4 山shan1
+ 
 
-
-
-意答案
-风清月白 9级 2009-04-14
-
-五律 过中州
-驱车八百里，来访伏牛山。
-红日半天外，黄河一线间。
-中州多胜迹，南去无仙缘。
-遥望洛阳道，何方是故园？
-满意答案
-傷~斷情 11级 2009-04-16
-
-闲作无题
-
-暂歇盛夏雨，又起深秋风。
-轻抚暮春草，怕惊隆冬虫。
-六月南霜重，千年北冰融。
-回望东山外，正值夕阳红。
-其他回答(1)
-
-六逸草堂 7级 2009-04-14
-
-厐一行诗选：
-梅  鹤
-一九九三年春
-
-朝梅幻烟云，
-露珠清香纯。
-心随花千年，
-独领一枝春。
-
-浑沌垂青册，
-岁轮载葩痕。
-常倚丹鹤眠，
-梅鹤已难分。
-
-
-云 山 采 花
-一九九五年春折杜鹃花
-
-幽迹春山路，
-行人赏花愫。
-芳馨三千界，
-苍茫两三株。
-
-探采动月影，
-触水微波雏。
-梦添巫山云，
-佳境神逸殊。、
-
-
-
-
-
-热心问友 2013-03-20
-
-春雨贵如油
-润物不曾休
-四季轮流换
-惟春难藏忧
-追问：
-还有没？？我要自创的哦
-回答：
-这是自创的 你要几首
-1
-其他回答(2)
-
-稻草精灵 中级团   合作回答者：1人 2013-03-20
-
- 律回岁晚冰霜少，春到人间草木知。便觉眼前生意满，东风吹水绿参差。
-
-热心问友 2013-03-23
-
- 陌上杨柳新，
-日暖雀儿飞。
-人面桃花红，
-一笑漾翠微。
-
-
-
-
-
-
-
-
-春雷惊飞鸟 暖风拂花草 杨柳吐新绿 云儿不知晓
-补充：
-山高水自清 天晴月见新 水清见明石 深山鸟不鸣
-补充：
-春来风无声 花开无人闻 鸟儿不知晓 是人还是神
-满意答案
-【傲视群雄】 中级团   合作回答者：1人 2012-01-29
-
-梧叶舞秋风；田径稻香浓。家家无闲日；处处无闲人！
-补充：
-东西同颜色；南北共凉风。晚归斜阳下；还来笑语声！
-其他回答(2)
-
-黄金 3级 2012-01-29
-
-貌似要四十字！大工程啊，律诗！
-
-知我心吗 2级 2012-01-30
-
-本人本无才,父母送我来.今日来考试,鸡蛋滚下来.
-（我的一女同学作）
-
-
-
-
-
-
-
-
-
-
-
-
-
-满意答案
-〖曉〗 初级团   合作回答者：1人 2012-05-08
-
-青山绿水红霞吊，
-草木皆安静小池。
-五岳飞花清风来，
-鹂莺并唱野间诗。
-
-七言四句，平仄分明，押韵
-2
-满意答案
-凝香阁‖文学社 初级团 	 合作回答者：1人 2012-05-08
-
-七言:
-
-        孤人
-清啼晨起忙耕织，
-夜至暮归素饭食。
-何日坐享耄耋乐？
-来春竹石开花时。
-  五言:
-      隐逸
-三径通幽室，
-五柳引雅士。
-清清溪水流
-悠悠照我心。
-2
-其他回答(2)
-
-财神 5级 2012-05-08
-
-枫焰染碧天,弦月恋玉环.风萧争剑鸣,一叶伴侠岚.
-
-再不疯狂青春 2级 2012-05-08
-
-一点一辰木，佳人在亭轩。昨夜秋风急，今时雨轻点。一朝愁白发，终日郁寡欢。庭院路幽幽，花落鸟影单。
-
-
-
-山绿水红霞吊，
-草木皆安静小池。
-五岳飞花清风来，
-鹂莺并唱野间诗。
-
-七言四句，平仄分明，押韵
-2
-满意答案
-凝香阁‖文学社 初级团   合作回答者：1人 2012-05-08
-
-七言:
-
-        孤人
-清啼晨起忙耕织，
-夜至暮归素饭食。
-何日坐享耄耋乐？
-来春竹石开花时。
-  五言:
-      隐逸
-三径通幽室，
-五柳引雅士。
-清清溪水流
-悠悠照我心。
-2
-其他回答(2)
-
-财神 5级 2012-05-08
-
-枫焰染碧天,弦月恋玉环.风萧争剑鸣,一叶伴侠岚.
-
-再不疯狂青春 2级 2012-05-08
-
-一点一辰木，佳人在亭轩。昨夜秋风急，今时雨轻点。一朝愁白发，终日郁寡欢。庭院路幽幽，花落鸟影单。

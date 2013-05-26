@@ -126,8 +126,6 @@ BODY:
 END
 
 
-
-＝＝＝＝＝＝＝＝＝＝＝＝＝＝
 ID:07
 TITLE:终zhogn1 南nan2 望wang4 馀yu2 雪xue3
 AUTHOR:祖zu3 咏yong3
@@ -216,7 +214,8 @@ AUTHOR:刘liu2 长chang2 卿qing1
 BODY:
 孤gu1 云yun2 将jiang1 野ye3 鹤he4,
 岂qi3 向xiang4 人ren2 间jian1 住zhu4!
-莫mo4 买mai3 沃wo4 洲zhou1 山shan1,时shi2 人ren2 已yi3 知zhi1 处chu4.
+莫mo4 买mai3 沃wo4 洲zhou1 山shan1,
+时shi2 人ren2 已yi3 知zhi1 处chu4.
 END
 
 
