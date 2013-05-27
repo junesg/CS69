@@ -3,7 +3,7 @@ http://www.taodocs.com/p-811867.html
 http://bbs.hydown.com/thread-50636-1-1.html
 http://www.360doc.com/content/11/0106/11/3509789_84385333.shtml
 http://www.haoshici.com/1_0_0_E4BA94E7BB9D_0_0.html
-
+http://www.mdbg.net/chindict/chindict.php
 
 Lexicon sources:
 nature:
@@ -29,4 +29,8 @@ http://zhidao.baidu.com/question/274325494.html
 
 
 Others
+http://www.bbrel.co.uk/pdfs/Computer-based_Analysis_of_Narrative_and_Multimodality.pdf
+1. elaboration
+2. extension
+3. enhancement
 
