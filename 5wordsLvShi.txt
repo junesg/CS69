@@ -93,7 +93,7 @@ FORMAT:
 ==|==(thing)(time)|=(scene)
 ==|==(thing)(time)|=(action)
 ==(scene)|=(thing)|==(action)
-==(touch)|=(sound)|==(action)
+==(sense)|=(sound)|==(action)
 ==(human)|=(action)|==(thing)
 ==(human)|==(action)|=(thing)
 EMOTION:
@@ -123,7 +123,7 @@ FORMAT:
 ==(action)|=(thing)==(action)
 ==(scene)|=(action)|=(scene)=(location)(+)
 ==(scene)|=(action)|==(scene)
-==(touch)|=(action)|=(color)=(thing)(+)
+==(sense)|=(action)|=(color)=(thing)(+)
 ==(scene)|=(action)|=(color)=(thing)(+)
 ==(action)|==(sound)|=(sound)
 ==|==(action)(-)|=(thing)
@@ -213,7 +213,7 @@ FORMAT:
 =(human)=(action)|=(color)=(scene)|=(location)
 =(action)=(thing)|=(color)=(scene)|=(location)
 ==(scene)|=(number)=(scene)|=
-==(touch)|=(number)=(scene)|=
+==(sense)|=(number)=(scene)|=
 ==(scene)|=(action)|==(scene)
 ==(scene)|=(action)|==(time)
 ==(thing)|==(location)|=(action)
@@ -270,14 +270,14 @@ ID: 10
 TITLE:寄ji4 左zuo3 省shen2 杜du4 拾shi2 遗yi2 
 AUTHOR:岑参
 FORMAT:
-==(action)|=(action)|=(color)=(scene)
-==(action)|=(action)|=(color)=(scene)
-=(time)=(action)|==(scene)|=(action)
-=(time)=(action)|==(smell)|=(action)
-=(color)=(thing)|=(action)|=(thing)=(action)
-=(color)=(scene)|=(action)|=(thing)=(action)
-==|=|==
-==|==(thing)|=
+==(action)|=(action)|=(color)=(scene)(+)
+==(action)|=(action)|=(color)=(scene)(+)
+=(time)=(action)|==(scene)|=(action)(+)
+=(time)=(action)|==(sense)|=(action)(+)
+=(color)=(thing)|=(action)|=(thing)=(action)(+)
+=(color)=(scene)|=(action)|=(thing)=(action)(+)
+==(human)|=|==(thing)(-)
+==(human)|==(thing)|=(-)
 EMOTION:
 讽刺,华贵,雍容,委婉,感慨,愤满,失望
 CATEGORY:life,job,aspiration,reality,palace,emperor
@@ -295,260 +295,322 @@ BODY:
 自zi4 觉jue2 谏jian4 书shu1 稀xi1.
 
 
-
 ID: 11
-TITLE:
-AUTHOR:
+TITLE:赠zeng4 孟meng4 浩hao4 然ran2
+AUTHOR:李li3 白bai2
 FORMAT:
+=(human)=(action)(+)|===(human)
+==(+)|==(location)|=(action)
+=(color)=(thing)|=(action)|==(thing)
+=(color)=(thing)|=(action)|==(scene)
+=(action)=(scene)|=|==(human)(+)
+=(action)=(scene)|=|=(action)=(human)(+)
+==(scene)|=|==(action)(+)
+==|=(action)|==(sense)(+)
 EMOTION:
-CATEGORY:
+自然,飘逸,风流,潇洒,钦慕,古朴,高调
+CATEGORY:human,life,inspiration
 COMPARISON:
+young vs old
+materialism vs life
+nature vs human
 BODY:
-赠孟浩然
+吾wu2 爱ai4 孟meng4 夫fu1 子zi3,
+风feng1 流liu2 天tian1 下xia4 闻wen2.
+红hong2 颜yan2 弃qi4 轩xuan1 冕mian3,
+白bai2 首shou3 卧wo4 松song1 云yun2.
+醉zui4 月yue4 频pin2 中zhong1 圣sheng4,
+迷mi2 花hua1 不bu4 事shi4 君jun1.
+高gao1 山shan1 安an1 可ke3 仰yang3,
+徒tu2 此ci3 挹yi4 清qing1 芬fen1.
 
-李白
-
-吾爱孟夫子，风流天下闻。
-红颜弃轩冕，白首卧松云。
-醉月频中圣，迷花不事君。
-高山安可仰，徒此挹清芬。
-返回
 
 ID: 12
-TITLE:
-AUTHOR:
+TITLE:渡du4 荆jing1 门men2 送song4 别bie2
+AUTHOR:李li3 白bai2
 FORMAT:
+==(action)|==(location)|=(location)
+==(action)|==(location)|=(action)(+)
+=(scene)=(action)|==(scene)|=(action)(+)
+=(scene)=(action)|==(scene)|=(action)(+)
+==(scene)|=(action)|==(scene)(+)
+==(scene)|=(action)|==(scene)(+)
+==(action)|==(location)|=(thing)(-)
+=(number)=|=(action)|==(thing)(+)
 EMOTION:
-CATEGORY:
+旷远,开阔,气势,思乡,思念,深情,复杂
+CATEGORY:missing,hometown,journey,scenery
 COMPARISON:
+mountain vs sea
+home vs here
 BODY:
-渡荆门送别
-
-李白
-
-渡远荆门外，来从楚国游。
-山随平野尽，江入大荒流。
-月下飞天镜，云生结海楼。
-仍怜故乡水，万里送行舟。
-返回
+渡du4 远yuan3 荆jing1 门men2 外wai4,
+来lai2 从cong2 楚chu3 国guo2 游you2.
+山shan1 随sui2 平ping2 野ye3 尽jin4,
+江jiang1 入ru4 大da4 荒huang1 流liu2.
+月yue4 下xia4 飞fei1 天tian1 镜jing4,
+云yun2 生sheng1 结jie2 海hai3 楼lou2.
+仍reng2 怜lian2 故gu4 乡xiang1 水shui3,
+万wan4 里li3 送song4 行xing2 舟zhou1.
 
 
 ID: 13
-TITLE:
-AUTHOR:
+TITLE:送song4 友you3 人ren2
+AUTHOR:李li3 白bai2
 FORMAT:
+=(color)=(scene)|=(action)|=(direction)=(location)
+=(color)=(scene)|=(action)|=(direction)=(location)
+==(location)|=(number)==(action)
+=(number)=(human)|=(number)=|=(action)
+==(scene)|==(human)|=
+==(scene)|==(human)|=(+)
+==(action)|=(human)=(time)=(action)
+==(sound)|==(thing)(-)|=(action)
 EMOTION:
-CATEGORY:
+不舍留恋思念高朗阔达扩元深情自然
+CATEGORY:life,friendship,farewell,missing
 COMPARISON:
+cloud vs human
+traveler vs old friends
+human vs horse
+dark vs bright color
 BODY:
-送友人
+青qing1 山shan1 横heng2 北bei3 郭guo1,
+白bai2 水shui3 绕rao4 东dong1 城cheng2.
+此ci3 地di4 一yi1 为wei2 别bie2,
+孤gu1 蓬peng2 万wan4 里li3 征zheng1.
+浮fu2 云yun2 游you2 子zi3 意yi4,
+落luo4 日ri4 故gu4 人ren2 情qing2.
+挥hui1 手shou3 自zi4 兹zi1 去qu4,
+萧xiao1 萧xiao1 班ban1 马ma3 鸣ming2.
 
-李白
-
-青山横北郭，白水绕东城。
-此地一为别，孤蓬万里征。
-浮云游子意，落日故人情。
-挥手自兹去，萧萧班马鸣。
-返回
 
 ID: 14
-TITLE:
-AUTHOR:
+TITLE:听ting1 蜀shu3 僧seng1 浚jun4 弹tan2 琴qin2
+AUTHOR:李li3 白bai2
 FORMAT:
+==(human)|=(action)|=(color)=(thing)
+=(direction)=(action)|===(scene)(location)
+==(human)|=(number)|==(action)(+)
+==(action)|=(number)|==(scene)(+)
+==(human)|=(action)|==(scene)
+==(sound)|=(action)|==(sound)
+==(action)|=(color)==(scene)
+==(scene)|=(action)(color)==
 EMOTION:
-CATEGORY:
+明畅,建爽,优美,美妙,感慨,自然,轻快
+CATEGORY:life,scenery,arts,friendship
 COMPARISON:
+music vs scenery
+feeling vs nature
+fleeting of time vs enjoyment
 BODY:
+蜀shu3 僧seng1 抱bao4 绿lv4 绮qi3,
+西xi1 下xia4 峨e2 眉mei2 峰feng1.
+为wei4 我wo3 一yi1 挥hui1 手shou3,
+如ru2 听ting1 万wan4 壑he4 松song1.
+客ke4 心xin1 洗xi3 流liu2 水shui3,
+馀yu2 响xiang3 入ru4 霜shuang1 钟zhong1.
+不bu4 觉jue2 碧bi4 山shan1 暮mu4,
+秋qiu1 云yun2 暗an4 几ji3 重chong2.
 
-听蜀僧浚弹琴
-
-李白
-
-蜀僧抱绿绮，西下峨眉峰。
-为我一挥手，如听万壑松。
-客心洗流水，馀响入霜钟。
-不觉碧山暮，秋云暗几重。
-返回
 
 ID: 15
-TITLE:
-AUTHOR:
+TITLE:夜ye4 泊bo2 牛niu1 渚zhu3 怀huai2 古gu3
+AUTHOR:李li3 白bai2
 FORMAT:
+==(location)|==(location)=(time)
+=(color)=(scene)|===(scene)
+=(action)=(thing)|=(action)|==(scene)
+==(action)|===(human)
+=(human)=|=|==(action)(sound)
+==(human)|=|==(action)(-)
+==(time)|=(action)|==(thing)
+==(scene)|=(action)==(-)
 EMOTION:
+感慨,自怨,自艾,单纯,韵味,清新,自然,风流,潇洒
 CATEGORY:
+life,inspiration,sadness,reality
 COMPARISON:
+me vs others
+nature vs human
 BODY:
-夜泊牛渚怀古
+牛niu2 渚zhu3 西xi1 江jiang1 夜ye4,
+青qing1 天tian1 无wu2 片pian4 云yun2.
+登deng1 舟zhou1 望wang4 秋qiu1 月yue4,
+空kong1 忆yi4 谢xie4 将jiang1 军jun1.
+余yu2 亦yi4 能neng2 高gao1 咏yong3,
+斯si1 人ren2 不bu4 可ke3 闻wen2.
+明ming2 朝zhao1 挂gua4 帆fan2 席xi2,
+枫feng1 叶ye4 落luo4 纷fen1 纷fen1.
 
-李白
-
-牛渚西江夜，青天无片云。
-登舟望秋月，空忆谢将军。
-余亦能高咏，斯人不可闻。
-明朝挂帆席，枫叶落纷纷。
-返回
 
 ID: 16
-TITLE:
-AUTHOR:
+TITLE:春chun1 望wang4
+AUTHOR:杜du4 甫fu3
 FORMAT:
+==(scene)|==(scene)=(action)
+==(scene)|==(scene)=(action) (-)
+=(action)=(time)|=(thing)|==(action)(-)
+=(action)=(action)|=(thing)|==(action) (-)
+==(scene)|=|=(number)=(time) (-)
+==(thing)|=|=(number)=(thing) (+)
+==(thing)|=(action)|== (-)
+==|==(action)|=(thing)
 EMOTION:
-CATEGORY:
+沧桑,悲凉,凄清,悲哀,艰难,伤情,忧患,思念,深情,真挚,感慨
+CATEGORY:life,war,home,hometown,missing,reality,sadness
 COMPARISON:
+broken vs remain(growth)
+nature vs human
+war vs home
+transient vs eternal
 BODY:
-春望
-
-杜甫
-
-国破山河在，城春草木深。
-感时花溅泪，恨别鸟惊心。
-烽火连三月，家书抵万金。
-白头搔更短，浑欲不胜簪。
-返回
+国guo2 破po4 山shan1 河he2 在zai4,
+城cheng2 春chun1 草cao3 木mu4 深shen1.
+感gan3 时shi2 花hua1 溅jian4 泪lei4,
+恨hen4 别bie2 鸟niao3 惊jing1 心xin1.
+烽feng1 火huo3 连lian2 三san1 月yue4,
+家jia1 书shu1 抵di3 万wan4 金jin1.
+白bai2 头tou2 搔sao1 更geng4 短duan3,
+浑hun2 欲yu4 不bu4 胜sheng4 簪zan1.
 
 
 ID: 17
-TITLE:
-AUTHOR:
+TITLE:月yue4 夜ye4
+AUTHOR:杜du4 甫fu3
 FORMAT:
+==(time)|==(location)|=(scene)
+==(location)|=|=(human)=(action)(-)
+==(action)|===(human)
+==(action)|=(action)|==(location)
+==(scene)|==(thing)=(sense)(-)
+==(scene)|==(thing)=(sense)(-)
+==(time)|=(action)|==(thing)
+==(action)|==(thing)|=(-)
 EMOTION:
-CATEGORY:
+交际,思念,凄清,孤独,深情,忧虑,惊恐,伤心
+CATEGORY:life,war,worry,love,missing
 COMPARISON:
+children vs adult
+nature vs human feeling
+here vs somewhere else
 BODY:
-月夜
+今jin1 夜ye4 鄜lu4 州zhou1 月yue4,
+闺gui1 中zhong1 只zhi3 独du2 看kan1.
+遥yao2 怜lian2 小xiao3 儿er2 女nv3,
+未wei4 解jie3 忆yi4 长chang2 安an1.
+香xiang1 雾wu4 云yun2 鬟huan2 湿shi1,
+清qing1 辉hui1 玉yu4 臂bi4 寒han2.
+何he2 时shi2 倚yi3 虚xu1 幌huang3,
+双shuang1 照zhao4 泪lei4 痕hen2 干gan1?
 
-杜甫
-
-今夜［鹿阝］州月，闺中只独看。
-遥怜小儿女，未解忆长安。
-香雾云鬟湿，清辉玉臂寒。
-何时倚虚幌，双照泪痕干？
-返回
 
 ID: 18
-TITLE:
-AUTHOR:
+TITLE:月yue4 夜ye4 忆yi4 舍she4 弟di4
+AUTHOR:杜du4 甫fu3
 FORMAT:
+==(sound)|=(action)|==(human)(-)
+==(scene)|=(number)==(sound)
+=(scene)=|==(time)|=(color)(+)
+=(scene)=|==(location)|=(color)(+)
+==(human)|=|==(action)(-)
+==(location)|=(action)|==(action)(-)
+==(thing)|=|==(action)(-)
+==|=|==(action)(-)
 EMOTION:
-CATEGORY:
+忧虑,思念,感慨,悲愤,焦急,悲凉,深情,思乡,凄清,急切,沉郁
+CATEGORY:war,life,missing,hometown,country,reality
 COMPARISON:
+nature voice vs drum
+moon at home vs here
+family relations vs physical distance
 BODY:
-春宿左省
-
-杜甫
-
-花隐掖垣暮，啾啾栖鸟过。
-星临万户动，月傍九霄多。
-不寝听金钥，因风想玉珂。
-明朝有封事，数问夜如何？
-返回
+戍shu4 鼓gu3 断duan4 人ren2 行xing2,
+秋qiu1 边bian1 一yi1 雁yan4 声sheng1.
+露lu4 从cong1 今jin1 夜ye4 白bai2,
+月yue4 是shi4 故gu4 乡xiang1 明ming2.
+有you3 弟di4 皆jie1 分fen1 散san4,
+无wu2 家jia1 问wen4 死si3 生sheng1.
+寄ji4 书shu1 长chang2 不bu4 达da2,
+况kuang4 乃nai3 未wei4 休xiu1 兵bing1.
 
 
 ID: 19
-TITLE:
-AUTHOR:
+TITLE:天tian1 末mo4 怀huai2 李li3 白bai2
+AUTHOR:杜du4 甫fu3
 FORMAT:
+==(touch)(-)|=(action)|==(location)
+==(human)|=|==
+==(scene)|==(time)|=(action)
+==(scene)|==(scene)|=(-)
+=(thing)=(thing)|=(action)|==(action)(-)
+=(thing)=(thing)(-)|=(action)|=(human)=(action)
+==(action)|==(thing)=(sound)(-)
+=(action)=(thing)|=(action)==(location)(-)
 EMOTION:
-CATEGORY:
+怀念,思念,牵挂,深情,愤慨,感慨,悲凉,怜惜,凄凉
+CATEGORY:life,inspiration,friendship,missing,reality
 COMPARISON:
+nature vs human
+human vs ghost
 BODY:
-
-至德二载甫自京金光门出，
-问道归凤翔。乾元初从左拾
-遗移华州掾。与亲故别，因
-出此门。有悲往事。
-
+凉liang2 风feng1 起qi3 天tian1 末mo4,
+君jun1 子zi3 意yi4 如ru2 何he2?
+鸿hong2 雁yan4 几ji3 时shi2 到dao4,
+江jiang1 湖hu2 秋qiu1 水shui3 多duo1.
+文wen2 章zhang1 憎zeng1 命ming4 达da2,
+魑chi1 魅mei4 喜xi3 人ren2 过guo4.
+应ying4 共gong4 冤yuan1 魂hun2 语yu3,
+投tou2 诗shi1 赠zeng4 汨lei4 罗luo2.	
 
 ID: 20
-TITLE:
-AUTHOR:
+TITLE:奉feng4 济ji4 驿yi4 重zhong4 送song4 严yan2 公gong1 四si4 韵yun4
+AUTHOR:杜du4 甫fu3
 FORMAT:
+==(action)|==(location)|=(action)(-)
+==(scene)|==(action)=(feeling)(-)
+==(time)|=(thing)|==(action)(+)
+==(time)|=(scene)|==(action)(+)
+==(location)|==(sound)=(action)(+)
+==(location)|==(action)=(+)
+==(location)|=(human)=(action)=(location)(-)
+==(human)|=(action)==(thing)(-)
 EMOTION:
-CATEGORY:
+质朴,朴素,严谨,沉郁,深情,真挚,悽楚,惆怅
+CATEGORY:life,friendship,missing,farewell,reality
 COMPARISON:
+when vs yesterday
+town vs palace
 BODY:
-杜甫
-
-此道昔归顺，西郊胡正繁。
-至今残破胆，应有未招魂。
-近得归京邑，移官岂至尊？
-无才日衰老，驻马望千门。
-返回
+远yuan3 送song4 从cong2 此ci3 别bie2,
+青qing1 山shan1 空kong1 复fu4 情qing2.
+几ji3 时shi2 杯bei1 重zhong4 把ba3,
+昨zuo2 夜ye4 月yue4 同tong2 行xing2.
+列lie4 郡jun4 讴ou1 歌ge1 惜xi1,
+三san1 朝chao2 出chu1 入ru4 荣rong2.
+将jiang1 村cui1 独du2 归gui1 处chu4,
+寂ji4 寞mo4 养yang3 残can2 生sheng1.
 
 
 ID: 21
-TITLE:
-AUTHOR:
+TITLE:别bie2 房fang2 太tai4 尉wei4 墓mu4
+AUTHOR:杜du4 甫fu3
 FORMAT:
+==|=|==
+==|=|==
+==|=|==
+==|=|==
+==|=|==
+==|=|==
+==|==|=
+==|===
 EMOTION:
-CATEGORY:
+思念,忧虑,叹息,感慨,真情,雍容,典雅,深情
+CATEGORY:life,farewell,respect,missing,friendship
 COMPARISON:
+
 BODY:
-月夜忆舍弟
-
-杜甫
-
-戍鼓断人行，秋边一雁声。
-
-露从今夜白，月是故乡明。
-
-有弟皆分散，无家问死生。
-
-寄书长不达，况乃未休兵。
-返回
-
-
-
-ID: 22
-TITLE:
-AUTHOR:
-FORMAT:
-EMOTION:
-CATEGORY:
-COMPARISON:
-BODY:
-
-天末怀李白
-
-杜甫
-
-凉风起天末，君子意如何？
-鸿雁几时到，江湖秋水多。
-文章憎命达，魑魅喜人过。
-应共冤魂语，投诗赠汨罗。	
-奉济驿重送严公四韵
-
-ID: 23
-TITLE:《奉济驿重送严公四韵》
-AUTHOR:杜甫
-FORMAT:
-EMOTION:
-CATEGORY:
-COMPARISON:
-BODY:
-
-
-
-远送从此别，青山空复情。
-几时杯重把，昨夜月同行。
-列郡讴歌惜，三朝出入荣。
-将村独归处，寂寞养残生。
-
-
-
-ID: 24
-TITLE:
-AUTHOR:
-FORMAT:
-EMOTION:
-CATEGORY:
-COMPARISON:
-BODY:
-
-别房太尉墓
-
-杜甫
-
 他乡复行役，驻马别孤坟。
 近泪无干土，低空有断云。
 对棋陪谢傅，把剑觅徐君。
@@ -556,7 +618,7 @@ BODY:
 返回
 
 
-ID: 25
+ID: 22
 TITLE:
 AUTHOR:
 FORMAT:
@@ -575,7 +637,7 @@ BODY:
 返回
 
 
-ID: 26
+ID: 23
 TITLE:
 AUTHOR:
 FORMAT:
@@ -1030,44 +1092,6 @@ BODY:
 老至居人下，春归在客先。
 岭猿同旦暮，江柳共风烟。
 已似长沙傅，从今又几年？
-返回
-
-
-ID: 50
-TITLE:
-AUTHOR:
-FORMAT:
-EMOTION:
-CATEGORY:
-COMPARISON:
-BODY:
-送僧归日本
-
-钱起
-
-上国随缘住，来途若梦行。
-浮天沧海远，去世法舟轻。
-水月通禅寂，鱼龙听梵声。
-惟怜一灯影，万里眼中明。
-返回
-
-
-ID: 51
-TITLE:
-AUTHOR:
-FORMAT:
-EMOTION:
-CATEGORY:
-COMPARISON:
-BODY:
-谷口书斋寄杨补阙
-
-钱起
-
-泉壑带茅茨，云霞生薜帷。
-竹怜新雨后，山爱夕阳时。
-闲鹭栖常早，秋花落更迟。
-家童扫萝径，昨与故人期。
 返回
 
 
