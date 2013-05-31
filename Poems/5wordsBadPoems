@@ -1,0 +1,528 @@
+ID: 01
+TITLE:打da3 工gong1 妹mei4 回hui2 乡xiang1
+FORMAT:
+==(time)|==(-)|==(time)=(+)
+==(+)(thing)|==(thing)(+)|===
+==(human)|==(+)|===(-)
+==(-)|==(thing)(-)|===
+EMOTIONS:
+幽默,无奈
+CATEGORY:life,missing
+COMPARISONS:
+BODY:
+年nian2 初chu1 离li2 家jia1 春chun1 节jie2 回hui2,
+画hua4 眉mei2 描miao2 眼yan3 卷jue3 发fa4 飞fei1.
+父fu4 母mu3 相xiang1 见jian4 不bu4 相xiang1 识shi2,
+怒nu4 问wen4 怪guai4 物wu4 何he2 处chu4 来lai2?
+END
+
+ID: 02
+TITLE:饮yin3 酒jiu3 被bei4 罚fa2 款kuan3
+FORMAT:
+==(thing)|==(thing)|===(thing)
+==|==(time)|===(-)
+==(-)|==(-)|===(-)(thing)
+==(thing)|==(-)|==(thing)=(-)
+EMOTIONS:
+无奈
+CATEGORY:life,money
+COMPARISONS:
+BODY:
+白bai2 酒jiu3 啤pi2 酒jiu3 玻bo1 璃li2 杯bei1,
+上shang4 班ban1 时shi1 间jian1 马ma3 上shang4 催cui1;
+迟chi2 到dao4 挨ai1 批pi1 加jia1 罚fa2 款kuan3,
+工gong1 资zi1 寥liao2 寥liao2 无wu2 钱qian2 回hui2.
+ 
+ID: 03
+TITLE:远yuan3 追zhui1 恋lian4 人ren2
+FORMAT:
+==|==(scene)(-)|==(scene)=(-)
+==(scene)|==(scene)|===(thing)(-)
+==|==(scene)|==(sound)=
+==(human)(+)|==|===(scene)
+EMOTIONS:
+CATEGORY:life
+COMPARISONS:
+nature vs manmade
+BODY:
+远yuan3 上shang4 寒han2 山shan1 石shi2 径jin4 斜xie2.
+白bai2 云yun2 深shen1 处chu4 有you3 厂chang3 家jia1.
+久jiu5 呆dai1 林lin2 中zhong1 机ji1 声sheng1 停ting2,
+情qing2 妹mei4 脸lian3 赛sai4 二er4 月yue4 花hua1.
+ 
+ID: 04
+TITLE:老lao3 父fu4 催cui1 寄ji4 钱qian2 归gui1
+FORMAT:
+==|==(thing)|===(direction)
+==(thing)|==|===(-)
+==|==(-)|===
+==(-)|==(human)|===(-)
+EMOTIONS:
+内疚
+CATEGORY:life, money
+COMPARISONS:
+spending vs saving
+world vs home
+BODY:
+挎kua4 起qi3 行xing2 囊nang2 闯chuang3 四si4 方fang1,
+工gong1 资zi1 发fa1 来lai2 潇xiao1 洒sa3 光guang1.
+农nong2 忙mang2 急ji2 盼pan4 寄ji4 钱qian2 归gui1,
+愧kui4 对dui4 老lao3 父fu4 心xin1 发fa1 慌huang1.
+ 
+ 
+ID: 05
+TITLE:同tong2 乡xiang1 帮bang1 忙mang2 找zhao3 工gong1
+FORMAT:
+==|==|===(scene)(-)
+==(-)|==(thing)|===(-)
+==(-)|==|(-)===(thing)(-)
+==(human)|==(+)|===(+)
+EMOTIONS:
+无助，困难
+CATEGORY:life, job
+COMPARISONS:
+BODY:
+外wai4 出ch1 打da3 工gong1 路lu4 漫man4 漫man4
+踏ta4 破po4 铁tie3 鞋xie2 寻xun2 工gong1 难nan2 
+缺que1 才cai2 乏fa2 技ji4 无wu2 文wen2 凭pin2 
+同tong2 乡xiang1 帮bang1 忙mang2 方fang1 过guo4 关guan
+ 
+
+ ID: 06
+TITLE:独du2 孤gu1 求qiu2 单dan1 
+AUTHOR:炫xuan2 银yin2 十shi2 字zi4 星xing1
+FORMAT:
+==(number)|=(number)=(human)|=(action)
+==(number)|=(number)=(thing)|=(action)
+=(number)=(sound)|=(number)=|=(action)
+=(number)=(sound)|=(number)=|=(action)
+EMOTIONS:
+孤独，潇洒
+CATEGORY: life, journey, lonely
+COMPARISONS:
+huge task vs single person
+large volume vs single verse
+BODY:
+千qian1 里li3 一yi4 人ren2 行xing2 
+四si4 海hai3 孤gu1 舟zhou1 渡du4,
+九jiu3 歌ge1 单dan1 篇pian1 唱chang4
+五wu3 音yin1 独du2 弦xian2  奏zou4
+
+
+ID: 07
+TITLE:不bu4 思si1
+AUTHOR:anonymous
+FORMAT:
+==(scene)(+)|=(temperature)==(action)
+==(scene)(+)|=(thing)==(scene)
+==|=(action)==(thing)(+)
+==(scene)(+)|=(action)==(human)
+EMOTIONS:
+爱情，幽静
+CATEGORY:life, love
+COMPARISONS:
+light vs dark
+BODY:
+灯deng1 明ming2 寒han2 自zi4 清qing1
+月yue4 圆yuan2 水shui3 漾xiang4 痕hen2
+将jiang1 心xin1 比bi3 翼yi4 鸟niao3 
+夕xi1 斜xie2 影ying3 二er4 人ren2
+ 
+
+
+ID: 08
+TITLE:秋qiu1 日ri4
+AUTHOR:Anonymous
+FORMAT:
+==(scene)(-）|=(action)|==(scene)
+==(scene)|==|=(action)（-）
+==(-)|=(human)|==(sound)
+==(sound)|==(-)|=(action)
+EMOTIONS:
+孤独，寂寞，惆怅，冷清
+CATEGORY:life,friendship,love
+COMPARISONS:
+nature vs human
+BODY:
+北bei3 风feng1 吹chui1 北bei3 云yun2
+烟yan1 波bo1 处chu4 处chu4 愁chou2
+忧you1 来lai2 谁shui2 共gong4 语yu3
+秋qiu1 声sheng1 不bu4 可ke3 闻wen2
+
+
+ID: 09
+TITLE:
+AUTHOR:Anonymous
+FORMAT:
+=(scene)=(-)|==(scene)|=(scene)
+==(scene)(+)|=(+)|==(scene)
+==(touch)(-)|==(-)|=(touch)(-)
+==(scene)(+)|=(touch)(+)|==(thing)
+EMOTIONS:
+CATEGORY:scenery
+COMPARISONS:
+cold vs hot
+barren vs. blooming
+BODY:
+雪xue3 覆fu4 山shan1 頭tou2 路lu4
+梅mei2 開kai1 滿man3 樹shu4 園yuan2
+風feng1 吹chui1 寒han2 夜ye4 冷leng3
+日ri4 晒shai4 暖nuan3 冬deng1 衫shan1 
+
+
+ID: 10
+TITLE:也ye3 談tan2 冬deng1
+AUTHOR:Anonymous
+FORMAT:
+==(+)(action)|==(time)|=(+)
+==|==(-)(scene)|=(-)(touch)
+==|==(+)(scene)|=(+)
+==|==(+)(thing)|=(+)
+EMOTIONS:
+平静，美丽，安详
+CATEGORIE:life,scenery,season
+COMPARISONS:
+winter vs warmth
+weather vs feelings
+BODY:
+請qing3 讚zan4 冬dong1 節jie2 樂le4
+別bie2 嫌xian2 朔su4 雪xue3 寒han2
+多duo1 觀guan1 寂ji4 景jing3 美mei3
+且qie3 護hu4 暖nuan3 爐lu2 安an1
+   
+   
+ID: 11
+TITLE:冬dong1 眠mian2
+AUTHOR:Anonymous
+FORMAT:
+==(scene)(-)|==(scene)|=(action)
+==(touch)(-)|==(human)=(action)
+==|==(time)|=(-)(time)
+==(thing)|=|==(+)(action)
+EMOTIONS: 
+孤寂，冷清
+CATEGORY:life,scenery,lonely
+COMPARISONS:
+BODY:
+寒han2 風feng1 幃wei2 帳zhang4 開kai1
+凜lin3 冽lie4 迫po4 人ren2 來lai2
+但dan4 曉xiao3 時shi2 辰chen2 晚wan3
+衾qin2 裯chou2 總zong3 伴ban4 偎wei3
+
+
+
+ID: 12
+TITLE:
+AUTHOR:Anonymous
+FORMAT:
+==(scene)|==(thing)|=(+)
+==(scene)|==(thing)|=(sound)(+)
+==|=|==(scene)(+)
+==(scene)|=|==(scene)(+)
+EMOTIONS:
+潇洒，清闲
+CATEGORY:life
+COMPARISONS:
+full vs single
+BODY:
+田tian2 中zhong1 蹈dao3 穗sui4 飽bao3
+樹shu4 上shang4 秋qiu1 蟬chan2 鳴ming2
+獨du2 飲yin3 邀yao1 明ming2 月yue4
+眾zong4 遊you2 坐zuo4 數shu4 楓feng1
+
+
+
+ID: 13
+TITLE:
+AUTHOR:Anonymous
+FORMAT:
+==(scene)(-)|=|==(+)
+==|=|==(+)
+==(+)(feeling)|===(+)
+==(+)(human)|===(+)
+EMOTIONS:
+感人，动情，思念
+CATEGORY:life,love,friendship
+COMPARISONS:
+past vs present
+BODY:
+侠xia2 路lu4 多duo1 相xiang1 逄feng2,
+曾ceng2 经jing1 已yi3 相xiang1 识shi2.
+情qing2 投tou2 意yi4 相xiang1 合he2,
+知zhi1 己ji3 千qian1 言yan2 情qing2
+
+
+ID: 14
+TITLE:隐yin3 逸yi4
+AUTHOR:
+FORMAT:
+==(scene)|=(action)|==(scene)(+)
+==(scene)|=(action)|==(human)(+)
+==(+)|==(scene)|=(action)
+==(+)|=|==(human)
+EMOTIONS:
+清闲，清幽，幽静，潇洒
+CATEGORY:life,scenery
+COMPARISONS:
+human vs nature
+BODY:
+三san1 径jing4 通tong1 幽you1 室shi4
+五wu3 柳liu3 引yin3 雅ya3 士shi4
+清qing1 清qing1 溪xi1 水shui3 流liu2
+悠you1 悠you1 照zhao4 我wo3 心xin1
+
+ID: 15
+TITLE:过guo4 中zhong1 州zhou1
+AUTHOR:风feng1 清qing1 月yue4 白bai2
+FORMAT:
+==(thing)|===(number)
+==(action)|===(location)
+==(scene)|===(number)
+==(scene)|===(number)
+==(location)|=(number)|==
+==(direction)|=|==
+==(action)|==(location)=
+==(location)|=|==(+)
+EMOTIONS:
+思念，思乡
+CATEGORY:journey, hometown, missing
+COMPARISONS:
+close vs far
+here vs home
+BODY:
+驱qu1 车che1 八ba1 百bai3 里li3
+来lai2 访fang3 伏fu2 牛niu2 山shan1
+红hong2 日ri4 半ban4 天tian1 外wai4
+黄huang2 河he2 一yi1 线xian4 间jian1 
+中zhong1 州zhou1 多duo1 胜sheng4 迹ji4
+南nan2 去qu4 无wu2 仙xian1 缘yuan2
+遥yao2 望wang4 洛luo4 阳yang2 道dao4
+何he2 方fang1 是shi4 故gu4 园yuan2?
+
+
+ID: 20
+TITLE:
+AUTHOR:Anonymous
+FORMAT:
+=(time)=(action)|===(scene)(+)
+==(action)|===(scene)(-)
+==|===(scene)(+)
+==(-)|===(thing)
+==|==(scene)|=(-)
+==|==(scene)|=(+)
+==|==(scene)|=
+==|==(scene)|=(color)(+)
+EMOTIONS:
+惋惜，闲适
+CATEGORY:season,life,scenery
+COMPARISONS:
+winter vs summer
+BODY:
+暂zan4 歇xie1 盛sheng4 夏xia4 雨yu3,
+又you4 起qi3 深shen1 秋qiu1 风feng1.
+轻qin1 抚fu3 暮mu4 春chun1 草cao3,
+怕pa4 惊jing1 隆long2 冬dong1 虫chong2.
+六liu4 月yue4 南nan2 霜shuang1 重zhong4,
+千qian1 年nian2 北bei3 冰bing1 融rong2.
+回hui2 望wang4 东dong1 山shan1 外wai4,
+正zheng4 值zhi2 夕xi1 阳yang2 红hong2.
+
+
+ID: 21
+TITLE:
+FORMAT:
+==(scene)|=|==(thing)(+)
+==(+)|=|==
+==(scene)|===
+==|===(-)
+EMOTIONS:
+忧愁，忧思，惆怅
+CATEGORY:season,life,sadness
+COMPARISON：
+BODY:
+春chun1 雨yu3 贵gui4 如ru2 油you2 
+润run4 物wu4 不bu4 曾ceng2 休xiu1
+四si4 季ji4 轮lun2 流liu2 换huan4
+惟wei2 春chun1 难nan2 藏cang2 忧you1
+
+
+ID: 22
+TITLE:
+AUTHOR:
+FORMAT:
+==|==(scene)|=(+)
+==(scene)(+)|==(thing)|=
+==(human)|==(scene)|=(color)(+)
+==(+)|=|==
+EMOTIONS:
+温暖，喜庆
+CATEGORY:season,life,happiness
+COMPARISON:
+nature vs human
+BODY:
+陌mo4 上shang4 杨yang2 柳liu3 新xin1,
+日ri4 暖nuan3 雀que4 儿er5 飞fei1.
+人ren2 面mian4 桃tao2 花hua1 红hong2,
+一yi1 笑xiao4 漾yang4 翠cui4 微wei1.
+
+
+ID: 23
+TITLE:
+AUTHOR:
+FORMAT:
+==(scene)|=(-)|==(thing)
+==(+)(touch)|=|==(scene)
+==(scene)|=|==(scene)(+)
+==(scene)|===
+EMOTIONS:
+CATEGORY:season
+COMPARISON:
+BODY:
+春chun1 雷lei2 惊jing1 飞fei1 鸟niao3
+暖nuan3 风feng1 拂fu2 花hua1 草cao3 
+杨yang2 柳liu3 吐tu3 新xin1 绿lv4
+云yun2 儿er5 不bu4 知zhi1 晓xiao3
+
+ID: 24
+TITLE:
+FORMAT:
+==(scene)|=(scene)|==(+)
+==(scene)|=(scene)|==(+)
+==(scene)(+)|=|==(thing)(+)
+==(scene)|=(thing)|==(-)
+EMOTIONS:
+清新
+CATEGORY:scenery
+COMPARISON:
+BODY:
+山shan1 高gao1 水shui3 自zi4 清qing1
+天tian1 晴qing2 月yue4 见jian4 新xin1 
+水shui3 清qing1 见jian4 明ming2 石shi2 
+深shen1 山shan1 鸟niao3 不bu4 鸣ming2
+
+
+ID: 25
+TITLE:
+FORMAT:
+==(scene)|=(+)|==(touch)
+==(scene)|==(smell)|=(+)
+==(human)|=|==(+)
+==|=|==(human)
+EMOTIONS:
+农乐，清闲
+CATEGORY:life,scenery
+COMPARISON:
+nature vs human
+BODY:
+梧wu2 叶ye4 舞wu3 秋qiu1 风feng1,
+田tian2 径jing4 稻dao4 香xiang1 浓nong2.
+家jia1 家jia1 无wu2 闲xian2 日ri4,
+处chu4 处chu4 无wu2 闲xian2 人ren2.
+
+
+ID: 26
+TITLE:
+FORMAT:
+==(direction)|=|==(color)
+==(direction)|=|==(touch)(-)
+==(time)|==(scene)(+)|=
+==|==(sound)(+)|=
+EMOTIONS:
+清闲，幽静
+CATEGORY:friendship,life
+COMPARISON:
+BODY:
+东dong1 西xi1 同tong2 颜yan2 色se4,
+南nan2 北bei3 共gong4 凉liang2 风feng1.
+晚wan3 归gui1 斜xie2 阳yang2 下xia4
+还huan2 来lai2 笑xiao4 语yu3 声sheng1!
+
+
+ID: 27
+TITLE:
+AUTHOR:
+FORMAT:
+==(human)|=|==(-)
+==(human)|=|==
+==(date)|=|==
+==(thing)|=(-)|==
+EMOTIONS:
+CATEGORY:test,life
+COMPARISON:
+BODY:
+本ben3 人ren2 本ben3 无wu2 才cai2,
+父fu4 母mu3 送song4 我wo3 来lai2.
+今jin1 日ri4 来lai2 考kao3 试shi4,
+鸡ji1 蛋dan4 滚gun3 下xia4 来lai2.
+ 
+
+ID: 28
+TITLE:
+AUTHOR:
+FORMAT:
+==(scene)|=|==(scene)(+)
+==(scene)|=(+)|==(thing)
+==(sound)|=(-)|==(sound)
+==(thing)|=(+)|==(human)
+EMOTIONS:
+孤寂，幽静，潇洒
+CATEGORY:lonely,life
+COMPARISON:
+companion vs lonely
+BODY:
+枫feng1 焰yan4 染ran3 碧bi4 天tian1,
+弦xian2 月yue4 恋lian4 玉yu4 环huan2.
+风feng1 萧xiao1 争zhen1 剑jian4 鸣ming2,
+一yi1 叶ye4 伴ban4 侠xia2 岚lan2.
+
+
+ID: 29
+TITLE:
+AUTHOR:
+FORMAT:
+==|===(thing)
+==(human)(+)|=|==(scene)
+==(time)|==|=(scene)(-)
+==(time)|=(scene)|==(+)
+==(time)|=(-)|==(thing)
+==(time)|===(-)
+==(scene)|=|==(+)
+==(scene)|==|=(-)
+EMOTIONS:
+幽静,恬静
+CATEGORY:life,scenery
+COMPARISON:
+BODY:
+一yi1 点dian3 一yi1 辰chen2 木mu4,
+佳jia1 人ren2 在zai4 亭ting2 轩xuan1.
+昨zuo2 夜ye4 秋qiu1 风feng1 急ji2,
+今jin1 时shi2 雨yu3 轻qing1 点dian.
+一yi1 朝zhao1 愁chou2 白bai2 发fa4.
+终zhong1 日ri4 郁yu4 寡gua3 欢huan1.
+庭ting2 院yuan4 路lu4 幽you1 幽you1,
+花hua1 落luo4 鸟niao3 影ying3 单dan1.
+
+
+ID: 30
+TITLE:赠zeng1 居ju1 士shi4 祖zu3 母mu3 
+AUTHOR:
+FORMAT:
+==|==(thing)|=(+)
+==|==(thing)|=(+)
+==(+)|===
+==(thing)|=|==
+==|==|=(+)
+==|===(thing)
+EMOTIONS:
+虔诚
+CATEGORY:religion,life
+COMPARISON:
+BODY:
+身shen1 在zai4 菩pu2 提ti2 下xia4
+心xin1 向xiang4 圣sheng4 龛jiu4 前qian2
+超chao1 脱tuo1 轮lun2 回hui2 路lu4
+我wo3 佛fo2 渡du4 有you3 缘yuan2
+不bu2 畏wei4 修xiu1 行xing2 苦ku3 
+早zao3 拜bai4 灵ling2 鹫jiu4 山shan1
+ 
+

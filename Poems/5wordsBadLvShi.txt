@@ -1,0 +1,309 @@
+ID: 01
+TITLE:幻huan4 园yuan2 游you2
+AUTHOR:Anonymous
+FORMAT:
+=(action)=(feeling)|=(action)|==(scene)(location)
+==|=(action)|==(scene)(location)
+=(scene)=(action)|==(scene)|=(action)(+)
+=(scene)=(action)|==(scene)|=(action)(+)
+==(location)|=(action)(-)|==(-)
+==(location)|=(action)|==(-)
+==(action)|==(human)=
+==(action)|===(location)
+EMOTIONS:
+清幽,隐秘,幽静,清丽,活泼
+CATEGORY:scenery
+COMPARISON:
+front garden vs end garden
+BODY:
+随sui2 意yi4 行xing2 花hua1 间jian1, 
+巧qiao3 然ran2 遇yu4 景jing3 园yuan2.
+鸟niao3 飞fei1 芳fang1 草cao3 溅jian4,
+蝶die2 戏xi4 海hai3 棠tang2 连lian2.
+前qian2 院yuan4 乱luan4 萧xiao1 艳yan4,
+后hou4 屋wu1 清qing1 寂ji4 闲xian2.
+欲yu4 瞅chou3 园yuan2 主zhu3 面mian4,
+唯wei2 睹du3 闭bi4 门men2 前qian2.
+
+
+ID: 02
+TITLE:春chun1
+AUTHOR:
+FORMAT:
+=(human)=|==(scene)=(location)
+==|=(number)=(scene)=(location)(-)
+==(sense)|=(action)|==(scene)(+)
+==(sense)|=(action)|==(-)
+==(action)|==(time)|=(action)(+)
+==(action)|==(time)|=(color)(+)
+==(scene)|=|==(action)
+=(number)=(action)|=(action)|==(scene)
+EMOTION:洒脱,清幽,清爽
+CATEGORY:scenery,life
+COMPARISON:
+dream vs reality
+today vs yesterday
+BODY:
+我wo3 本ben3 微wei1 尘chen2 里li3,
+匆cong1 匆cong1 一yi1 梦meng4 中zhong1.
+清qing1 芬fen1 迎ying2 桂gui4 魄po4,
+冷leng3 涩se4 对dui4 虚xu1 空kong1.
+羡xian4 世shi4 今jin1 时shi2 醉zui4,
+怀huai2 秋qiu1 昨zuo2 日ri4 红hong2
+阴yin1 晴qing2 皆jie1 此ci3 定ding4,
+独du2 宿su4 问wen4 西xi1 风feng1.
+
+
+ID: 03
+TITLE:言yan2 世shi4
+AUTHOR:
+FORMAT:
+=(number)=(human)|==(scene)=(location)
+==|==(scene)=(location)(-)
+==(time)|=(action)|==(color)(-)
+==(time)|=(action)|==(color)(-)
+==(thing)|=|==(color)
+==(scene)|===(-)
+=(action)=(time)|=(action)|==(-)
+=(action)=(direction)|=|==(scene)
+EMOTION:
+清淡,苦涩,朴素,凄凉
+CATEGORY:life,scenery
+COMPARISON:
+white vs red
+yesteryear and day vs now
+emptiness vs blooming
+BODY:
+独du2 立li4 清qing1 嚣xiao1 外wai4,
+冥ming2 冥mign2 苦ku3 世shi4 中zhong1
+曾ceng2 年nian2 存cun2 惨can3 白bai2,
+昨zuo2 日ri4 剩sheng4 残can2 红hong2
+旧jiu4 碥bian1 犹you2 承cheng2 载zai3,
+繁fan2 花hua1 似si4 个ge4 空kong1.
+行xing2 时shi2 尝chang2 冷leng3 涩se4,
+落luo4 向xiang4 老lao3 梧wu2 桐tong2.
+
+
+
+ID: 04
+TITLE:阿a1 婆po2  
+AUTHOR:夏凡人 
+FORMAT: 
+==(human)|=(action)|==(human)
+==(action)|==(thing)|=(action)(-)
+=(action)=|=(number)=|=(scene)
+=(action)=|=(number)=|=(scene)
+==(sense)|=(action)|=(color)=(thing)(-)
+==(scene)|=(action)|=(color)=(thing)(-)
+==|==|=(thing)(+)
+==|=(thing)=(number)=
+EMOTION:隐秘,神秘
+CATEGORY:life,recount
+COMPARISON:
+white hair vs red face
+BODY:
+阿a1 婆po2 送song4 真zhen1 相xiang4,
+正zheng4 念nian4 鬼gui3 妖yao1 降jiang4. 
+走zou3 遍bian4 千qian1 条tiao2 巷xiang4,
+敲qiao1 开kai1 万wan4 户hu4 窗chuang1. 
+寒han2 风feng1 吹chui1 白bai2 发fa4,
+烈lie4 日ri4 照zhao4 红hong2 庞pang2. 
+默mo4 默mo4 慈ci2 悲bei1 路lu4,
+无wu2 言yan2 事shi4 一yi1 桩zhuang1. 
+
+
+
+ID: 05
+TITLE:生sheng1 日ri4 游you2 园yuan2 
+FORMAT:
+==(time)|=|==(feeling)(+)
+=(sense)=(scene)|=(color)=(scene)|=(action)(+)
+=(scene)=(action)|==(scene)|=(+)
+==(sense)|==(scene)|=(+)
+==(scene)|==(thing)=(action)(+)
+==(scene)|==(thing)=(action)(+)
+==(thing)|==|=(action)(-)
+=(thing)=(action)|=(action)|=(thing)=(feeling)(-)
+EMOTION:轻快,随意,明朗
+CATEGORY:scenery
+COMPARISON:
+light vs heavy
+BODY:
+周zhou1 末mo4 好hao3 心xin1 情qing2 
+暖nuan3 秋qiu1 绿lv4 野ye3 行xing2 
+蝶die2 迷mi2 花hua1 气qi4 重zhong4 
+风feng1 觉jue2 小xiao3 舟zhou1 轻qing1 
+舒shu1 柳liu3 随sui2 遮zhe1 笑xiao4 
+彩cai3 鹏peng2 远yuan3 费fei4 盯ding1 
+快kuai4 船chuan2 嗔chen1 急ji2 过guo4 
+波bo1 动dong4 压ya1 舷xian2 惊jing1
+
+
+
+ID: 06
+TITLE: 
+AUTHOR:
+FORMAT:
+==(sense)|=(action)|==(scene)(+)
+==(scene)|==(location)=(scene)(+)
+=(thing)=(action)|=(action)==(scene)(+)
+=(thing)=(action)|==(scene)=(action)(+)
+==(action)|==|=(time)(+)
+==(action)|==|=(time)(+)
+==(scene)|=(action)=(number)=(action)(+)
+==|==(action)=(action)(+)
+EMOTION:轻快,洒脱,自然,轻松
+CATEGORY:life,nature
+COMPARISON:
+calmness vs animals' action
+BODY:
+岚lan2 风feng1 逐zu2 潋lian4 滟yan4,
+细xi4 浪lang4 润run4 湖hu2 堤di1.
+凫fu2 戏xi4 涟lian2 漪yi2 漾yang4,
+鱼yu2 翔xiang2 丽li4 水shui3 洄hui2.
+难nan2 得de2 脱tuo1 洒sa3 日ri4,
+方fang1 度du4 逸yi4 清qing1 时shi2.
+绮yi3 景jing3 怀huai2 千qian1 转zhuan3,
+依yi1 依yi1 不bu4 舍she3 归gui1.
+
+
+
+
+ID: 07
+TITLE:集ji2 烟yan1 名ming2 
+AUTHOR:
+FORMAT:
+==(human)|==(location)|=(human)
+=(action)=(human)|==(location)|=(location)
+==(action)|==(thing)|=(location)
+==|==(scene)|=(action)(-)
+=(action)=(thing)|===(human)(-)
+=(action)=(thing)|==(human)|=(action)(-)
+==(time)|==(thing)|=(action)
+==|=(action)|==(location)(+)
+EMOTION:倔强,坚强,欢快,乐观
+CATEGORY:life,marriage,love
+COMPARISON:
+horse (masculinity) vs flower(femininity)
+BODY:
+我wo3 本ben3 中zhong1 华hua2 妹mei4 
+寻xun2 夫fu1 上shang4 海hai3 城cheng2 
+甘gan1 从cong2 飞fei1 马ma3 后hou4  
+不bu4 与yu3 牡mu3 丹dan1 争zheng1 
+见jian4 背bei4 熊xiong2 猫mao1 族zu2 
+离li2 心xin1 美mei3 女nv3 伦lun2 
+何he2 时shi2 金jin1 鹿lu4 至zhi4 
+双shuang1 喜xi3 报bao4 前qian2 门men2
+
+
+
+ID: 08
+TITLE: 
+AUTHOR:
+FORMAT:
+=(action)=(human)|==(scene)|=(action)(+)
+=(action)=(scene)|=(action)|==(scene)(+)
+=(action)=(human)|=(sound)|=(number)=(+)
+==(scene)|==(human)|=(action)(+)
+=(thing)=(sound)|==(scene)|=(location)(+)
+==(scene)|=(action)|==(scene)(+)
+=(action)=|==|=(sense)(-)
+==|=(action)|==(time)(-)
+EMOTION:洒脱,自然,惋惜
+CATEGORY:scenery,love
+COMPARISON:
+BODY:
+疑yi2 身shen1 天tian1 上shang4 行xing2,
+摘zhai1 月yue4 揽lan3 繁fan2 星xing1.
+伴ban4 尔er3 歌ge1 千qian1 曲qu3,
+春chun1 花hua1 为wei4 我wo3 倾qing1.
+鸟niao3 歌ge1 草cao3 舍she4 前qian2,
+复fu4 嶂zhang4 对dui4 云yun2 天tian1.
+揽lan3 尽jin4 沧cang1 桑sang1 色se4,
+轻qing1 狂kuang2 负fu4 少shao4 年nian2.
+
+
+
+ID: 09
+TITLE: 
+AUTHOR:
+FORMAT:
+==(time)|==(location)=(human)(-)
+==(time)|===(human)
+==(location)|=|=(number)=(thing)(+)
+==(location)|=|==(scene)(+)
+=(action)=(thing)|=(action)=(number)=
+=(action)=(thing)|=(action)=(number)=(human)(+)
+==(scene)|==(action)=(thing)(+)
+==(action)|=|==(action)(+)
+EMOTION:孤独,潇洒
+CATEGORY:friendship
+COMPARISON:
+everywhere vs same dream
+BODY:
+今jin1 世shi4 贫pin2 乡xiang1 客ke4,
+韶shao2 华hua2 唯wei2 此ci3 身shen1.
+天tian1 涯ya2 同tong2 一yi1 梦meng4,
+沧cang1 海hai3 共gong4 佳jia1 辰chen2.
+请qing3 酒jiu3 余yu2 千qian1 里li3,
+邀yao1 杯bei1 对dui4 几ji3 人ren2.
+银yin2 河he2 结jie2 作zuo4 岸an3,
+欢huan1 醉zui4 欲yu4 沉chen2 沦lun2.
+
+
+ID: 10
+TITLE:迷mi2 夏xia4
+AUTHOR:
+FORMAT:
+==(scene)|=(scene)==(-)
+=(action)=(human)|==(time)|=(scene)(-)
+==(feeling)|==(scene)|=(sound)
+==(time)|==(scene)|=(human)(-)
+=(number)=(time)|=(action)|==(thing)(-)
+=(number)=(time)|=(action)|==(feeling)(-)
+==(thing)|=|==(scene)(-)
+==|=|=(color)=(thing)(-)
+EMOTION:感慨,叹息
+CATEGORY:life,inspiration
+COMPARISON:
+emptiness vs reputation etc
+BODY:
+流liu2 光guang1 深shen1 寂ji4 寂ji4,
+负fu4 我wo3 那na4 年nian2 秋qiu1.
+记ji4 忆yi4 编bian1 成cheng2 曲qu3,
+青qing1 春chun1 化hua4 作zuo4 囚qiu2.
+半ban4 生sheng1 劳lao2 梦meng4 想xiang3,
+一yi1 世shi4 寄ji4 忧you1 愁chou2.
+名ming2 利li4 皆jie1 风feng1 影ying3,
+匆cong1 匆cong1 即ji4 白bai2 头tou2.
+
+
+
+
+
+ID: 11
+TITLE: 书shu1 奥ao4
+AUTHOR:
+FORMAT:
+=(number)=(thing)|===(thing)(-)
+=(action)=(thing)|=(action)==(thing)(-)
+=(action)=(thing)|=(action)==(thing)(-)
+=(action)=(thing)|=(action)==(thing)(-)
+=(time)=|==(location)=(action)(+)
+=(time)=|==(location)=(action)(+)
+==(action)|===(scene)(-)
+==|===(scene)(+)
+EMOTION:疯狂,迷乱
+CATEGORY:
+COMPARISON:
+phoenix(female) vs dragon(male)
+small vs strong
+BODY:
+半ban4 爪zhua3 肖xiao4 仙xian1 鹤he4,
+落luo4 鳞lin2 惊jing1 蛰zhi4 龙long2.
+拨bo1 灯deng1 窥kui1 纤qian1 缕lv3,
+搦nuo4 管guan3 合he2 骚sao1 风feng1.
+夜ye4 与yu3 兰lan2 亭ting2 叙xu4,
+朝zhao1 从cong2 北bei3 海hai3 行xing2.
+痴chi1 狂kuang2 到dao4 通tong1 会hui4,
+如ru2 像xiang4 迈wan4 秋qiu1 鹰ying1.  
