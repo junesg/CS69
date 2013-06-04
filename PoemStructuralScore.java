@@ -30,16 +30,18 @@ public class PoemStructuralScore {
 			while(line1 != null && line1.compareTo("")!= 0) {
 				if(line1.compareTo("") != 0 && line2.compareTo("") != 0){
 					lineCount ++;
-					structureScore = TwoLineMatchScore(line1, line2);
-					if (structureScore < 0)
-						structureScore = 0;
+					double tempstructureScore = TwoLineMatchScore(line1, line2);
+					if (tempstructureScore < 0)
+						tempstructureScore = 0;
 					ArrayList<Double> positionWithScore = new ArrayList<Double>();
 					positionWithScore.add((double)lineCount); //which pair
 					positionWithScore.add(structureScore);
 					poemIDToRhymeCharacteristics.put(ind, positionWithScore);	
 					sentimentCalculator.lines.add(line1);
 					sentimentCalculator.lines.add(line2);
-					System.out.println(structureScore);
+//					System.out.println("line count: "+lineCount);
+					structureScore += tempstructureScore;
+//					System.out.println(structureScore);
 				}
 				else {//if one pair is empty, continue reading another line
 					while( line1.compareTo("") == 0 && line2.compareTo("") == 0)
@@ -71,6 +73,7 @@ public class PoemStructuralScore {
 			e.printStackTrace();
 		}
 		
+		System.out.println(structureScore/(((double)lineCount)/2));
 		emotionalScore = sentimentCalculator.GetEmotionalScore();
 		System.out.println(emotionalScore);
 	}
