@@ -10,7 +10,7 @@ FORMAT:
 =(action)=(thing)|=(action)==(+)
 =(time)=(action)|=(number)=(thing)|=(action)
 ==|=(thing)=(time)|=
-EMOTION:
+EMOTIONS:
 伤感,感慨,叹息
 CATEGORY:life,job,ambition,reality
 COMPARISON:
@@ -55,7 +55,6 @@ BODY:
 披pi1 衣yi1 觉jue2 露lu4 滋zi1.
 不bu4 堪kan1 盈yin2 手shou3 赠zeng4,
 还huan2 寝qin3 梦meng4 佳jia1 期qi1.
-
 ID: 03
 TITLE:送song4 杜du4 少shao4 府fu3 之zhi1 任ren4 蜀shu3 州zhou1
 AUTHOR:王wang2 勃bo2
@@ -70,7 +69,7 @@ FORMAT:
 ==(human)|=|=(action)=(thing)(+)
 EMOTIONS:
 宽广,豪放,真诚,自然,亲切,阔达,旷达
-CATEGORY:missing,friendship,life,farewell
+CATEGORY:missing,friship,life,farewell
 COMPARISON:
 far vs close
 BODY:
@@ -96,7 +95,7 @@ FORMAT:
 ==(sense)|=(sound)|==(action)
 ==(human)|=(action)|==(thing)
 ==(human)|==(action)|=(thing)
-EMOTION:
+EMOTIONS:
 苦闷,失意,悲愤,孤零,困境,失望,辜负,孤愤
 CATEGORY:life,job,aspiration,reality
 COMPARISON:
@@ -127,7 +126,7 @@ FORMAT:
 ==(scene)|=(action)|=(color)=(thing)(+)
 ==(action)|==(sound)|=(sound)
 ==|==(action)(-)|=(thing)
-EMOTION:
+EMOTIONS:
 细腻,感慨,思乡,感人,朴素,深情
 CATEGORY:missing,hometown,lonely
 COMPARISON:
@@ -156,7 +155,7 @@ FORMAT:
 ==(human)|==(time)|=(+)
 ==(human)|=(action)|==(thing)
 ==|=(action)|==(location)(+)
-EMOTION:
+EMOTIONS:
 怨情,深情,气势
 CATEGORY:missing,war,love,relationship
 COMPARISON:
@@ -188,7 +187,7 @@ FORMAT:
 ==(scene)|=(scene)|==(action)(-)
 ==(time)|==(action)=(location)
 ==(action)|==(location)=(scene)(+)
-EMOTION:
+EMOTIONS:
 自恋,孤寂,凄凉,凄清,思乡,深情,婉转,惆怅,凄恻,缠绵
 CATEGORY:life,aspiration,sadness
 COMPARISON:
@@ -218,7 +217,7 @@ FORMAT:
 ==(scene)|=(action)|==(time)
 ==(thing)|==(location)|=(action)
 ==(thing)|==(location)|=(location)
-EMOTION:
+EMOTIONS:
 清丽,思乡,自然,真切,壮美,韵味
 CATEGORY:missing,hometown,scenery
 COMPARISON:
@@ -247,7 +246,7 @@ FORMAT:
 ==(scene)|=(action)|==(human)
 =(number)=(sound)|=(location)|==(sound)
 ==(action)|===(sound)
-EMOTION:
+EMOTIONS:
 幽深,寂静,幽静,细腻,古朴,朴素,清净
 CATEGORY:scene,religion,
 COMPARISON:
@@ -278,7 +277,7 @@ FORMAT:
 =(color)=(scene)|=(action)|=(thing)=(action)(+)
 ==(human)|=|==(thing)(-)
 ==(human)|==(thing)|=(-)
-EMOTION:
+EMOTIONS:
 讽刺,华贵,雍容,委婉,感慨,愤满,失望
 CATEGORY:life,job,aspiration,reality,palace,emperor
 COMPARISON:
@@ -307,7 +306,7 @@ FORMAT:
 =(action)=(scene)|=|=(action)=(human)(+)
 ==(scene)|=|==(action)(+)
 ==|=(action)|==(sense)(+)
-EMOTION:
+EMOTIONS:
 自然,飘逸,风流,潇洒,钦慕,古朴,高调
 CATEGORY:human,life,inspiration
 COMPARISON:
@@ -337,7 +336,7 @@ FORMAT:
 ==(scene)|=(action)|==(scene)(+)
 ==(action)|==(location)|=(thing)(-)
 =(number)=|=(action)|==(thing)(+)
-EMOTION:
+EMOTIONS:
 旷远,开阔,气势,思乡,思念,深情,复杂
 CATEGORY:missing,hometown,journey,scenery
 COMPARISON:
@@ -366,12 +365,12 @@ FORMAT:
 ==(scene)|==(human)|=(+)
 ==(action)|=(human)=(time)=(action)
 ==(sound)|==(thing)(-)|=(action)
-EMOTION:
+EMOTIONS:
 不舍留恋思念高朗阔达扩元深情自然
-CATEGORY:life,friendship,farewell,missing
+CATEGORY:life,friship,farewell,missing
 COMPARISON:
 cloud vs human
-traveler vs old friends
+traveler vs old fris
 human vs horse
 dark vs bright color
 BODY:
@@ -397,9 +396,9 @@ FORMAT:
 ==(sound)|=(action)|==(sound)
 ==(action)|=(color)==(scene)
 ==(scene)|=(action)(color)==
-EMOTION:
+EMOTIONS:
 明畅,建爽,优美,美妙,感慨,自然,轻快
-CATEGORY:life,scenery,arts,friendship
+CATEGORY:life,scenery,arts,friship
 COMPARISON:
 music vs scenery
 feeling vs nature
@@ -427,7 +426,7 @@ FORMAT:
 ==(human)|=|==(action)(-)
 ==(time)|=(action)|==(thing)
 ==(scene)|=(action)==(-)
-EMOTION:
+EMOTIONS:
 感慨,自怨,自艾,单纯,韵味,清新,自然,风流,潇洒
 CATEGORY:
 life,inspiration,sadness,reality
@@ -457,7 +456,7 @@ FORMAT:
 ==(thing)|=|=(number)=(thing) (+)
 ==(thing)|=(action)|== (-)
 ==|==(action)|=(thing)
-EMOTION:
+EMOTIONS:
 沧桑,悲凉,凄清,悲哀,艰难,伤情,忧患,思念,深情,真挚,感慨
 CATEGORY:life,war,home,hometown,missing,reality,sadness
 COMPARISON:
@@ -488,7 +487,7 @@ FORMAT:
 ==(scene)|==(thing)=(sense)(-)
 ==(time)|=(action)|==(thing)
 ==(action)|==(thing)|=(-)
-EMOTION:
+EMOTIONS:
 交际,思念,凄清,孤独,深情,忧虑,惊恐,伤心
 CATEGORY:life,war,worry,love,missing
 COMPARISON:
@@ -518,7 +517,7 @@ FORMAT:
 ==(location)|=(action)|==(action)(-)
 ==(thing)|=|==(action)(-)
 ==|=|==(action)(-)
-EMOTION:
+EMOTIONS:
 忧虑,思念,感慨,悲愤,焦急,悲凉,深情,思乡,凄清,急切,沉郁
 CATEGORY:war,life,missing,hometown,country,reality
 COMPARISON:
@@ -548,9 +547,8 @@ FORMAT:
 =(thing)=(thing)(-)|=(action)|=(human)=(action)
 ==(action)|==(thing)=(sound)(-)
 =(action)=(thing)|=(action)==(location)(-)
-EMOTION:
-怀念,思念,牵挂,深情,愤慨,感慨,悲凉,怜惜,凄凉
-CATEGORY:life,inspiration,friendship,missing,reality
+EMOTIONS:怀念,思念,牵挂,深情,愤慨,感慨,悲凉,怜惜,凄凉
+CATEGORY:life,inspiration,friship,missing,reality
 COMPARISON:
 nature vs human
 human vs ghost
@@ -562,8 +560,7 @@ BODY:
 文wen2 章zhang1 憎zeng1 命ming4 达da2,
 魑chi1 魅mei4 喜xi3 人ren2 过guo4.
 应ying4 共gong4 冤yuan1 魂hun2 语yu3,
-投tou2 诗shi1 赠zeng4 汨lei4 罗luo2.	
-
+投tou2 诗shi1 赠zeng4 汨lei4 罗luo2.
 ID: 20
 TITLE:奉feng4 济ji4 驿yi4 重zhong4 送song4 严yan2 公gong1 四si4 韵yun4
 AUTHOR:杜du4 甫fu3
@@ -576,9 +573,9 @@ FORMAT:
 ==(location)|==(action)=(+)
 ==(location)|=(human)=(action)=(location)(-)
 ==(human)|=(action)==(thing)(-)
-EMOTION:
+EMOTIONS:
 质朴,朴素,严谨,沉郁,深情,真挚,悽楚,惆怅
-CATEGORY:life,friendship,missing,farewell,reality
+CATEGORY:life,friship,missing,farewell,reality
 COMPARISON:
 when vs yesterday
 town vs palace
@@ -605,11 +602,11 @@ FORMAT:
 =(action)=(thing)|=(action)|==(human)(+)
 ==(action)|==(scene)|=(action)(-)
 =(thing)=(action)|=(action)=(human)=(sense)(-)
-EMOTION:
+EMOTIONS:
 思念,忧虑,叹息,感慨,真情,雍容,典雅,深情
-CATEGORY:life,farewell,respect,missing,friendship
+CATEGORY:life,farewell,respect,missing,friship
 COMPARISON:
-friend vs historical stories of friends
+fri vs historical stories of fris
 nice natural scene vs sad scenes
 BODY:
 他ta1 乡xiang1 复fu4 行xing2 役yi4,
@@ -635,7 +632,7 @@ FORMAT:
 =(thing)=|==(thing)|=(action)(-)
 ==(scene)|=(thing)==(action)(-)
 ==(scene)|=(number)|==(thing)
-EMOTION:
+EMOTIONS:
 漂泊,孤独,沉重,孤苦,凄凉,凄怆,悲苦,无助,感慨
 CATEGORY:life,inspiration,job,lonely
 COMPARISON:
@@ -665,13 +662,13 @@ FORMAT:
 ==(human)|=|=(number)=(thing)(-)
 ==(action)|==(location)|=(direction)
 ==(action)|==(thing)|=(action)(-)
-EMOTION:
+EMOTIONS:
 哀伤,雄伟,壮阔,沉郁,悲伤,深情
 CATEGORY:war,life,sadness,worry,country
 COMPARISON:
 past vs present
 history vs now
-friends and family vs alone
+fris and family vs alone
 BODY:
 昔xi1 闻wen2 洞dong4 庭ting2 水shui3,
 今jin1 上shang4 岳yue4 阳yang2 楼lou2.
@@ -695,7 +692,7 @@ FORMAT:
 =(scene)=(action)|=(action)==(scene)(+)
 ==(feeling)|==(scene)|=(action)(+)
 ==(human)|=(human)|==(action)(+)
-EMOTION:
+EMOTIONS:
 空灵,清新,美妙,自然,幽静,清幽,活泼,无忧,纯洁,深情,宁静,高洁
 CATEGORY:scenery,life,hope
 COMPARISON:
@@ -724,7 +721,7 @@ FORMAT:
 ==(scene)|=(action)|==(scene)(location)(-)
 ==|==(scene)=(location)
 ==(action)|===(action)(+)
-EMOTION:
+EMOTIONS:
 从容,悠闲,安逸,安详,深情,凄清,平和
 CATEGORY:life,reality,scenery
 COMPARISON:
@@ -755,7 +752,7 @@ FORMAT:
 ==(scene)|==(scene)|=(action)(+)
 ==(action)|=(human)=(location)|=(action)
 =(action)=(scene)|=(action)|==(human)(+)
-EMOTION:
+EMOTIONS:
 宏伟,壮大,多变,洒脱,清新,如画,广阔,自然
 CATEGORY:scenery,life
 COMPARISON:
@@ -786,7 +783,7 @@ FORMAT:
 ==(scene)|=(action)|=(action)=(thing)(+)
 =(human)=(action)|=|=(thing)=(action)
 ==(sound)|=|=(scene)=(location)(+)
-EMOTION:失落,苦闷,隐逸,洒脱,潇洒,超然,失意,韵味
+EMOTIONS:失落,苦闷,隐逸,洒脱,潇洒,超然,失意,韵味
 CATEGORY:life,inspiration,job,sadness,scenery
 COMPARISON:
 taking job vs hiding
@@ -815,8 +812,8 @@ FORMAT:
 =(location)=(human)|=(action)==(scene)
 ==(human)|=(action)|==(thing)
 ==|=(action)|==(human)
-EMOTION:生动气势壮大潇洒磅礡期望真切深情期待
-CATEGORY:life,job,inspiration,friendship
+EMOTIONS:生动气势壮大潇洒磅礡期望真切深情期待
+CATEGORY:life,job,inspiration,friship
 COMPARISON:
 beauty of the scene vs materialistic life of the people
 men and women
@@ -845,7 +842,7 @@ FORMAT:
 ==(scene)|=(action)|==(scene)(+)
 ==(location)|===(scene)(+)
 ==(action)|=(action)==(human)(+)
-EMOTION:
+EMOTIONS:
 壮阔,雄伟,宏大,广阔,雄浑,迷茫,潇洒,留恋,美好,清新,优美,乐观
 CATEGORY:life,scenery,inspiration
 COMPARISON:
@@ -874,7 +871,7 @@ FORMAT:
 ==(action)|=(action)|==(human)(-)
 ==(action)|==(action)=(human)
 ==(action)|==(action)=(feeling)(-)
-EMOTION:
+EMOTIONS:
 磅礡,婉转,清高,自然,壮大,广大,广阔,壮阔
 CATEGORY:scenery,job,inspiration,life
 COMPARISON:
@@ -903,7 +900,7 @@ FORMAT:
 =(scene)=(feeling)|==(location)=(action)(-)
 ==(location)|=(scene)=(thing)=(action)(+)
 =(action)=|=(thing)=(action)=(thing)(-)
-EMOTION:真挚,怀念,伤感,悲哀,沧桑,真情
+EMOTIONS:真挚,怀念,伤感,悲哀,沧桑,真情
 CATEGORY:life,history,scenery
 COMPARISON:
 shallow vs deep
@@ -932,8 +929,8 @@ FORMAT:
 =(action)=(thing)|=(action)|==(scene)(+)
 ==(action)|===(time)
 ==(action)|=(action)==(scene) (+)
-EMOTION:细腻,真挚,深情,自然,朴素,清新,恬静,亲切,简朴,平淡,流畅,幽静
-CATEGORY:scenery,friendship
+EMOTIONS:细腻,真挚,深情,自然,朴素,清新,恬静,亲切,简朴,平淡,流畅,幽静
+CATEGORY:scenery,friship
 COMPARISON:
 today vs future
 BODY:
@@ -959,8 +956,8 @@ FORMAT:
 =(scene)=(scene)|=(action)==(scene)(+)
 ==(action)|==(action)=(direction)
 ==(scene)|=(action)==(feeling)(+)
-EMOTION:顽强,自然,坚毅,古典,深情
-CATEGORY:life,inspiration,friendship,missing,scenery
+EMOTIONS:顽强,自然,坚毅,古典,深情
+CATEGORY:life,inspiration,friship,missing,scenery
 COMPARISON:
 death vs alive
 destruction vs growth
@@ -974,6 +971,3 @@ BODY:
 晴qing2 翠cui4 接jie1 荒huang1 城cheng2.
 又you4 送song4 王wang2 孙sun1 去qu4,
 萋qi1 萋qi1 满man3 别bie2 情qing2.
-
-
-

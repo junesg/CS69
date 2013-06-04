@@ -1,0 +1,1017 @@
+----START OF FILE 5wordsBadLvShi.txt ---
+PoemID: 1
+PoemStructuralScore: poem 1 , pair: 1 and score = 2.0
+PoemStructuralScore: poem 1 , pair: 2 and score = 3.0
+PoemStructuralScore: poem 1 , pair: 3 and score = 2.0
+PoemStructuralScore: poem 1 , pair: 4 and score = 1.0
+EmotionalScore is: 1.0
+The format of this poem has condens score 0.875
+Phonetics Rhyme is 0.85 and rhyme type is: 0.0 .
+PoemID: 2
+PoemStructuralScore: poem 2 , pair: 1 and score = 0.0
+PoemStructuralScore: poem 2 , pair: 2 and score = 2.0
+PoemStructuralScore: poem 2 , pair: 3 and score = 2.0
+PoemStructuralScore: poem 2 , pair: 4 and score = 0.3
+EmotionalScore is: 1.0
+The format of this poem has condens score 0.8541666666666666
+Phonetics Rhyme is 0.95 and rhyme type is: 0.0 .
+PoemID: 3
+PoemStructuralScore: poem 3 , pair: 1 and score = 1.0
+PoemStructuralScore: poem 3 , pair: 2 and score = 3.0
+PoemStructuralScore: poem 3 , pair: 3 and score = 0.0
+PoemStructuralScore: poem 3 , pair: 4 and score = 0.3
+EmotionalScore is: 0.6666
+The format of this poem has condens score 0.7500000000000001
+Phonetics Rhyme is 0.95 and rhyme type is: 0.0 .
+PoemID: 4
+PoemStructuralScore: poem 4 , pair: 1 and score = 0.6
+PoemStructuralScore: poem 4 , pair: 2 and score = 3.0
+PoemStructuralScore: poem 4 , pair: 3 and score = 2.0
+PoemStructuralScore: poem 4 , pair: 4 and score = 0.0
+EmotionalScore is: 0.6666
+The format of this poem has condens score 0.7592592592592592
+Phonetics Rhyme is 0.875 and rhyme type is: 1.0 .
+PoemID: 5
+PoemStructuralScore: poem 5 , pair: 1 and score = 0.0
+PoemStructuralScore: poem 5 , pair: 2 and score = 1.0
+PoemStructuralScore: poem 5 , pair: 3 and score = 2.0
+PoemStructuralScore: poem 5 , pair: 4 and score = 0.15
+EmotionalScore is: 0.6666
+The format of this poem has condens score 0.8333333333333334
+Phonetics Rhyme is 0.825 and rhyme type is: 0.0 .
+PoemID: 6
+PoemStructuralScore: poem 6 , pair: 1 and score = 0.0
+PoemStructuralScore: poem 6 , pair: 2 and score = 1.5
+PoemStructuralScore: poem 6 , pair: 3 and score = 2.0
+PoemStructuralScore: poem 6 , pair: 4 and score = 0.0
+EmotionalScore is: 0.6666
+The format of this poem has condens score 0.8541666666666667
+Phonetics Rhyme is 1.0 and rhyme type is: 1.0 .
+PoemID: 7
+PoemStructuralScore: poem 7 , pair: 1 and score = 1.15
+PoemStructuralScore: poem 7 , pair: 2 and score = 0.3
+PoemStructuralScore: poem 7 , pair: 3 and score = 2.0
+PoemStructuralScore: poem 7 , pair: 4 and score = 0.0
+EmotionalScore is: 0.6666
+The format of this poem has condens score 0.9166666666666666
+Phonetics Rhyme is 0.975 and rhyme type is: 0.0 .
+PoemID: 8
+PoemStructuralScore: poem 8 , pair: 1 and score = 0.6
+PoemStructuralScore: poem 8 , pair: 2 and score = 0.15
+PoemStructuralScore: poem 8 , pair: 3 and score = 0.6
+PoemStructuralScore: poem 8 , pair: 4 and score = 0.6
+EmotionalScore is: 0.6666
+The format of this poem has condens score 0.9166666666666667
+Phonetics Rhyme is 0.95 and rhyme type is: 1.0 .
+PoemID: 9
+PoemStructuralScore: poem 9 , pair: 1 and score = 1.5
+PoemStructuralScore: poem 9 , pair: 2 and score = 1.0
+PoemStructuralScore: poem 9 , pair: 3 and score = 1.1666666716337204
+PoemStructuralScore: poem 9 , pair: 4 and score = 0.3
+EmotionalScore is: 0.6666
+The format of this poem has condens score 0.875
+Phonetics Rhyme is 0.95 and rhyme type is: 0.0 .
+PoemID: 10
+PoemStructuralScore: poem 10 , pair: 1 and score = 0.3
+PoemStructuralScore: poem 10 , pair: 2 and score = 1.0
+PoemStructuralScore: poem 10 , pair: 3 and score = 2.0
+PoemStructuralScore: poem 10 , pair: 4 and score = 0.075
+EmotionalScore is: 0.6666
+The format of this poem has condens score 0.875
+Phonetics Rhyme is 0.975 and rhyme type is: 1.0 .
+PoemID: 11
+PoemStructuralScore: poem 11 , pair: 1 and score = 0.44999999999999996
+PoemStructuralScore: poem 11 , pair: 2 and score = 2.0
+PoemStructuralScore: poem 11 , pair: 3 and score = 2.0
+PoemStructuralScore: poem 11 , pair: 4 and score = 1.0
+EmotionalScore is: 1.0
+The format of this poem has condens score 0.9375
+Phonetics Rhyme is 0.825 and rhyme type is: 0.0 .
+END OF FILE
+----START OF FILE 5wordsBadPoems.txt ---
+PoemID: 1
+PoemStructuralScore: poem 1 , pair: 1 and score = 0.0
+PoemStructuralScore: poem 1 , pair: 2 and score = 0.0
+EmotionalScore is: 0.6666
+The format of this poem has condens score 0.49999999999999994
+Phonetics Rhyme is 0.7 and rhyme type is: 3.0 .
+PoemID: 2
+PoemStructuralScore: poem 2 , pair: 1 and score = 0.0
+PoemStructuralScore: poem 2 , pair: 2 and score = 1.0
+EmotionalScore is: 0.6666
+The format of this poem has condens score 0.5833333333333333
+wrong size is 5
+In GetPhoneticScore: line(0) is : ?bai2 ?jiu3 ?pi2 ?jiu3 ?bo1 ?li2 ?bei1,
+In GetPhoneticScore: line(1) is : ?shang4 ?ban1 ?shi1 ?jian1 ?ma3 ?shang4 ?cui1;
+In GetPhoneticScore: line(2) is : ?chi2 ?dao4 ?ai1 ?pi1 ?jia1 ?fa2 ?kuan3,
+In GetPhoneticScore: line(3) is : ?gong1 ?zi1 ?liao2 ?liao2 ?wu2 ?qian2 ?hui2.
+In GetPhoneticScore: line(4) is :  
+wrong size is 5
+In GetPhoneticScore: line(0) is : ?bai2 ?jiu3 ?pi2 ?jiu3 ?bo1 ?li2 ?bei1,
+In GetPhoneticScore: line(1) is : ?shang4 ?ban1 ?shi1 ?jian1 ?ma3 ?shang4 ?cui1;
+In GetPhoneticScore: line(2) is : ?chi2 ?dao4 ?ai1 ?pi1 ?jia1 ?fa2 ?kuan3,
+In GetPhoneticScore: line(3) is : ?gong1 ?zi1 ?liao2 ?liao2 ?wu2 ?qian2 ?hui2.
+In GetPhoneticScore: line(4) is :  
+Phonetics Rhyme is 100000.0 and rhyme type is: 0.0 .
+PoemID: 3
+PoemStructuralScore: poem 3 , pair: 1 and score = 1.3
+PoemStructuralScore: poem 3 , pair: 2 and score = 0.0
+EmotionalScore is: 0.6666
+The format of this poem has condens score 0.7499999999999999
+wrong size is 5
+In GetPhoneticScore: line(0) is : ?yuan3 ?shang4 ?han2 ?shan1 ?shi2 ?jin4 ?xie2.
+In GetPhoneticScore: line(1) is : ?bai2 ?yun2 ?shen1 ?chu4 ?you3 ?chang3 ?jia1.
+In GetPhoneticScore: line(2) is : ?jiu5 ?dai1 ?lin2 ?zhong1 ?ji1 ?sheng1 ?ting2,
+In GetPhoneticScore: line(3) is : ?qing2 ?mei4 ?lian3 ?sai4 ?er4 ?yue4 ?hua1.
+In GetPhoneticScore: line(4) is :  
+wrong size is 5
+In GetPhoneticScore: line(0) is : ?yuan3 ?shang4 ?han2 ?shan1 ?shi2 ?jin4 ?xie2.
+In GetPhoneticScore: line(1) is : ?bai2 ?yun2 ?shen1 ?chu4 ?you3 ?chang3 ?jia1.
+In GetPhoneticScore: line(2) is : ?jiu5 ?dai1 ?lin2 ?zhong1 ?ji1 ?sheng1 ?ting2,
+In GetPhoneticScore: line(3) is : ?qing2 ?mei4 ?lian3 ?sai4 ?er4 ?yue4 ?hua1.
+In GetPhoneticScore: line(4) is :  
+Phonetics Rhyme is 100000.0 and rhyme type is: 0.0 .
+PoemID: 4
+PoemStructuralScore: poem 4 , pair: 1 and score = 0.6
+PoemStructuralScore: poem 4 , pair: 2 and score = 0.0
+EmotionalScore is: 0.6666
+The format of this poem has condens score 0.3333333333333333
+wrong size is 6
+In GetPhoneticScore: line(0) is : ?kua4 ?qi3 ?xing2 ?nang2 ?chuang3 ?si4 ?fang1,
+In GetPhoneticScore: line(1) is : ?gong1 ?zi1 ?fa1 ?lai2 ?xiao1 ?sa3 ?guang1.
+In GetPhoneticScore: line(2) is : ?nong2 ?mang2 ?ji2 ?pan4 ?ji4 ?qian2 ?gui1,
+In GetPhoneticScore: line(3) is : ?kui4 ?dui4 ?lao3 ?fu4 ?xin1 ?fa1 ?huang1.
+In GetPhoneticScore: line(4) is :  
+In GetPhoneticScore: line(5) is :  
+wrong size is 6
+In GetPhoneticScore: line(0) is : ?kua4 ?qi3 ?xing2 ?nang2 ?chuang3 ?si4 ?fang1,
+In GetPhoneticScore: line(1) is : ?gong1 ?zi1 ?fa1 ?lai2 ?xiao1 ?sa3 ?guang1.
+In GetPhoneticScore: line(2) is : ?nong2 ?mang2 ?ji2 ?pan4 ?ji4 ?qian2 ?gui1,
+In GetPhoneticScore: line(3) is : ?kui4 ?dui4 ?lao3 ?fu4 ?xin1 ?fa1 ?huang1.
+In GetPhoneticScore: line(4) is :  
+In GetPhoneticScore: line(5) is :  
+Phonetics Rhyme is 100000.0 and rhyme type is: 0.0 .
+PoemID: 5
+PoemStructuralScore: poem 5 , pair: 1 and score = 0.0
+PoemStructuralScore: poem 5 , pair: 2 and score = 0.0
+EmotionalScore is: 0.6666
+The format of this poem has condens score 0.3333333333333333
+wrong size is 6
+In GetPhoneticScore: line(0) is : ?wai4 ?ch1 ?da3 ?gong1 ?lu4 ?man4 ?man4
+In GetPhoneticScore: line(1) is : ?ta4 ?po4 ?tie3 ?xie2 ?xun2 ?gong1 ?nan2 
+In GetPhoneticScore: line(2) is : ?que1 ?cai2 ?fa2 ?ji4 ?wu2 ?wen2 ?pin2 
+In GetPhoneticScore: line(3) is : ?tong2 ?xiang1 ?bang1 ?mang2 ?fang1 ?guo4 ?guan
+In GetPhoneticScore: line(4) is :  
+In GetPhoneticScore: line(5) is :  
+wrong size is 6
+In GetPhoneticScore: line(0) is : ?wai4 ?ch1 ?da3 ?gong1 ?lu4 ?man4 ?man4
+In GetPhoneticScore: line(1) is : ?ta4 ?po4 ?tie3 ?xie2 ?xun2 ?gong1 ?nan2 
+In GetPhoneticScore: line(2) is : ?que1 ?cai2 ?fa2 ?ji4 ?wu2 ?wen2 ?pin2 
+In GetPhoneticScore: line(3) is : ?tong2 ?xiang1 ?bang1 ?mang2 ?fang1 ?guo4 ?guan
+In GetPhoneticScore: line(4) is :  
+In GetPhoneticScore: line(5) is :  
+Phonetics Rhyme is 100000.0 and rhyme type is: 0.0 .
+PoemID: 6
+PoemStructuralScore: poem 6 , pair: 1 and score = 2.5
+PoemStructuralScore: poem 6 , pair: 2 and score = 3.0
+EmotionalScore is: 1.0
+The format of this poem has condens score 1.0
+Phonetics Rhyme is 0.8 and rhyme type is: 3.0 .
+PoemID: 7
+PoemStructuralScore: poem 7 , pair: 1 and score = 1.0
+PoemStructuralScore: poem 7 , pair: 2 and score = 0.0
+EmotionalScore is: 0.6666
+The format of this poem has condens score 0.875
+wrong size is 5
+In GetPhoneticScore: line(0) is : ?deng1 ?ming2 ?han2 ?zi4 ?qing1
+In GetPhoneticScore: line(1) is : ?yue4 ?yuan2 ?shui3 ?xiang4 ?hen2
+In GetPhoneticScore: line(2) is : ?jiang1 ?xin1 ?bi3 ?yi4 ?niao3 
+In GetPhoneticScore: line(3) is : ?xi1 ?xie2 ?ying3 ?er4 ?ren2
+In GetPhoneticScore: line(4) is :  
+wrong size is 5
+In GetPhoneticScore: line(0) is : ?deng1 ?ming2 ?han2 ?zi4 ?qing1
+In GetPhoneticScore: line(1) is : ?yue4 ?yuan2 ?shui3 ?xiang4 ?hen2
+In GetPhoneticScore: line(2) is : ?jiang1 ?xin1 ?bi3 ?yi4 ?niao3 
+In GetPhoneticScore: line(3) is : ?xi1 ?xie2 ?ying3 ?er4 ?ren2
+In GetPhoneticScore: line(4) is :  
+Phonetics Rhyme is 100000.0 and rhyme type is: 0.0 .
+PoemID: 8
+PoemStructuralScore: poem 8 , pair: 1 and score = 1.6
+PoemStructuralScore: poem 8 , pair: 2 and score = 0.0
+EmotionalScore is: 0.6666
+The format of this poem has condens score 0.7499999999999999
+Phonetics Rhyme is 0.75 and rhyme type is: 0.0 .
+PoemID: 9
+PoemStructuralScore: poem 9 , pair: 1 and score = 2.0
+PoemStructuralScore: poem 9 , pair: 2 and score = 0.6
+EmotionalScore is: 0.6666
+The format of this poem has condens score 0.8333333333333333
+Phonetics Rhyme is 1.0 and rhyme type is: 0.0 .
+PoemID: 10
+PoemStructuralScore: poem 10 , pair: 1 and score = 0.0
+PoemStructuralScore: poem 10 , pair: 2 and score = 0.0
+EmotionalScore is: 0.3333
+The format of this poem has condens score 0.49999999999999994
+wrong size is 6
+In GetPhoneticScore: line(0) is : ?qing3 ?zan4 ?dong1 ?jie2 ?le4
+In GetPhoneticScore: line(1) is : ?bie2 ?xian2 ?su4 ?xue3 ?han2
+In GetPhoneticScore: line(2) is : ?duo1 ?guan1 ?ji4 ?jing3 ?mei3
+In GetPhoneticScore: line(3) is : ?qie3 ?hu4 ?nuan3 ?lu2 ?an1
+In GetPhoneticScore: line(4) is :    
+In GetPhoneticScore: line(5) is :    
+wrong size is 6
+In GetPhoneticScore: line(0) is : ?qing3 ?zan4 ?dong1 ?jie2 ?le4
+In GetPhoneticScore: line(1) is : ?bie2 ?xian2 ?su4 ?xue3 ?han2
+In GetPhoneticScore: line(2) is : ?duo1 ?guan1 ?ji4 ?jing3 ?mei3
+In GetPhoneticScore: line(3) is : ?qie3 ?hu4 ?nuan3 ?lu2 ?an1
+In GetPhoneticScore: line(4) is :    
+In GetPhoneticScore: line(5) is :    
+Phonetics Rhyme is 100000.0 and rhyme type is: 0.0 .
+PoemID: 11
+PoemStructuralScore: poem 11 , pair: 1 and score = 0.0
+PoemStructuralScore: poem 11 , pair: 2 and score = 0.0
+EmotionalScore is: 0.6666
+The format of this poem has condens score 0.8333333333333333
+Phonetics Rhyme is 0.9 and rhyme type is: 1.0 .
+PoemID: 12
+PoemStructuralScore: poem 12 , pair: 1 and score = 2.0
+PoemStructuralScore: poem 12 , pair: 2 and score = 1.0
+EmotionalScore is: 0.6666
+The format of this poem has condens score 0.6666666666666666
+Phonetics Rhyme is 0.85 and rhyme type is: 1.0 .
+PoemID: 13
+PoemStructuralScore: poem 13 , pair: 1 and score = 0.0
+PoemStructuralScore: poem 13 , pair: 2 and score = 0.0
+EmotionalScore is: 0.6666
+The format of this poem has condens score 0.3333333333333333
+Phonetics Rhyme is 0.7 and rhyme type is: 0.0 .
+PoemID: 14
+PoemStructuralScore: poem 14 , pair: 1 and score = 2.0
+PoemStructuralScore: poem 14 , pair: 2 and score = 0.0
+EmotionalScore is: 0.6666
+The format of this poem has condens score 0.75
+wrong size is 5
+In GetPhoneticScore: line(0) is : ?san1 ?jing4 ?tong1 ?you1 ?shi4
+In GetPhoneticScore: line(1) is : ?wu3 ?liu3 ?yin3 ?ya3 ?shi4
+In GetPhoneticScore: line(2) is : ?qing1 ?qing1 ?xi1 ?shui3 ?liu2
+In GetPhoneticScore: line(3) is : ?you1 ?you1 ?zhao4 ?wo3 ?xin1
+In GetPhoneticScore: line(4) is : 
+wrong size is 5
+In GetPhoneticScore: line(0) is : ?san1 ?jing4 ?tong1 ?you1 ?shi4
+In GetPhoneticScore: line(1) is : ?wu3 ?liu3 ?yin3 ?ya3 ?shi4
+In GetPhoneticScore: line(2) is : ?qing1 ?qing1 ?xi1 ?shui3 ?liu2
+In GetPhoneticScore: line(3) is : ?you1 ?you1 ?zhao4 ?wo3 ?xin1
+In GetPhoneticScore: line(4) is : 
+Phonetics Rhyme is 100000.0 and rhyme type is: 0.0 .
+PoemID: 15
+PoemStructuralScore: poem 15 , pair: 1 and score = 0.0
+PoemStructuralScore: poem 15 , pair: 2 and score = 2.0
+PoemStructuralScore: poem 15 , pair: 3 and score = 0.0
+PoemStructuralScore: poem 15 , pair: 4 and score = 0.6
+EmotionalScore is: 1.0
+The format of this poem has condens score 0.7916666666666666
+Phonetics Rhyme is 0.875 and rhyme type is: 1.0 .
+PoemID: 16
+PoemStructuralScore: poem 16 , pair: 1 and score = 1.5
+PoemStructuralScore: poem 16 , pair: 2 and score = 0.0
+PoemStructuralScore: poem 16 , pair: 3 and score = 1.0
+PoemStructuralScore: poem 16 , pair: 4 and score = 1.0
+EmotionalScore is: 1.0
+The format of this poem has condens score 0.5833333333333334
+Phonetics Rhyme is 0.725 and rhyme type is: 1.0 .
+PoemID: 17
+PoemStructuralScore: poem 17 , pair: 1 and score = 0.0
+PoemStructuralScore: poem 17 , pair: 2 and score = 0.0
+EmotionalScore is: 0.6666
+The format of this poem has condens score 0.29166666666666663
+Phonetics Rhyme is 0.8 and rhyme type is: 2.0 .
+PoemID: 18
+PoemStructuralScore: poem 18 , pair: 1 and score = 0.6
+PoemStructuralScore: poem 18 , pair: 2 and score = 0.0
+EmotionalScore is: 0.6666
+The format of this poem has condens score 0.5
+Phonetics Rhyme is 0.8 and rhyme type is: 1.0 .
+PoemID: 19
+PoemStructuralScore: poem 19 , pair: 1 and score = 0.3
+PoemStructuralScore: poem 19 , pair: 2 and score = 1.0
+EmotionalScore is: 0.3333
+The format of this poem has condens score 0.625
+Phonetics Rhyme is 0.65 and rhyme type is: 1.0 .
+PoemID: 20
+PoemStructuralScore: poem 20 , pair: 1 and score = 2.0
+PoemStructuralScore: poem 20 , pair: 2 and score = 1.6
+EmotionalScore is: 0.6666
+The format of this poem has condens score 0.6666666666666666
+Phonetics Rhyme is 0.75 and rhyme type is: 2.0 .
+PoemID: 21
+PoemStructuralScore: poem 21 , pair: 1 and score = 1.0
+PoemStructuralScore: poem 21 , pair: 2 and score = 0.3
+EmotionalScore is: 0.6666
+The format of this poem has condens score 0.49999999999999994
+Phonetics Rhyme is 0.8 and rhyme type is: 3.0 .
+PoemID: 22
+PoemStructuralScore: poem 22 , pair: 1 and score = 1.0
+PoemStructuralScore: poem 22 , pair: 2 and score = 0.0
+EmotionalScore is: 1.0
+The format of this poem has condens score 0.5833333333333334
+Phonetics Rhyme is 0.9 and rhyme type is: 1.0 .
+PoemID: 23
+PoemStructuralScore: poem 23 , pair: 1 and score = 1.0
+PoemStructuralScore: poem 23 , pair: 2 and score = 0.0
+EmotionalScore is: 1.0
+The format of this poem has condens score 0.3333333333333333
+wrong size is 6
+In GetPhoneticScore: line(0) is : ?ben3 ?ren2 ?ben3 ?wu2 ?cai2,
+In GetPhoneticScore: line(1) is : ?fu4 ?mu3 ?song4 ?wo3 ?lai2.
+In GetPhoneticScore: line(2) is : ?jin1 ?ri4 ?lai2 ?kao3 ?shi4,
+In GetPhoneticScore: line(3) is : ?ji1 ?dan4 ?gun3 ?xia4 ?lai2.
+In GetPhoneticScore: line(4) is :  
+In GetPhoneticScore: line(5) is : 
+wrong size is 6
+In GetPhoneticScore: line(0) is : ?ben3 ?ren2 ?ben3 ?wu2 ?cai2,
+In GetPhoneticScore: line(1) is : ?fu4 ?mu3 ?song4 ?wo3 ?lai2.
+In GetPhoneticScore: line(2) is : ?jin1 ?ri4 ?lai2 ?kao3 ?shi4,
+In GetPhoneticScore: line(3) is : ?ji1 ?dan4 ?gun3 ?xia4 ?lai2.
+In GetPhoneticScore: line(4) is :  
+In GetPhoneticScore: line(5) is : 
+Phonetics Rhyme is 100000.0 and rhyme type is: 0.0 .
+PoemID: 24
+PoemStructuralScore: poem 24 , pair: 1 and score = 1.0
+PoemStructuralScore: poem 24 , pair: 2 and score = 0.0
+EmotionalScore is: 1.0
+The format of this poem has condens score 0.6666666666666666
+Phonetics Rhyme is 0.75 and rhyme type is: 0.0 .
+PoemID: 25
+PoemStructuralScore: poem 25 , pair: 1 and score = 0.0
+PoemStructuralScore: poem 25 , pair: 2 and score = 1.6
+PoemStructuralScore: poem 25 , pair: 3 and score = 1.0
+PoemStructuralScore: poem 25 , pair: 4 and score = 1.0
+EmotionalScore is: 1.0
+The format of this poem has condens score 0.5416666666666666
+Phonetics Rhyme is 0.75 and rhyme type is: 0.0 .
+PoemID: 26
+PoemStructuralScore: poem 26 , pair: 1 and score = 1.0
+PoemStructuralScore: poem 26 , pair: 2 and score = 0.0
+PoemStructuralScore: poem 26 , pair: 3 and score = 0.0
+EmotionalScore is: 1.0
+The format of this poem has condens score 0.25
+wrong size is 6
+In GetPhoneticScore: line(0) is : ?shen1 ?zai4 ?pu2 ?ti2 ?xia4
+In GetPhoneticScore: line(1) is : ?xin1 ?xiang4 ?sheng4 ?jiu4 ?qian2
+In GetPhoneticScore: line(2) is : ?chao1 ?tuo1 ?lun2 ?hui2 ?lu4
+In GetPhoneticScore: line(3) is : ?wo3 ?fo2 ?du4 ?you3 ?yuan2
+In GetPhoneticScore: line(4) is : ?bu2 ?wei4 ?xiu1 ?xing2 ?ku3 
+In GetPhoneticScore: line(5) is : ?zao3 ?bai4 ?ling2 ?jiu4 ?shan1.
+wrong size is 6
+In GetPhoneticScore: line(0) is : ?shen1 ?zai4 ?pu2 ?ti2 ?xia4
+In GetPhoneticScore: line(1) is : ?xin1 ?xiang4 ?sheng4 ?jiu4 ?qian2
+In GetPhoneticScore: line(2) is : ?chao1 ?tuo1 ?lun2 ?hui2 ?lu4
+In GetPhoneticScore: line(3) is : ?wo3 ?fo2 ?du4 ?you3 ?yuan2
+In GetPhoneticScore: line(4) is : ?bu2 ?wei4 ?xiu1 ?xing2 ?ku3 
+In GetPhoneticScore: line(5) is : ?zao3 ?bai4 ?ling2 ?jiu4 ?shan1.
+Phonetics Rhyme is 100000.0 and rhyme type is: 0.0 .
+END OF FILE
+----START OF FILE 5wordsJueJu.txt ---
+PoemID: 1
+PoemStructuralScore: poem 1 , pair: 1 and score = 0.6
+PoemStructuralScore: poem 1 , pair: 2 and score = 1.2
+EmotionalScore is: 0.3333
+The format of this poem has condens score 0.8
+Phonetics Rhyme is 0.5 and rhyme type is: 3.0 .
+PoemID: 2
+PoemStructuralScore: poem 2 , pair: 1 and score = 0.6
+PoemStructuralScore: poem 2 , pair: 2 and score = 2.0
+EmotionalScore is: 0.6666
+The format of this poem has condens score 0.7333333333333333
+Phonetics Rhyme is 0.75 and rhyme type is: 0.0 .
+PoemID: 3
+PoemStructuralScore: poem 3 , pair: 1 and score = 1.0
+PoemStructuralScore: poem 3 , pair: 2 and score = 0.0
+EmotionalScore is: 1.0
+The format of this poem has condens score 1.0
+Phonetics Rhyme is 0.95 and rhyme type is: 1.0 .
+PoemID: 4
+PoemStructuralScore: poem 4 , pair: 1 and score = 1.0
+PoemStructuralScore: poem 4 , pair: 2 and score = 1.0
+EmotionalScore is: 1.0
+The format of this poem has condens score 0.8333333333333333
+Phonetics Rhyme is 0.85 and rhyme type is: 0.0 .
+PoemID: 5
+PoemStructuralScore: poem 5 , pair: 1 and score = 1.3
+PoemStructuralScore: poem 5 , pair: 2 and score = 1.3
+EmotionalScore is: 1.0
+The format of this poem has condens score 0.9166666666666666
+wrong size is 5
+In GetPhoneticScore: line(0) is : ?jun1 ?zi4 ?gu4 ?xiang1 ?lai2,
+In GetPhoneticScore: line(1) is : ?ying1 ?zhi1 ?gu4 ?xiang1 ?shi4.
+In GetPhoneticScore: line(2) is : ?lai2 ?ri4 ?yi3 ?chuang1 ?qian2, 
+In GetPhoneticScore: line(3) is : ?han2 ?mei2 ?zhu4 ?hua1 ?wei4?
+In GetPhoneticScore: line(4) is : 
+wrong size is 5
+In GetPhoneticScore: line(0) is : ?jun1 ?zi4 ?gu4 ?xiang1 ?lai2,
+In GetPhoneticScore: line(1) is : ?ying1 ?zhi1 ?gu4 ?xiang1 ?shi4.
+In GetPhoneticScore: line(2) is : ?lai2 ?ri4 ?yi3 ?chuang1 ?qian2, 
+In GetPhoneticScore: line(3) is : ?han2 ?mei2 ?zhu4 ?hua1 ?wei4?
+In GetPhoneticScore: line(4) is : 
+Phonetics Rhyme is 100000.0 and rhyme type is: 0.0 .
+PoemID: 6
+PoemStructuralScore: poem 6 , pair: 1 and score = 1.0
+PoemStructuralScore: poem 6 , pair: 2 and score = 0.0
+EmotionalScore is: 1.0
+The format of this poem has condens score 0.9166666666666666
+Phonetics Rhyme is 0.5 and rhyme type is: 1.0 .
+PoemID: 7
+PoemStructuralScore: poem 7 , pair: 1 and score = 0.6
+PoemStructuralScore: poem 7 , pair: 2 and score = 1.15
+EmotionalScore is: 0.6666
+The format of this poem has condens score 0.9166666666666666
+Phonetics Rhyme is 0.85 and rhyme type is: 1.0 .
+PoemID: 8
+PoemStructuralScore: poem 8 , pair: 1 and score = 1.0
+PoemStructuralScore: poem 8 , pair: 2 and score = 1.5
+EmotionalScore is: 1.0
+The format of this poem has condens score 1.0
+Phonetics Rhyme is 0.9 and rhyme type is: 1.0 .
+PoemID: 9
+PoemStructuralScore: poem 9 , pair: 1 and score = 0.0
+PoemStructuralScore: poem 9 , pair: 2 and score = 1.0
+EmotionalScore is: 1.0
+The format of this poem has condens score 0.8333333333333333
+wrong size is 5
+In GetPhoneticScore: line(0) is : ?chun1 ?mian2 ?bu4 ?jue2 ?xiao3,
+In GetPhoneticScore: line(1) is : ?chu4 ?chu4 ?wen2 ?ti2 ?niao3.
+In GetPhoneticScore: line(2) is : ?ye4 ?lai2 ?feng1 ?yu3 ?sheng1,
+In GetPhoneticScore: line(3) is : ?hua1 ?luo4 ?zhi1 ?duo1 ?shao3?
+In GetPhoneticScore: line(4) is : 
+wrong size is 5
+In GetPhoneticScore: line(0) is : ?chun1 ?mian2 ?bu4 ?jue2 ?xiao3,
+In GetPhoneticScore: line(1) is : ?chu4 ?chu4 ?wen2 ?ti2 ?niao3.
+In GetPhoneticScore: line(2) is : ?ye4 ?lai2 ?feng1 ?yu3 ?sheng1,
+In GetPhoneticScore: line(3) is : ?hua1 ?luo4 ?zhi1 ?duo1 ?shao3?
+In GetPhoneticScore: line(4) is : 
+Phonetics Rhyme is 100000.0 and rhyme type is: 0.0 .
+PoemID: 10
+PoemStructuralScore: poem 10 , pair: 1 and score = 1.6
+PoemStructuralScore: poem 10 , pair: 2 and score = 2.0
+EmotionalScore is: 0.6666
+The format of this poem has condens score 1.0
+wrong size is 5
+In GetPhoneticScore: line(0) is : ?chuang2 ?qian2 ?ming2 ?yue4 ?guang1,
+In GetPhoneticScore: line(1) is : ?yi2 ?shi4 ?di4 ?shang4 ?shuang1.
+In GetPhoneticScore: line(2) is : ?ju3 ?tou2 ?wang4 ?ming2 ?yue4,
+In GetPhoneticScore: line(3) is : ?di1 ?tou2 ?si1 ?gu4 ?xiang1.
+In GetPhoneticScore: line(4) is : 
+wrong size is 5
+In GetPhoneticScore: line(0) is : ?chuang2 ?qian2 ?ming2 ?yue4 ?guang1,
+In GetPhoneticScore: line(1) is : ?yi2 ?shi4 ?di4 ?shang4 ?shuang1.
+In GetPhoneticScore: line(2) is : ?ju3 ?tou2 ?wang4 ?ming2 ?yue4,
+In GetPhoneticScore: line(3) is : ?di1 ?tou2 ?si1 ?gu4 ?xiang1.
+In GetPhoneticScore: line(4) is : 
+Phonetics Rhyme is 100000.0 and rhyme type is: 0.0 .
+PoemID: 11
+PoemStructuralScore: poem 11 , pair: 1 and score = 1.0
+PoemStructuralScore: poem 11 , pair: 2 and score = 1.0
+EmotionalScore is: 0.6666
+The format of this poem has condens score 0.8333333333333333
+wrong size is 5
+In GetPhoneticScore: line(0) is : ?mei3 ?ren2 ?juan3 ?zhu1 ?lian2,
+In GetPhoneticScore: line(1) is : ?shen1 ?zuo4 ?cu4 ?e2 ?mei2.
+In GetPhoneticScore: line(2) is : ?dan4 ?jian4 ?lei4 ?hen2 ?shi1,
+In GetPhoneticScore: line(3) is : ?bu4 ?zhi1 ?xin1 ?hen4 ?shui2?
+In GetPhoneticScore: line(4) is : 
+wrong size is 5
+In GetPhoneticScore: line(0) is : ?mei3 ?ren2 ?juan3 ?zhu1 ?lian2,
+In GetPhoneticScore: line(1) is : ?shen1 ?zuo4 ?cu4 ?e2 ?mei2.
+In GetPhoneticScore: line(2) is : ?dan4 ?jian4 ?lei4 ?hen2 ?shi1,
+In GetPhoneticScore: line(3) is : ?bu4 ?zhi1 ?xin1 ?hen4 ?shui2?
+In GetPhoneticScore: line(4) is : 
+Phonetics Rhyme is 100000.0 and rhyme type is: 0.0 .
+PoemID: 12
+PoemStructuralScore: poem 12 , pair: 1 and score = 1.0
+PoemStructuralScore: poem 12 , pair: 2 and score = 0.0
+EmotionalScore is: 0.6666
+The format of this poem has condens score 1.0
+wrong size is 5
+In GetPhoneticScore: line(0) is : ?gong1 ?gai3 ?san1 ?fen1 ?guo2,
+In GetPhoneticScore: line(1) is : ?ming2 ?cheng2 ?ba1 ?zhen4 ?tu2.
+In GetPhoneticScore: line(2) is : ?jiang1 ?liu2 ?shi2 ?bu4 ?zhuan3,
+In GetPhoneticScore: line(3) is : ?yi2 ?hen4 ?shi1 ?tun1 ?wu2.
+In GetPhoneticScore: line(4) is : 
+wrong size is 5
+In GetPhoneticScore: line(0) is : ?gong1 ?gai3 ?san1 ?fen1 ?guo2,
+In GetPhoneticScore: line(1) is : ?ming2 ?cheng2 ?ba1 ?zhen4 ?tu2.
+In GetPhoneticScore: line(2) is : ?jiang1 ?liu2 ?shi2 ?bu4 ?zhuan3,
+In GetPhoneticScore: line(3) is : ?yi2 ?hen4 ?shi1 ?tun1 ?wu2.
+In GetPhoneticScore: line(4) is : 
+Phonetics Rhyme is 100000.0 and rhyme type is: 0.0 .
+PoemID: 13
+PoemStructuralScore: poem 13 , pair: 1 and score = 3.0
+PoemStructuralScore: poem 13 , pair: 2 and score = 2.0
+EmotionalScore is: 0.6666
+The format of this poem has condens score 0.7916666666666666
+wrong size is 5
+In GetPhoneticScore: line(0) is : ?bai2 ?ri4 ?yi1 ?shan1 ?jin4,
+In GetPhoneticScore: line(1) is : ?huang2 ?he2 ?ru4 ?hai3 ?liu2.
+In GetPhoneticScore: line(2) is : ?yu4 ?qiong2 ?qian1 ?li3 ?mu4,
+In GetPhoneticScore: line(3) is : ?geng4 ?shang4 ?yi4 ?ceng2 ?lou2.
+In GetPhoneticScore: line(4) is : 
+wrong size is 5
+In GetPhoneticScore: line(0) is : ?bai2 ?ri4 ?yi1 ?shan1 ?jin4,
+In GetPhoneticScore: line(1) is : ?huang2 ?he2 ?ru4 ?hai3 ?liu2.
+In GetPhoneticScore: line(2) is : ?yu4 ?qiong2 ?qian1 ?li3 ?mu4,
+In GetPhoneticScore: line(3) is : ?geng4 ?shang4 ?yi4 ?ceng2 ?lou2.
+In GetPhoneticScore: line(4) is : 
+Phonetics Rhyme is 100000.0 and rhyme type is: 0.0 .
+PoemID: 14
+PoemStructuralScore: poem 14 , pair: 1 and score = 0.0
+PoemStructuralScore: poem 14 , pair: 2 and score = 0.0
+EmotionalScore is: 0.6666
+The format of this poem has condens score 0.9166666666666666
+wrong size is 5
+In GetPhoneticScore: line(0) is : ?cang1 ?cang1 ?zu2 ?lin2 ?si4,
+In GetPhoneticScore: line(1) is : ?zha2 ?zha2 ?zhong1 ?sheng1 ?wan3.
+In GetPhoneticScore: line(2) is : ?he2 ?li4 ?dai4 ?xie2 ?yang2,
+In GetPhoneticScore: line(3) is : ?qing1 ?shan1 ?du2 ?gui1 ?yuan3.
+In GetPhoneticScore: line(4) is : 
+wrong size is 5
+In GetPhoneticScore: line(0) is : ?cang1 ?cang1 ?zu2 ?lin2 ?si4,
+In GetPhoneticScore: line(1) is : ?zha2 ?zha2 ?zhong1 ?sheng1 ?wan3.
+In GetPhoneticScore: line(2) is : ?he2 ?li4 ?dai4 ?xie2 ?yang2,
+In GetPhoneticScore: line(3) is : ?qing1 ?shan1 ?du2 ?gui1 ?yuan3.
+In GetPhoneticScore: line(4) is : 
+Phonetics Rhyme is 100000.0 and rhyme type is: 0.0 .
+PoemID: 15
+PoemStructuralScore: poem 15 , pair: 1 and score = 0.0
+PoemStructuralScore: poem 15 , pair: 2 and score = 0.0
+EmotionalScore is: 0.6666
+The format of this poem has condens score 0.6666666666666666
+Phonetics Rhyme is 0.7 and rhyme type is: 1.0 .
+PoemID: 16
+PoemStructuralScore: poem 16 , pair: 1 and score = 0.0
+PoemStructuralScore: poem 16 , pair: 2 and score = 0.0
+EmotionalScore is: 0.6666
+The format of this poem has condens score 0.8333333333333333
+wrong size is 5
+In GetPhoneticScore: line(0) is : ?gu1 ?yun2 ?jiang1 ?ye3 ?he4,
+In GetPhoneticScore: line(1) is : ?qi3 ?xiang4 ?ren2 ?jian1 ?zhu4!
+In GetPhoneticScore: line(2) is : ?mo4 ?mai3 ?wo4 ?zhou1 ?shan1,
+In GetPhoneticScore: line(3) is : ?shi2 ?ren2 ?yi3 ?zhi1 ?chu4.
+In GetPhoneticScore: line(4) is : 
+wrong size is 5
+In GetPhoneticScore: line(0) is : ?gu1 ?yun2 ?jiang1 ?ye3 ?he4,
+In GetPhoneticScore: line(1) is : ?qi3 ?xiang4 ?ren2 ?jian1 ?zhu4!
+In GetPhoneticScore: line(2) is : ?mo4 ?mai3 ?wo4 ?zhou1 ?shan1,
+In GetPhoneticScore: line(3) is : ?shi2 ?ren2 ?yi3 ?zhi1 ?chu4.
+In GetPhoneticScore: line(4) is : 
+Phonetics Rhyme is 100000.0 and rhyme type is: 0.0 .
+PoemID: 17
+PoemStructuralScore: poem 17 , pair: 1 and score = 0.3
+PoemStructuralScore: poem 17 , pair: 2 and score = 0.0
+EmotionalScore is: 1.0
+The format of this poem has condens score 0.8333333333333333
+Phonetics Rhyme is 0.75 and rhyme type is: 1.0 .
+PoemID: 18
+PoemStructuralScore: poem 18 , pair: 1 and score = 1.0
+PoemStructuralScore: poem 18 , pair: 2 and score = 0.0
+EmotionalScore is: 0.6666
+The format of this poem has condens score 0.9166666666666666
+Phonetics Rhyme is 0.9 and rhyme type is: 1.0 .
+PoemID: 19
+PoemStructuralScore: poem 19 , pair: 1 and score = 1.0
+PoemStructuralScore: poem 19 , pair: 2 and score = 2.0
+EmotionalScore is: 1.0
+The format of this poem has condens score 1.0
+Phonetics Rhyme is 0.75 and rhyme type is: 1.0 .
+PoemID: 20
+PoemStructuralScore: poem 20 , pair: 1 and score = 3.0
+PoemStructuralScore: poem 20 , pair: 2 and score = 1.0
+EmotionalScore is: 1.0
+The format of this poem has condens score 0.8333333333333333
+wrong size is 5
+In GetPhoneticScore: line(0) is : ?zuo2 ?ye4 ?qun2 ?dai4 ?jie3,
+In GetPhoneticScore: line(1) is : ?jin1 ?zhao1 ?xi3 ?zi3 ?fei1.
+In GetPhoneticScore: line(2) is : ?qian1 ?hua2 ?bu4 ?ke3 ?qi4,
+In GetPhoneticScore: line(3) is : ?mo4 ?shi4 ?gao3 ?zhen1 ?gui1.
+In GetPhoneticScore: line(4) is : 
+wrong size is 5
+In GetPhoneticScore: line(0) is : ?zuo2 ?ye4 ?qun2 ?dai4 ?jie3,
+In GetPhoneticScore: line(1) is : ?jin1 ?zhao1 ?xi3 ?zi3 ?fei1.
+In GetPhoneticScore: line(2) is : ?qian1 ?hua2 ?bu4 ?ke3 ?qi4,
+In GetPhoneticScore: line(3) is : ?mo4 ?shi4 ?gao3 ?zhen1 ?gui1.
+In GetPhoneticScore: line(4) is : 
+Phonetics Rhyme is 100000.0 and rhyme type is: 0.0 .
+PoemID: 21
+PoemStructuralScore: poem 21 , pair: 1 and score = 2.0
+PoemStructuralScore: poem 21 , pair: 2 and score = 0.15
+EmotionalScore is: 0.6666
+The format of this poem has condens score 1.0
+Phonetics Rhyme is 0.8 and rhyme type is: 3.0 .
+PoemID: 22
+PoemStructuralScore: poem 22 , pair: 1 and score = 0.20000000596046447
+PoemStructuralScore: poem 22 , pair: 2 and score = 0.0
+EmotionalScore is: 0.6666
+The format of this poem has condens score 1.0
+Phonetics Rhyme is 0.85 and rhyme type is: 0.0 .
+PoemID: 23
+PoemStructuralScore: poem 23 , pair: 1 and score = 2.0
+PoemStructuralScore: poem 23 , pair: 2 and score = 0.0
+EmotionalScore is: 1.0
+The format of this poem has condens score 0.8333333333333333
+Phonetics Rhyme is 0.95 and rhyme type is: 0.0 .
+PoemID: 24
+PoemStructuralScore: poem 24 , pair: 1 and score = 2.0
+PoemStructuralScore: poem 24 , pair: 2 and score = 0.0
+EmotionalScore is: 1.0
+The format of this poem has condens score 0.8333333333333333
+Phonetics Rhyme is 0.9 and rhyme type is: 0.0 .
+PoemID: 25
+PoemStructuralScore: poem 25 , pair: 1 and score = 0.0
+PoemStructuralScore: poem 25 , pair: 2 and score = 0.3
+EmotionalScore is: 0.6666
+The format of this poem has condens score 0.8333333333333333
+Phonetics Rhyme is 0.85 and rhyme type is: 0.0 .
+PoemID: 26
+PoemStructuralScore: poem 26 , pair: 1 and score = 0.3
+PoemStructuralScore: poem 26 , pair: 2 and score = 0.3
+EmotionalScore is: 1.0
+The format of this poem has condens score 1.0
+wrong size is 5
+In GetPhoneticScore: line(0) is : ?song1 ?xia4 ?wen4 ?tong2 ?zi3,
+In GetPhoneticScore: line(1) is : ?yan2 ?shi1 ?cai3 ?yao4 ?qu4.
+In GetPhoneticScore: line(2) is : ?zhi3 ?zai4 ?ci3 ?shan1 ?zhong1,
+In GetPhoneticScore: line(3) is : ?yun2 ?shen1 ?bu4 ?zhi1 ?chu4.
+In GetPhoneticScore: line(4) is : 
+wrong size is 5
+In GetPhoneticScore: line(0) is : ?song1 ?xia4 ?wen4 ?tong2 ?zi3,
+In GetPhoneticScore: line(1) is : ?yan2 ?shi1 ?cai3 ?yao4 ?qu4.
+In GetPhoneticScore: line(2) is : ?zhi3 ?zai4 ?ci3 ?shan1 ?zhong1,
+In GetPhoneticScore: line(3) is : ?yun2 ?shen1 ?bu4 ?zhi1 ?chu4.
+In GetPhoneticScore: line(4) is : 
+Phonetics Rhyme is 100000.0 and rhyme type is: 0.0 .
+PoemID: 27
+PoemStructuralScore: poem 27 , pair: 1 and score = 0.0
+PoemStructuralScore: poem 27 , pair: 2 and score = 0.0
+EmotionalScore is: 1.0
+The format of this poem has condens score 0.9166666666666666
+wrong size is 5
+In GetPhoneticScore: line(0) is : ?ling3 ?wai4 ?yin1 ?shu1 ?jue2,
+In GetPhoneticScore: line(1) is : ?jing1 ?dong1 ?fu4 ?li4 ?chun1.
+In GetPhoneticScore: line(2) is : ?jin4 ?xiang1 ?qing2 ?geng4 ?que4
+In GetPhoneticScore: line(3) is : ?bu4 ?gan3 ?wen4 ?lai2 ?ren2.
+In GetPhoneticScore: line(4) is : 
+wrong size is 5
+In GetPhoneticScore: line(0) is : ?ling3 ?wai4 ?yin1 ?shu1 ?jue2,
+In GetPhoneticScore: line(1) is : ?jing1 ?dong1 ?fu4 ?li4 ?chun1.
+In GetPhoneticScore: line(2) is : ?jin4 ?xiang1 ?qing2 ?geng4 ?que4
+In GetPhoneticScore: line(3) is : ?bu4 ?gan3 ?wen4 ?lai2 ?ren2.
+In GetPhoneticScore: line(4) is : 
+Phonetics Rhyme is 100000.0 and rhyme type is: 0.0 .
+PoemID: 28
+PoemStructuralScore: poem 28 , pair: 1 and score = 1.0
+PoemStructuralScore: poem 28 , pair: 2 and score = 1.0
+EmotionalScore is: 0.6666
+The format of this poem has condens score 0.9166666666666666
+wrong size is 5
+In GetPhoneticScore: line(0) is : ?da3 ?qi3 ?huang2 ?yin1 ?er5,
+In GetPhoneticScore: line(1) is : ?mo4 ?jiao1/jiao4 ?zhi1 ?shang4 ?ti2.
+In GetPhoneticScore: line(2) is : ?ti2 ?shi2 ?jing1 ?qie4 ?meng4,
+In GetPhoneticScore: line(3) is : ?bu4 ?de2 ?dao4 ?liao2 ?xi1.
+In GetPhoneticScore: line(4) is : 
+wrong size is 5
+In GetPhoneticScore: line(0) is : ?da3 ?qi3 ?huang2 ?yin1 ?er5,
+In GetPhoneticScore: line(1) is : ?mo4 ?jiao1/jiao4 ?zhi1 ?shang4 ?ti2.
+In GetPhoneticScore: line(2) is : ?ti2 ?shi2 ?jing1 ?qie4 ?meng4,
+In GetPhoneticScore: line(3) is : ?bu4 ?de2 ?dao4 ?liao2 ?xi1.
+In GetPhoneticScore: line(4) is : 
+Phonetics Rhyme is 100000.0 and rhyme type is: 0.0 .
+PoemID: 29
+PoemStructuralScore: poem 29 , pair: 1 and score = 0.0
+PoemStructuralScore: poem 29 , pair: 2 and score = 1.0
+EmotionalScore is: 1.0
+The format of this poem has condens score 0.8333333333333333
+wrong size is 5
+In GetPhoneticScore: line(0) is : ?bei3 ?dou3 ?qi1 ?xing1 ?gao1,
+In GetPhoneticScore: line(1) is : ?ge1 ?shu1 ?ye4 ?dai4 ?dao1.
+In GetPhoneticScore: line(2) is : ?zhi4 ?jin1 ?kui1 ?mu4 ?ma3.
+In GetPhoneticScore: line(3) is : ?bu4 ?gan3 ?guo4 ?lin2 ?tao1?
+In GetPhoneticScore: line(4) is : ?
+wrong size is 5
+In GetPhoneticScore: line(0) is : ?bei3 ?dou3 ?qi1 ?xing1 ?gao1,
+In GetPhoneticScore: line(1) is : ?ge1 ?shu1 ?ye4 ?dai4 ?dao1.
+In GetPhoneticScore: line(2) is : ?zhi4 ?jin1 ?kui1 ?mu4 ?ma3.
+In GetPhoneticScore: line(3) is : ?bu4 ?gan3 ?guo4 ?lin2 ?tao1?
+In GetPhoneticScore: line(4) is : ?
+Phonetics Rhyme is 100000.0 and rhyme type is: 0.0 .
+PoemID: 30
+PoemStructuralScore: poem 30 , pair: 1 and score = 1.15
+PoemStructuralScore: poem 30 , pair: 2 and score = 0.0
+EmotionalScore is: 0.6666
+The format of this poem has condens score 0.8333333333333333
+Phonetics Rhyme is 0.7 and rhyme type is: 1.0 .
+END OF FILE
+----START OF FILE 5wordsLvShi.txt ---
+PoemID: 1
+PoemStructuralScore: poem 1 , pair: 1 and score = 0.0
+PoemStructuralScore: poem 1 , pair: 2 and score = 1.0
+PoemStructuralScore: poem 1 , pair: 3 and score = 2.0
+PoemStructuralScore: poem 1 , pair: 4 and score = 0.3
+EmotionalScore is: 1.0
+The format of this poem has condens score 0.8333333333333333
+Phonetics Rhyme is 0.875 and rhyme type is: 0.0 .
+PoemID: 2
+PoemStructuralScore: poem 2 , pair: 1 and score = 0.0
+PoemStructuralScore: poem 2 , pair: 2 and score = 0.0
+PoemStructuralScore: poem 2 , pair: 3 and score = 2.0
+PoemStructuralScore: poem 2 , pair: 4 and score = 0.6
+EmotionalScore is: 1.0
+The format of this poem has condens score 0.875
+wrong size is 9
+In GetPhoneticScore: line(0) is : ?hai3 ?shang4 ?sheng1 ?ming2 ?yue4,
+In GetPhoneticScore: line(1) is : ?tian1 ?ya2 ?gong4 ?ci3 ?shi2.
+In GetPhoneticScore: line(2) is : ?qing2 ?ren2 ?yuan4 ?yao2 ?ye4,
+In GetPhoneticScore: line(3) is : ?jing4 ?xi1 ?qi3 ?xiang1 ?si1!
+In GetPhoneticScore: line(4) is : ?mie4 ?zhu2 ?lian2 ?guang1 ?man3,
+In GetPhoneticScore: line(5) is : ?pi1 ?yi1 ?jue2 ?lu4 ?zi1.
+In GetPhoneticScore: line(6) is : ?bu4 ?kan1 ?yin2 ?shou3 ?zeng4,
+In GetPhoneticScore: line(7) is : ?huan2 ?qin3 ?meng4 ?jia1 ?qi1.
+In GetPhoneticScore: line(8) is : 
+wrong size is 9
+In GetPhoneticScore: line(0) is : ?hai3 ?shang4 ?sheng1 ?ming2 ?yue4,
+In GetPhoneticScore: line(1) is : ?tian1 ?ya2 ?gong4 ?ci3 ?shi2.
+In GetPhoneticScore: line(2) is : ?qing2 ?ren2 ?yuan4 ?yao2 ?ye4,
+In GetPhoneticScore: line(3) is : ?jing4 ?xi1 ?qi3 ?xiang1 ?si1!
+In GetPhoneticScore: line(4) is : ?mie4 ?zhu2 ?lian2 ?guang1 ?man3,
+In GetPhoneticScore: line(5) is : ?pi1 ?yi1 ?jue2 ?lu4 ?zi1.
+In GetPhoneticScore: line(6) is : ?bu4 ?kan1 ?yin2 ?shou3 ?zeng4,
+In GetPhoneticScore: line(7) is : ?huan2 ?qin3 ?meng4 ?jia1 ?qi1.
+In GetPhoneticScore: line(8) is : 
+Phonetics Rhyme is 100000.0 and rhyme type is: 0.0 .
+PoemID: 3
+PoemStructuralScore: poem 3 , pair: 1 and score = 3.0
+PoemStructuralScore: poem 3 , pair: 2 and score = 1.3
+PoemStructuralScore: poem 3 , pair: 3 and score = 2.0
+PoemStructuralScore: poem 3 , pair: 4 and score = 0.0
+EmotionalScore is: 1.0
+The format of this poem has condens score 0.75
+Phonetics Rhyme is 0.875 and rhyme type is: 0.0 .
+PoemID: 4
+PoemStructuralScore: poem 4 , pair: 1 and score = 0.0
+PoemStructuralScore: poem 4 , pair: 2 and score = 1.0
+PoemStructuralScore: poem 4 , pair: 3 and score = 1.0
+PoemStructuralScore: poem 4 , pair: 4 and score = 3.0
+EmotionalScore is: 1.0
+The format of this poem has condens score 0.9166666666666666
+Phonetics Rhyme is 0.85 and rhyme type is: 0.0 .
+PoemID: 5
+PoemStructuralScore: poem 5 , pair: 1 and score = 0.0
+PoemStructuralScore: poem 5 , pair: 2 and score = 2.5
+PoemStructuralScore: poem 5 , pair: 3 and score = 2.0
+PoemStructuralScore: poem 5 , pair: 4 and score = 0.6
+EmotionalScore is: 0.0
+The format of this poem has condens score 0.8958333333333334
+Phonetics Rhyme is 0.925 and rhyme type is: 0.0 .
+PoemID: 6
+PoemStructuralScore: poem 6 , pair: 1 and score = 0.3
+PoemStructuralScore: poem 6 , pair: 2 and score = 1.0
+PoemStructuralScore: poem 6 , pair: 3 and score = 2.0
+PoemStructuralScore: poem 6 , pair: 4 and score = 1.0
+EmotionalScore is: 1.0
+The format of this poem has condens score 0.8333333333333334
+Phonetics Rhyme is 0.925 and rhyme type is: 0.0 .
+PoemID: 7
+PoemStructuralScore: poem 7 , pair: 1 and score = 0.0
+PoemStructuralScore: poem 7 , pair: 2 and score = 0.0
+PoemStructuralScore: poem 7 , pair: 3 and score = 3.0
+PoemStructuralScore: poem 7 , pair: 4 and score = 0.3
+EmotionalScore is: 0.6666
+The format of this poem has condens score 0.9166666666666666
+Phonetics Rhyme is 0.95 and rhyme type is: 0.0 .
+PoemID: 8
+PoemStructuralScore: poem 8 , pair: 1 and score = 2.5
+PoemStructuralScore: poem 8 , pair: 2 and score = 1.0
+PoemStructuralScore: poem 8 , pair: 3 and score = 2.0
+PoemStructuralScore: poem 8 , pair: 4 and score = 2.0
+EmotionalScore is: 1.0
+The format of this poem has condens score 0.9166666666666666
+Phonetics Rhyme is 0.925 and rhyme type is: 0.0 .
+PoemID: 9
+PoemStructuralScore: poem 9 , pair: 1 and score = 1.0
+PoemStructuralScore: poem 9 , pair: 2 and score = 1.6
+PoemStructuralScore: poem 9 , pair: 3 and score = 2.0
+PoemStructuralScore: poem 9 , pair: 4 and score = 0.15
+EmotionalScore is: 1.0
+The format of this poem has condens score 0.9583333333333333
+Phonetics Rhyme is 0.825 and rhyme type is: 1.0 .
+PoemID: 10
+PoemStructuralScore: poem 10 , pair: 1 and score = 3.0
+PoemStructuralScore: poem 10 , pair: 2 and score = 2.0
+PoemStructuralScore: poem 10 , pair: 3 and score = 2.5
+PoemStructuralScore: poem 10 , pair: 4 and score = 1.6
+EmotionalScore is: 0.6666
+The format of this poem has condens score 0.9166666666666667
+Phonetics Rhyme is 0.975 and rhyme type is: 0.0 .
+PoemID: 11
+PoemStructuralScore: poem 11 , pair: 1 and score = 0.0
+PoemStructuralScore: poem 11 , pair: 2 and score = 2.0
+PoemStructuralScore: poem 11 , pair: 3 and score = 1.0
+PoemStructuralScore: poem 11 , pair: 4 and score = 0.0
+EmotionalScore is: 0.6666
+The format of this poem has condens score 0.7916666666666667
+Phonetics Rhyme is 0.9 and rhyme type is: 0.0 .
+PoemID: 12
+PoemStructuralScore: poem 12 , pair: 1 and score = 2.0
+PoemStructuralScore: poem 12 , pair: 2 and score = 3.0
+PoemStructuralScore: poem 12 , pair: 3 and score = 3.0
+PoemStructuralScore: poem 12 , pair: 4 and score = 1.6
+EmotionalScore is: 0.6666
+The format of this poem has condens score 1.0
+Phonetics Rhyme is 0.9 and rhyme type is: 0.0 .
+PoemID: 13
+PoemStructuralScore: poem 13 , pair: 1 and score = 3.0
+PoemStructuralScore: poem 13 , pair: 2 and score = 0.3
+PoemStructuralScore: poem 13 , pair: 3 and score = 2.0
+PoemStructuralScore: poem 13 , pair: 4 and score = 0.3
+EmotionalScore is: 0.6666
+The format of this poem has condens score 0.9166666666666667
+Phonetics Rhyme is 0.9 and rhyme type is: 1.0 .
+PoemID: 14
+PoemStructuralScore: poem 14 , pair: 1 and score = 0.3
+PoemStructuralScore: poem 14 , pair: 2 and score = 1.3
+PoemStructuralScore: poem 14 , pair: 3 and score = 1.0
+PoemStructuralScore: poem 14 , pair: 4 and score = 0.3
+EmotionalScore is: 1.0
+The format of this poem has condens score 1.0
+Phonetics Rhyme is 0.85 and rhyme type is: 1.0 .
+PoemID: 15
+PoemStructuralScore: poem 15 , pair: 1 and score = 0.0
+PoemStructuralScore: poem 15 , pair: 2 and score = 0.6
+PoemStructuralScore: poem 15 , pair: 3 and score = 1.0
+PoemStructuralScore: poem 15 , pair: 4 and score = 1.0
+EmotionalScore is: 0.6666
+The format of this poem has condens score 0.9166666666666667
+Phonetics Rhyme is 0.85 and rhyme type is: 0.0 .
+PoemID: 16
+PoemStructuralScore: poem 16 , pair: 1 and score = 2.0
+PoemStructuralScore: poem 16 , pair: 2 and score = 2.5
+PoemStructuralScore: poem 16 , pair: 3 and score = 0.0
+PoemStructuralScore: poem 16 , pair: 4 and score = 1.3
+EmotionalScore is: 1.0
+The format of this poem has condens score 0.8333333333333335
+Phonetics Rhyme is 0.95 and rhyme type is: 0.0 .
+PoemID: 17
+PoemStructuralScore: poem 17 , pair: 1 and score = 0.6
+PoemStructuralScore: poem 17 , pair: 2 and score = 1.0
+PoemStructuralScore: poem 17 , pair: 3 and score = 2.0
+PoemStructuralScore: poem 17 , pair: 4 and score = 0.6
+EmotionalScore is: 0.6666
+The format of this poem has condens score 0.9166666666666666
+Phonetics Rhyme is 0.825 and rhyme type is: 0.0 .
+PoemID: 18
+PoemStructuralScore: poem 18 , pair: 1 and score = 0.15
+PoemStructuralScore: poem 18 , pair: 2 and score = 2.0
+PoemStructuralScore: poem 18 , pair: 3 and score = 1.0
+PoemStructuralScore: poem 18 , pair: 4 and score = 1.0
+EmotionalScore is: 1.0
+The format of this poem has condens score 0.8333333333333334
+Phonetics Rhyme is 0.875 and rhyme type is: 0.0 .
+PoemID: 19
+PoemStructuralScore: poem 19 , pair: 1 and score = 0.0
+PoemStructuralScore: poem 19 , pair: 2 and score = 1.0
+PoemStructuralScore: poem 19 , pair: 3 and score = 2.0
+PoemStructuralScore: poem 19 , pair: 4 and score = 0.6
+EmotionalScore is: 0.6666
+The format of this poem has condens score 0.875
+wrong size is 9
+In GetPhoneticScore: line(0) is : ?liang2 ?feng1 ?qi3 ?tian1 ?mo4,
+In GetPhoneticScore: line(1) is : ?jun1 ?zi3 ?yi4 ?ru2 ?he2?
+In GetPhoneticScore: line(2) is : ?hong2 ?yan4 ?ji3 ?shi2 ?dao4,
+In GetPhoneticScore: line(3) is : ?jiang1 ?hu2 ?qiu1 ?shui3 ?duo1.
+In GetPhoneticScore: line(4) is : ?wen2 ?zhang1 ?zeng1 ?ming4 ?da2,
+In GetPhoneticScore: line(5) is : ?chi1 ?mei4 ?xi3 ?ren2 ?guo4.
+In GetPhoneticScore: line(6) is : ?ying4 ?gong4 ?yuan1 ?hun2 ?yu3,
+In GetPhoneticScore: line(7) is : ?tou2 ?shi1 ?zeng4 ?lei4 ?luo2.	
+In GetPhoneticScore: line(8) is : 
+wrong size is 9
+In GetPhoneticScore: line(0) is : ?liang2 ?feng1 ?qi3 ?tian1 ?mo4,
+In GetPhoneticScore: line(1) is : ?jun1 ?zi3 ?yi4 ?ru2 ?he2?
+In GetPhoneticScore: line(2) is : ?hong2 ?yan4 ?ji3 ?shi2 ?dao4,
+In GetPhoneticScore: line(3) is : ?jiang1 ?hu2 ?qiu1 ?shui3 ?duo1.
+In GetPhoneticScore: line(4) is : ?wen2 ?zhang1 ?zeng1 ?ming4 ?da2,
+In GetPhoneticScore: line(5) is : ?chi1 ?mei4 ?xi3 ?ren2 ?guo4.
+In GetPhoneticScore: line(6) is : ?ying4 ?gong4 ?yuan1 ?hun2 ?yu3,
+In GetPhoneticScore: line(7) is : ?tou2 ?shi1 ?zeng4 ?lei4 ?luo2.	
+In GetPhoneticScore: line(8) is : 
+Phonetics Rhyme is 100000.0 and rhyme type is: 0.0 .
+PoemID: 20
+PoemStructuralScore: poem 20 , pair: 1 and score = 0.3
+PoemStructuralScore: poem 20 , pair: 2 and score = 2.0
+PoemStructuralScore: poem 20 , pair: 3 and score = 1.5
+PoemStructuralScore: poem 20 , pair: 4 and score = 0.20000000596046447
+EmotionalScore is: 0.0
+The format of this poem has condens score 1.0
+Phonetics Rhyme is 0.85 and rhyme type is: 0.0 .
+PoemID: 21
+PoemStructuralScore: poem 21 , pair: 1 and score = 1.15
+PoemStructuralScore: poem 21 , pair: 2 and score = 0.0
+PoemStructuralScore: poem 21 , pair: 3 and score = 3.0
+PoemStructuralScore: poem 21 , pair: 4 and score = 0.20000000596046447
+EmotionalScore is: 1.0
+The format of this poem has condens score 0.9166666666666666
+Phonetics Rhyme is 0.9 and rhyme type is: 1.0 .
+PoemID: 22
+PoemStructuralScore: poem 22 , pair: 1 and score = 0.0
+PoemStructuralScore: poem 22 , pair: 2 and score = 3.0
+PoemStructuralScore: poem 22 , pair: 3 and score = 3.0
+PoemStructuralScore: poem 22 , pair: 4 and score = 1.3
+EmotionalScore is: 0.3333
+The format of this poem has condens score 1.0
+Phonetics Rhyme is 0.95 and rhyme type is: 0.0 .
+PoemID: 23
+PoemStructuralScore: poem 23 , pair: 1 and score = 1.5
+PoemStructuralScore: poem 23 , pair: 2 and score = 1.0
+PoemStructuralScore: poem 23 , pair: 3 and score = 2.0
+PoemStructuralScore: poem 23 , pair: 4 and score = 1.0
+EmotionalScore is: 0.6666
+The format of this poem has condens score 0.9166666666666667
+Phonetics Rhyme is 0.9 and rhyme type is: 1.0 .
+PoemID: 24
+PoemStructuralScore: poem 24 , pair: 1 and score = 1.0
+PoemStructuralScore: poem 24 , pair: 2 and score = 3.0
+PoemStructuralScore: poem 24 , pair: 3 and score = 0.6
+PoemStructuralScore: poem 24 , pair: 4 and score = 1.0
+EmotionalScore is: 0.6666
+The format of this poem has condens score 0.9583333333333333
+Phonetics Rhyme is 0.95 and rhyme type is: 1.0 .
+PoemID: 25
+PoemStructuralScore: poem 25 , pair: 1 and score = 3.0
+PoemStructuralScore: poem 25 , pair: 2 and score = 0.0
+PoemStructuralScore: poem 25 , pair: 3 and score = 3.0
+PoemStructuralScore: poem 25 , pair: 4 and score = 0.0
+EmotionalScore is: 1.0
+The format of this poem has condens score 0.9375
+Phonetics Rhyme is 0.875 and rhyme type is: 1.0 .
+PoemID: 26
+PoemStructuralScore: poem 26 , pair: 1 and score = 3.0
+PoemStructuralScore: poem 26 , pair: 2 and score = 2.0
+PoemStructuralScore: poem 26 , pair: 3 and score = 3.0
+PoemStructuralScore: poem 26 , pair: 4 and score = 0.6
+EmotionalScore is: 0.6666
+The format of this poem has condens score 0.9166666666666666
+Phonetics Rhyme is 0.925 and rhyme type is: 3.0 .
+PoemID: 27
+PoemStructuralScore: poem 27 , pair: 1 and score = 0.0
+PoemStructuralScore: poem 27 , pair: 2 and score = 0.0
+PoemStructuralScore: poem 27 , pair: 3 and score = 3.0
+PoemStructuralScore: poem 27 , pair: 4 and score = 0.0
+EmotionalScore is: 1.0
+The format of this poem has condens score 0.875
+Phonetics Rhyme is 1.0 and rhyme type is: 1.0 .
+PoemID: 28
+PoemStructuralScore: poem 28 , pair: 1 and score = 1.3333333432674408
+PoemStructuralScore: poem 28 , pair: 2 and score = 2.5
+PoemStructuralScore: poem 28 , pair: 3 and score = 1.5
+PoemStructuralScore: poem 28 , pair: 4 and score = 1.3
+EmotionalScore is: 1.0
+The format of this poem has condens score 0.9583333333333334
+Phonetics Rhyme is 0.9 and rhyme type is: 0.0 .
+PoemID: 29
+PoemStructuralScore: poem 29 , pair: 1 and score = 3.0
+PoemStructuralScore: poem 29 , pair: 2 and score = 0.15
+PoemStructuralScore: poem 29 , pair: 3 and score = 3.0
+PoemStructuralScore: poem 29 , pair: 4 and score = 0.0
+EmotionalScore is: 0.6666
+The format of this poem has condens score 0.9375
+Phonetics Rhyme is 0.925 and rhyme type is: 0.0 .
+PoemID: 30
+PoemStructuralScore: poem 30 , pair: 1 and score = 0.6
+PoemStructuralScore: poem 30 , pair: 2 and score = 2.0
+PoemStructuralScore: poem 30 , pair: 3 and score = 1.0
+PoemStructuralScore: poem 30 , pair: 4 and score = 1.5
+EmotionalScore is: 1.0
+The format of this poem has condens score 0.9583333333333334
+Phonetics Rhyme is 0.875 and rhyme type is: 0.0 .
+PoemID: 31
+PoemStructuralScore: poem 31 , pair: 1 and score = 3.0
+PoemStructuralScore: poem 31 , pair: 2 and score = 1.0
+PoemStructuralScore: poem 31 , pair: 3 and score = 1.5
+PoemStructuralScore: poem 31 , pair: 4 and score = 0.0
+EmotionalScore is: 1.0
+The format of this poem has condens score 1.0
+Phonetics Rhyme is 0.875 and rhyme type is: 0.0 .
+PoemID: 32
+PoemStructuralScore: poem 32 , pair: 1 and score = 1.0
+PoemStructuralScore: poem 32 , pair: 2 and score = 2.0
+PoemStructuralScore: poem 32 , pair: 3 and score = 1.0
+PoemStructuralScore: poem 32 , pair: 4 and score = 1.0
+EmotionalScore is: 0.6666
+The format of this poem has condens score 1.0
+Phonetics Rhyme is 0.85 and rhyme type is: 1.0 .
+PoemID: 33
+PoemStructuralScore: poem 33 , pair: 1 and score = 0.0
+PoemStructuralScore: poem 33 , pair: 2 and score = 3.0
+PoemStructuralScore: poem 33 , pair: 3 and score = 1.0
+PoemStructuralScore: poem 33 , pair: 4 and score = 0.3
+EmotionalScore is: 0.6666
+The format of this poem has condens score 1.0
+Phonetics Rhyme is 0.875 and rhyme type is: 1.0 .
+END OF FILE

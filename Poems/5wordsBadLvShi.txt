@@ -14,7 +14,7 @@ EMOTIONS:
 清幽,隐秘,幽静,清丽,活泼
 CATEGORY:scenery
 COMPARISON:
-front garden vs end garden
+front garden vs  garden
 BODY:
 随sui2 意yi4 行xing2 花hua1 间jian1, 
 巧qiao3 然ran2 遇yu4 景jing3 园yuan2.
@@ -38,7 +38,7 @@ FORMAT:
 ==(action)|==(time)|=(color)(+)
 ==(scene)|=|==(action)
 =(number)=(action)|=(action)|==(scene)
-EMOTION:洒脱,清幽,清爽
+EMOTIONS:洒脱,清幽,清爽
 CATEGORY:scenery,life
 COMPARISON:
 dream vs reality
@@ -66,7 +66,7 @@ FORMAT:
 ==(scene)|===(-)
 =(action)=(time)|=(action)|==(-)
 =(action)=(direction)|=|==(scene)
-EMOTION:
+EMOTIONS:
 清淡,苦涩,朴素,凄凉
 CATEGORY:life,scenery
 COMPARISON:
@@ -97,7 +97,7 @@ FORMAT:
 ==(scene)|=(action)|=(color)=(thing)(-)
 ==|==|=(thing)(+)
 ==|=(thing)=(number)=
-EMOTION:隐秘,神秘
+EMOTIONS:隐秘,神秘
 CATEGORY:life,recount
 COMPARISON:
 white hair vs red face
@@ -115,6 +115,7 @@ BODY:
 
 ID: 05
 TITLE:生sheng1 日ri4 游you2 园yuan2 
+AUTHOR:
 FORMAT:
 ==(time)|=|==(feeling)(+)
 =(sense)=(scene)|=(color)=(scene)|=(action)(+)
@@ -124,7 +125,7 @@ FORMAT:
 ==(scene)|==(thing)=(action)(+)
 ==(thing)|==|=(action)(-)
 =(thing)=(action)|=(action)|=(thing)=(feeling)(-)
-EMOTION:轻快,随意,明朗
+EMOTIONS:轻快,随意,明朗
 CATEGORY:scenery
 COMPARISON:
 light vs heavy
@@ -139,7 +140,6 @@ BODY:
 波bo1 动dong4 压ya1 舷xian2 惊jing1
 
 
-
 ID: 06
 TITLE: 
 AUTHOR:
@@ -152,7 +152,7 @@ FORMAT:
 ==(action)|==|=(time)(+)
 ==(scene)|=(action)=(number)=(action)(+)
 ==|==(action)=(action)(+)
-EMOTION:轻快,洒脱,自然,轻松
+EMOTIONS:轻快,洒脱,自然,轻松
 CATEGORY:life,nature
 COMPARISON:
 calmness vs animals' action
@@ -171,7 +171,7 @@ BODY:
 
 ID: 07
 TITLE:集ji2 烟yan1 名ming2 
-AUTHOR:
+AUTHOR: 
 FORMAT:
 ==(human)|==(location)|=(human)
 =(action)=(human)|==(location)|=(location)
@@ -181,7 +181,7 @@ FORMAT:
 =(action)=(thing)|==(human)|=(action)(-)
 ==(time)|==(thing)|=(action)
 ==|=(action)|==(location)(+)
-EMOTION:倔强,坚强,欢快,乐观
+EMOTIONS:倔强,坚强,欢快,乐观
 CATEGORY:life,marriage,love
 COMPARISON:
 horse (masculinity) vs flower(femininity)
@@ -196,7 +196,6 @@ BODY:
 双shuang1 喜xi3 报bao4 前qian2 门men2
 
 
-
 ID: 08
 TITLE: 
 AUTHOR:
@@ -209,7 +208,7 @@ FORMAT:
 ==(scene)|=(action)|==(scene)(+)
 =(action)=|==|=(sense)(-)
 ==|=(action)|==(time)(-)
-EMOTION:洒脱,自然,惋惜
+EMOTIONS:洒脱,自然,惋惜
 CATEGORY:scenery,love
 COMPARISON:
 BODY:
@@ -236,8 +235,8 @@ FORMAT:
 =(action)=(thing)|=(action)=(number)=(human)(+)
 ==(scene)|==(action)=(thing)(+)
 ==(action)|=|==(action)(+)
-EMOTION:孤独,潇洒
-CATEGORY:friendship
+EMOTIONS:孤独,潇洒
+CATEGORY:friship
 COMPARISON:
 everywhere vs same dream
 BODY:
@@ -263,7 +262,7 @@ FORMAT:
 =(number)=(time)|=(action)|==(feeling)(-)
 ==(thing)|=|==(scene)(-)
 ==|=|=(color)=(thing)(-)
-EMOTION:感慨,叹息
+EMOTIONS:感慨,叹息
 CATEGORY:life,inspiration
 COMPARISON:
 emptiness vs reputation etc
@@ -283,7 +282,7 @@ BODY:
 
 ID: 11
 TITLE: 书shu1 奥ao4
-AUTHOR:
+AUTHOR: 
 FORMAT:
 =(number)=(thing)|===(thing)(-)
 =(action)=(thing)|=(action)==(thing)(-)
@@ -293,7 +292,7 @@ FORMAT:
 =(time)=|==(location)=(action)(+)
 ==(action)|===(scene)(-)
 ==|===(scene)(+)
-EMOTION:疯狂,迷乱
+EMOTIONS:疯狂,迷乱
 CATEGORY:
 COMPARISON:
 phoenix(female) vs dragon(male)
